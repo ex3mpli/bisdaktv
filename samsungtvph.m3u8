@@ -1,0 +1,277 @@
+#EXTM3U
+
+########################################################
+#                          #                           #
+#    -------------------   #  -----------------------  #
+#    Playlist by Exempli   #   SamsungTV Philippines   #
+#    -------------------   #  -----------------------  #
+#                          #                           #
+########################################################
+
+#EXTINF:-1 tvg-id="4020.euronews.world" tvg-name="4020 Euronews World" tvg-logo="https://placehold.co/100x100?text=4020%20Euronews%20World" group-title="SamsungTV PH",4020 Euronews World
+https://amg00882-amg00882c2-samsung-ph-4542.playouts.now.amagi.tv/playlist.m3u8
+
+#EXTINF:-1 tvg-id="4022.abante.radyo" tvg-name="4022 Abante Radyo" tvg-logo="https://placehold.co/100x100?text=4022%20Abante%20Radyo" group-title="SamsungTV PH",4022 Abante Radyo
+https://amg19223-amg19223c12-amgplt0352.playout.now3.amagi.tv/playlist/amg19223-amg19223c12-amgplt0352/playlist.m3u8
+
+#EXTINF:-1 tvg-id="4023.bilyonaryo.news.channel" tvg-name="4023 Bilyonaryo News Channel" tvg-logo="https://placehold.co/100x100?text=4023%20Bilyonaryo%20News%20Channel" group-title="SamsungTV PH",4023 Bilyonaryo News Channel
+https://amg19223-amg19223c11-amgplt0352.playout.now3.amagi.tv/playlist/amg19223-amg19223c11-amgplt0352/playlist.m3u8
+
+#EXTINF:-1 tvg-id="4024.leadstory.breaking.news" tvg-name="4024 Leadstory Breaking News" tvg-logo="https://placehold.co/100x100?text=4024%20Leadstory%20Breaking%20News" group-title="SamsungTV PH",4024 Leadstory Breaking News
+https://amg02703-amg02703c17-samsung-ph-4546.playouts.now.amagi.tv/playlist.m3u8
+
+#EXTINF:-1 tvg-id="4025.leaderboard.sports.news" tvg-name="4025 Leaderboard Sports News" tvg-logo="https://placehold.co/100x100?text=4025%20Leaderboard%20Sports%20News" group-title="SamsungTV PH",4025 Leaderboard Sports News
+https://amg02703-amg02703c20-samsung-ph-9157.playouts.now.amagi.tv/playlist.m3u8
+
+#EXTINF:-1 tvg-id="4027.france.24" tvg-name="4027 France 24" tvg-logo="https://placehold.co/100x100?text=4027%20France%2024" group-title="SamsungTV PH",4027 France 24
+https://amg00106-amg00106c1-samsung-ph-4550.playouts.now.amagi.tv/playlist.m3u8
+
+#EXTINF:-1 tvg-id="4028.leadstory.breaking.finance.news" tvg-name="4028 Leadstory Breaking Finance News" tvg-logo="https://placehold.co/100x100?text=4028%20Leadstory%20Breaking%20Finance%20News" group-title="SamsungTV PH",4028 Leadstory Breaking Finance News
+https://amg02703-amg02703c24-samsung-ph-11451.playouts.now.amagi.tv/playlist.m3u8
+
+#EXTINF:-1 tvg-id="4030.masterchef" tvg-name="4030 Masterchef" tvg-logo="https://placehold.co/100x100?text=4030%20Masterchef" group-title="SamsungTV PH",4030 Masterchef
+https://amg00627-amg00627c49-samsung-ph-8176.playouts.now.amagi.tv/playlist/amg00627-banijayfast-masterchefuk-samsungph/playlist.m3u8
+
+#EXTINF:-1 tvg-id="4033.hells.kitchen" tvg-name="4033 Hells Kitchen" tvg-logo="https://placehold.co/100x100?text=4033%20Hells%20Kitchen" group-title="SamsungTV PH",4033 Hells Kitchen
+https://amg00654-itv-amg00654c1-samsung-th-9581.playouts.now.amagi.tv/playlist.m3u8
+
+#EXTINF:-1 tvg-id="4036.world.of.love.island" tvg-name="4036 World of Love Island" tvg-logo="https://placehold.co/100x100?text=4036%20World%20of%20Love%20Island" group-title="SamsungTV PH",4036 World of Love Island
+https://amg00654-itv-amg00654c39-samsung-th-8169.playouts.now.amagi.tv/playlist.m3u8
+
+#EXTINF:-1 tvg-id="4050.the.hotel.inspector" tvg-name="4050 The Hotel Inspector" tvg-logo="https://placehold.co/100x100?text=4050%20The%20Hotel%20Inspector" group-title="SamsungTV PH",4050 The Hotel Inspector
+https://amg00654-itv-amg00654c4-samsung-th-8167.playouts.now.amagi.tv/playlist.m3u8
+
+#EXTINF:-1 tvg-id="4055.antiques.road.trip" tvg-name="4055 Antiques Road Trip" tvg-logo="https://placehold.co/100x100?text=4055%20Antiques%20Road%20Trip" group-title="SamsungTV PH",4055 Antiques Road Trip
+https://amg02333-pbs-amg02333c12-samsung-us-8496.playouts.now.amagi.tv/playlist.m3u8
+
+#EXTINF:-1 tvg-id="4064.kcm" tvg-name="4064 KCM" tvg-logo="https://placehold.co/100x100?text=4064%20KCM" group-title="SamsungTV PH",4064 KCM
+https://amg02159-amg02159c10-amgplt0352.playout.now3.amagi.tv/playlist.m3u8
+
+#EXTINF:-1 tvg-id="4065.ani.blast" tvg-name="4065 Ani Blast" tvg-logo="https://placehold.co/100x100?text=4065%20Ani%20Blast" group-title="SamsungTV PH",4065 Ani Blast
+https://amg19223-amg19223c9-amgplt0352.playout.now3.amagi.tv/playlist/amg19223-amg19223c9-amgplt0352/playlist.m3u8
+
+#EXTINF:-1 tvg-id="4066.aniplus" tvg-name="4066 Aniplus" tvg-logo="https://placehold.co/100x100?text=4066%20Aniplus" group-title="SamsungTV PH",4066 Aniplus
+https://amg18481-amg18481c1-amgplt0352.playout.now3.amagi.tv/playlist/amg18481-amg18481c1-amgplt0352/playlist.m3u8
+
+#EXTINF:-1 tvg-id="4067.animax" tvg-name="4067 Animax" tvg-logo="https://placehold.co/100x100?text=4067%20Animax" group-title="SamsungTV PH",4067 Animax
+https://amg02159-amg02159c9-amgplt0352.playout.now3.amagi.tv/ts-eu-w1-n2/playlist/amg02159-amg02159c9-amgplt0352/playlist.m3u8
+
+#EXTINF:-1 tvg-id="4070.mythbusters" tvg-name="4070 Mythbusters" tvg-logo="https://placehold.co/100x100?text=4070%20Mythbusters" group-title="SamsungTV PH",4070 Mythbusters
+https://amg00627-amg00627c14-samsung-ph-4556.playouts.now.amagi.tv/playlist/amg00627-banijayfast-mythbusters-samsungph/playlist.m3u8
+
+#EXTINF:-1 tvg-id="4071.zee.one.hd" tvg-name="4071 Zee One HD" tvg-logo="https://placehold.co/100x100?text=4071%20Zee%20One%20HD" group-title="SamsungTV PH",4071 Zee One HD
+https://amg17931-zee-amg17931c6-samsung-ph-6513.playouts.now.amagi.tv/playlist/amg17931-asiatvusaltdfast-zeeworld-samsungph/playlist.m3u8
+
+#EXTINF:-1 tvg-id="4073.survivor" tvg-name="4073 Survivor" tvg-logo="https://placehold.co/100x100?text=4073%20Survivor" group-title="SamsungTV PH",4073 Survivor
+https://amg00627-amg00627c16-samsung-ph-5303.playouts.now.amagi.tv/playlist/amg00627-banijayfast-survivor-samsungph/playlist.m3u8
+
+#EXTINF:-1 tvg-id="4075.highway.thru.hell" tvg-name="4075 Highway Thru Hell" tvg-logo="https://placehold.co/100x100?text=4075%20Highway%20Thru%20Hell" group-title="SamsungTV PH",4075 Highway Thru Hell
+https://amg00627-amg00627c15-samsung-ph-4559.playouts.now.amagi.tv/playlist/amg00627-banijayfast-highwaythruhell-samsungph/playlist.m3u8
+
+#EXTINF:-1 tvg-id="4076.the.biggest.loser" tvg-name="4076 The Biggest Loser" tvg-logo="https://placehold.co/100x100?text=4076%20The%20Biggest%20Loser" group-title="SamsungTV PH",4076 The Biggest Loser
+https://amg00627-amg00627c4-samsung-ph-5275.playouts.now.amagi.tv/playlist/amg00627-banijayfast-thebiggestloser-samsungph/playlist.m3u8
+
+#EXTINF:-1 tvg-id="4078.fear.factor" tvg-name="4078 Fear Factor" tvg-logo="https://placehold.co/100x100?text=4078%20Fear%20Factor" group-title="SamsungTV PH",4078 Fear Factor
+https://amg00627-amg00627c2-samsung-ph-5298.playouts.now.amagi.tv/playlist/amg00627-banijayfast-fearfactor-samsungph/playlist.m3u8
+
+#EXTINF:-1 tvg-id="4079.the.graham.norton.show" tvg-name="4079 The Graham Norton Show" tvg-logo="https://placehold.co/100x100?text=4079%20The%20Graham%20Norton%20Show" group-title="SamsungTV PH",4079 The Graham Norton Show
+https://amg00654-itv-amg00654c35-samsung-th-9580.playouts.now.amagi.tv/playlist.m3u8
+
+#EXTINF:-1 tvg-id="4081.hardcore.pawn" tvg-name="4081 Hardcore Pawn" tvg-logo="https://placehold.co/100x100?text=4081%20Hardcore%20Pawn" group-title="SamsungTV PH",4081 Hardcore Pawn
+https://amg00627-amg00627c8-samsung-ph-5278.playouts.now.amagi.tv/playlist/amg00627-banijayfast-hardcorepawn-samsungph/playlist.m3u8
+
+#EXTINF:-1 tvg-id="4083.wipeout.xtra" tvg-name="4083 Wipeout Xtra" tvg-logo="https://placehold.co/100x100?text=4083%20Wipeout%20Xtra" group-title="SamsungTV PH",4083 Wipeout Xtra
+https://amg00627-amg00627c7-samsung-ph-5300.playouts.now.amagi.tv/playlist/amg00627-banijayfast-wipeoutxtra-samsungph/playlist.m3u8
+
+#EXTINF:-1 tvg-id="4085.river.monsters.by.itv.studios" tvg-name="4085 River Monsters by ITV Studios" tvg-logo="https://placehold.co/100x100?text=4085%20River%20Monsters%20by%20ITV%20Studios" group-title="SamsungTV PH",4085 River Monsters by ITV Studios
+https://amg00654-itv-amg00654c12-samsung-ph-4580.playouts.now.amagi.tv/playlist.m3u8
+
+#EXTINF:-1 tvg-id="4087.unsolved.mysterys" tvg-name="4087 Unsolved Mysterys" tvg-logo="https://placehold.co/100x100?text=4087%20Unsolved%20Mysterys" group-title="SamsungTV PH",4087 Unsolved Mysterys
+https://d1si3n1st4nkgb.cloudfront.net/10000/88258000/hls/master.m3u8?ads.xumo_channelId=88258000
+
+#EXTINF:-1 tvg-id="4088.deal.or.no.deal" tvg-name="4088 Deal or No Deal" tvg-logo="https://placehold.co/100x100?text=4088%20Deal%20or%20No%20Deal" group-title="SamsungTV PH",4088 Deal or No Deal
+https://amg00627-amg00627c21-samsung-ph-5284.playouts.now.amagi.tv/playlist/amg00627-banijayfast-dealornodealrow-samsungph/playlist.m3u8
+
+#EXTINF:-1 tvg-id="4089.pointless.by.banijay" tvg-name="4089 Pointless by Banijay" tvg-logo="https://placehold.co/100x100?text=4089%20Pointless%20by%20Banijay" group-title="SamsungTV PH",4089 Pointless by Banijay
+https://amg00627-amg00627c34-samsung-ph-5313.playouts.now.amagi.tv/playlist/amg00627-banijayfast-pointless-samsungph/playlist.m3u8
+
+#EXTINF:-1 tvg-id="4090.don.t.tell.the.bride" tvg-name="4090 Don't Tell the Bride" tvg-logo="https://placehold.co/100x100?text=4090%20Don't%20Tell%20the%20Bride" group-title="SamsungTV PH",4090 Don't Tell the Bride
+https://amg00426-lds-amg00426c15-samsung-ph-4614.playouts.now.amagi.tv/playlist.m3u8
+
+#EXTINF:-1 tvg-id="4095.dr.g.medical.examiner" tvg-name="4095 Dr G Medical Examiner" tvg-logo="https://placehold.co/100x100?text=4095%20Dr%20G%20Medical%20Examiner" group-title="SamsungTV PH",4095 Dr G Medical Examiner
+https://d1si3n1st4nkgb.cloudfront.net/10000/88258001/hls/master.m3u8?ads.xumo_channelId=88258001
+
+#EXTINF:-1 tvg-id="4096.hot.ones" tvg-name="4096 Hot Ones" tvg-logo="https://placehold.co/100x100?text=4096%20Hot%20Ones" group-title="SamsungTV PH",4096 Hot Ones
+https://d1si3n1st4nkgb.cloudfront.net/10000/88258002/hls/master.m3u8?ads.xumo_channelId=88258002
+
+#EXTINF:-1 tvg-id="4097.come.dine.with.me" tvg-name="4097 Come Dine With Me" tvg-logo="https://placehold.co/100x100?text=4097%20Come%20Dine%20With%20Me" group-title="SamsungTV PH",4097 Come Dine With Me
+https://amg00654-itv-amg00654c2-samsung-ph-4583.playouts.now.amagi.tv/playlist.m3u8
+
+#EXTINF:-1 tvg-id="4098.infast" tvg-name="4098 Infast" tvg-logo="https://placehold.co/100x100?text=4098%20Infast" group-title="SamsungTV PH",4098 Infast
+https://amg00861-amg00861c8-samsung-ph-4629.playouts.now.amagi.tv/playlist.m3u8
+
+#EXTINF:-1 tvg-id="4099.inwild" tvg-name="4099 Inwild" tvg-logo="https://placehold.co/100x100?text=4099%20Inwild" group-title="SamsungTV PH",4099 Inwild
+https://amg00861-amg00861c7-samsung-ph-4632.playouts.now.amagi.tv/playlist.m3u8
+
+#EXTINF:-1 tvg-id="4109.pet.club.tv" tvg-name="4109 Pet Club TV" tvg-logo="https://placehold.co/100x100?text=4109%20Pet%20Club%20TV" group-title="SamsungTV PH",4109 Pet Club TV
+https://amg01076-amg01076c10-samsung-ph-7605.playouts.now.amagi.tv/playlist.m3u8
+
+#EXTINF:-1 tvg-id="4115.k.content.by.cjenm.in.substitute" tvg-name="4115 K-Content by CJENM  (IN) Substitute" tvg-logo="https://placehold.co/100x100?text=4115%20K-Content%20by%20CJENM%20%20(IN)%20Substitute" group-title="SamsungTV PH",4115 K-Content by CJENM  (IN) Substitute
+https://cc-o7iz6ey4x2e4g.akamaized.net/v1/master/3722c60a815c199d9c0ef36c5b73da68a62b09d1/cc-o7iz6ey4x2e4g/68fee8e1_605a_437b_b968_244c3c0d5f24/hls/playlist.m3u8?ads.device_did=%7BPSID%7D&ads.device_dnt=%7BTARGETOPT%7D&ads.app_domain=%7BAPP_DOMAIN%7D&ads.app_name=%7BAPP_NAME%7D&ads.ssai_vendor=SSSLIVE&ads.afsdk_params=%7BAFSDK_VALUE%7D&ads.service_id=IN49000103E
+
+#EXTINF:-1 tvg-id="4116.k.food.by.cjenm.in.substitute" tvg-name="4116 K-Food by CJENM (IN) Substitute" tvg-logo="https://placehold.co/100x100?text=4116%20K-Food%20by%20CJENM%20(IN)%20Substitute" group-title="SamsungTV PH",4116 K-Food by CJENM (IN) Substitute
+https://cc-nwusx3jrgn2t8.akamaized.net/v1/master/3722c60a815c199d9c0ef36c5b73da68a62b09d1/cc-nwusx3jrgn2t8/b2c874a8_68b3_49cb_9435_0264a4d32e4a/hls/playlist.m3u8?ads.device_did=%7BPSID%7D&ads.device_dnt=%7BTARGETOPT%7D&ads.app_domain=%7BAPP_DOMAIN%7D&ads.app_name=%7BAPP_NAME%7D&ads.ssai_vendor=SSSLIVE&ads.afsdk_params=%7BAFSDK_VALUE%7D&ads.service_id=IN490000951
+
+#EXTINF:-1 tvg-id="4130.real.crime" tvg-name="4130 Real Crime" tvg-logo="https://placehold.co/100x100?text=4130%20Real%20Crime" group-title="SamsungTV PH",4130 Real Crime
+https://amg00426-lds-amg00426c16-samsung-ph-4620.playouts.now.amagi.tv/playlist.m3u8
+
+#EXTINF:-1 tvg-id="4140.history.hit" tvg-name="4140 History Hit" tvg-logo="https://placehold.co/100x100?text=4140%20History%20Hit" group-title="SamsungTV PH",4140 History Hit
+https://amg00426-lds-amg00426c2-samsung-ph-4623.playouts.now.amagi.tv/playlist.m3u8
+
+#EXTINF:-1 tvg-id="4145.glitch.plus" tvg-name="4145 Glitch Plus" tvg-logo="https://placehold.co/100x100?text=4145%20Glitch%20Plus" group-title="SamsungTV PH",4145 Glitch Plus
+https://amg07653-apmc-amg07653c3-samsung-ph-8466.playouts.now.amagi.tv/playlist.m3u8
+
+#EXTINF:-1 tvg-id="4155.dude.perfect" tvg-name="4155 Dude Perfect" tvg-logo="https://placehold.co/100x100?text=4155%20Dude%20Perfect" group-title="SamsungTV PH",4155 Dude Perfect
+https://amg07653-apmc-amg07653c4-samsung-ph-8465.playouts.now.amagi.tv/playlist.m3u8
+
+#EXTINF:-1 tvg-id="4156.evolution.earth" tvg-name="4156 Evolution Earth" tvg-logo="https://placehold.co/100x100?text=4156%20Evolution%20Earth" group-title="SamsungTV PH",4156 Evolution Earth
+https://amg26277-amg26277c6-samsung-ph-11091.playouts.now.amagi.tv/playlist.m3u8
+
+#EXTINF:-1 tvg-id="4160.real.wild" tvg-name="4160 Real Wild" tvg-logo="https://placehold.co/100x100?text=4160%20Real%20Wild" group-title="SamsungTV PH",4160 Real Wild
+https://amg00426-lds-amg00426c1-samsung-ph-4626.playouts.now.amagi.tv/playlist.m3u8
+
+#EXTINF:-1 tvg-id="4161.wild.stuff" tvg-name="4161 Wild Stuff" tvg-logo="https://placehold.co/100x100?text=4161%20Wild%20Stuff" group-title="SamsungTV PH",4161 Wild Stuff
+https://amg01076-amg01076c8-samsung-ph-5639.playouts.now.amagi.tv/playlist.m3u8
+
+#EXTINF:-1 tvg-id="4171.comic.u" tvg-name="4171 Comic U" tvg-logo="https://placehold.co/100x100?text=4171%20Comic%20U" group-title="SamsungTV PH",4171 Comic U
+https://amg19223-amg19223c8-amgplt0351.playout.now3.amagi.tv/playlist/amg19223-amg19223c8-amgplt0351/playlist.m3u8
+
+#EXTINF:-1 tvg-id="4181.blast.movies" tvg-name="4181 Blast Movies" tvg-logo="https://placehold.co/100x100?text=4181%20Blast%20Movies" group-title="SamsungTV PH",4181 Blast Movies
+https://amg19223-amg19223c7-amgplt0351.playout.now3.amagi.tv/playlist/amg19223-amg19223c7-amgplt0351/playlist.m3u8
+
+#EXTINF:-1 tvg-id="4186.free.movies" tvg-name="4186 Free Movies" tvg-logo="https://placehold.co/100x100?text=4186%20Free%20Movies" group-title="SamsungTV PH",4186 Free Movies
+https://amg01553-amg01553c2-samsung-ph-7163.playouts.now.amagi.tv/playlist.m3u8
+
+#EXTINF:-1 tvg-id="4187.wedo.tv.movies" tvg-name="4187 Wedo TV Movies" tvg-logo="https://placehold.co/100x100?text=4187%20Wedo%20TV%20Movies" group-title="SamsungTV PH",4187 Wedo TV Movies
+https://amg00735-amg00735c46-samsung-sg-11189.playouts.now.amagi.tv/playlist.m3u8
+
+#EXTINF:-1 tvg-id="4191.action.hollywood.movies" tvg-name="4191 Action Hollywood Movies" tvg-logo="https://placehold.co/100x100?text=4191%20Action%20Hollywood%20Movies" group-title="SamsungTV PH",4191 Action Hollywood Movies
+https://amg01076-amg01076c4-samsung-ph-5316.playouts.now.amagi.tv/playlist.m3u8
+
+#EXTINF:-1 tvg-id="4192.rcm.movies" tvg-name="4192 RCM Movies" tvg-logo="https://placehold.co/100x100?text=4192%20RCM%20Movies" group-title="SamsungTV PH",4192 RCM Movies
+https://amg01076-amg01076c11-samsung-ph-5322.playouts.now.amagi.tv/playlist.m3u8
+
+#EXTINF:-1 tvg-id="4430.intravel" tvg-name="4430 InTravel" tvg-logo="https://placehold.co/100x100?text=4430%20InTravel" group-title="SamsungTV PH",4430 InTravel
+https://amg00861-amg00861c22-samsung-ph-5411.playouts.now.amagi.tv/playlist.m3u8
+
+#EXTINF:-1 tvg-id="4505.duck.dynasty" tvg-name="4505 Duck Dynasty" tvg-logo="https://placehold.co/100x100?text=4505%20Duck%20Dynasty" group-title="SamsungTV PH",4505 Duck Dynasty
+https://amg26277-amg26277c2-samsung-ph-11103.playouts.now.amagi.tv/playlist.m3u8
+
+#EXTINF:-1 tvg-id="4507.dog.the.bounty.hunter" tvg-name="4507 Dog the Bounty Hunter" tvg-logo="https://placehold.co/100x100?text=4507%20Dog%20the%20Bounty%20Hunter" group-title="SamsungTV PH",4507 Dog the Bounty Hunter
+https://amg26277-amg26277c13-samsung-ph-11095.playouts.now.amagi.tv/playlist.m3u8
+
+#EXTINF:-1 tvg-id="4513.bring.it." tvg-name="4513 Bring IT!" tvg-logo="https://placehold.co/100x100?text=4513%20Bring%20IT!" group-title="SamsungTV PH",4513 Bring IT!
+https://amg26277-amg26277c14-samsung-ph-11099.playouts.now.amagi.tv/playlist.m3u8
+
+#EXTINF:-1 tvg-id="4515.little.women.la" tvg-name="4515 Little Women LA" tvg-logo="https://placehold.co/100x100?text=4515%20Little%20Women%20LA" group-title="SamsungTV PH",4515 Little Women LA
+https://amg26277-amg26277c4-samsung-ph-11088.playouts.now.amagi.tv/playlist.m3u8
+
+#EXTINF:-1 tvg-id="4600.blast.sports" tvg-name="4600 Blast Sports" tvg-logo="https://placehold.co/100x100?text=4600%20Blast%20Sports" group-title="SamsungTV PH",4600 Blast Sports
+https://amg19223-amg19223c1-amgplt0351.playout.now3.amagi.tv/playlist/amg19223-amg19223c1-amgplt0351/playlist.m3u8
+
+#EXTINF:-1 tvg-id="4601.premier.sports" tvg-name="4601 Premier Sports" tvg-logo="https://placehold.co/100x100?text=4601%20Premier%20Sports" group-title="SamsungTV PH",4601 Premier Sports
+https://amg19223-amg19223c3-amgplt0351.playout.now3.amagi.tv/playlist/amg19223-amg19223c3-amgplt0351/playlist.m3u8
+
+#EXTINF:-1 tvg-id="4602.tap.sports" tvg-name="4602 Tap Sports" tvg-logo="https://placehold.co/100x100?text=4602%20Tap%20Sports" group-title="SamsungTV PH",4602 Tap Sports
+https://amg19223-amg19223c2-amgplt0351.playout.now3.amagi.tv/ts-eu-w1-n2/playlist/amg19223-amg19223c2-amgplt0351/playlist.m3u8
+
+#EXTINF:-1 tvg-id="4603.premier.sports.2" tvg-name="4603 Premier Sports 2" tvg-logo="https://placehold.co/100x100?text=4603%20Premier%20Sports%202" group-title="SamsungTV PH",4603 Premier Sports 2
+https://amg19223-amg19223c4-amgplt0351.playout.now3.amagi.tv/playlist/amg19223-amg19223c4-amgplt0351/playlist.m3u8
+
+#EXTINF:-1 tvg-id="4604.fight.plus" tvg-name="4604 Fight Plus" tvg-logo="https://placehold.co/100x100?text=4604%20Fight%20Plus" group-title="SamsungTV PH",4604 Fight Plus
+https://amg19223-amg19223c6-amgplt0351.playout.now3.amagi.tv/playlist/amg19223-amg19223c6-amgplt0351/playlist.m3u8
+
+#EXTINF:-1 tvg-id="4621.tennis." tvg-name="4621 Tennis+" tvg-logo="https://placehold.co/100x100?text=4621%20Tennis%2B" group-title="SamsungTV PH",4621 Tennis+
+https://amg01935-amg01935c1-amgplt0352.playout.now3.amagi.tv/playlist/amg01935-amg01935c1-amgplt0352/playlist.m3u8
+
+#EXTINF:-1 tvg-id="4625.red.bull.tv" tvg-name="4625 Red Bull TV" tvg-logo="https://placehold.co/100x100?text=4625%20Red%20Bull%20TV" group-title="SamsungTV PH",4625 Red Bull TV
+https://d3k3xxewhm1my2.cloudfront.net/playlist.m3u8
+
+#EXTINF:-1 tvg-id="4631.unbeaten" tvg-name="4631 Unbeaten" tvg-logo="https://placehold.co/100x100?text=4631%20Unbeaten" group-title="SamsungTV PH",4631 Unbeaten
+https://amg00721-amg00721c6-samsung-ph-7082.playouts.now.amagi.tv/playlist/amg00721-inverleigh-unbtn3row-samsungph/playlist.m3u8
+
+#EXTINF:-1 tvg-id="4635.wedo.tv.sports" tvg-name="4635 Wedo TV Sports" tvg-logo="https://placehold.co/100x100?text=4635%20Wedo%20TV%20Sports" group-title="SamsungTV PH",4635 Wedo TV Sports
+https://amg00735-amg00735c45-samsung-au-11188.playouts.now.amagi.tv/playlist.m3u8
+
+#EXTINF:-1 tvg-id="4665.trace.sports.stars" tvg-name="4665 Trace Sports Stars" tvg-logo="https://placehold.co/100x100?text=4665%20Trace%20Sports%20Stars" group-title="SamsungTV PH",4665 Trace Sports Stars
+https://amg01131-amg01131c2-samsung-ph-7609.playouts.now.amagi.tv/playlist.m3u8
+
+#EXTINF:-1 tvg-id="4850.now.70s" tvg-name="4850 Now 70s" tvg-logo="https://placehold.co/100x100?text=4850%20Now%2070s" group-title="SamsungTV PH",4850 Now 70s
+https://amg01076-amg01076c1-samsung-ph-6994.playouts.now.amagi.tv/playlist.m3u8
+
+#EXTINF:-1 tvg-id="4851.now.80s" tvg-name="4851 Now 80s" tvg-logo="https://placehold.co/100x100?text=4851%20Now%2080s" group-title="SamsungTV PH",4851 Now 80s
+https://amg01076-amg01076c2-samsung-ph-6998.playouts.now.amagi.tv/playlist.m3u8
+
+#EXTINF:-1 tvg-id="4852.now.rock" tvg-name="4852 Now Rock" tvg-logo="https://placehold.co/100x100?text=4852%20Now%20Rock" group-title="SamsungTV PH",4852 Now Rock
+https://amg01076-amg01076c3-samsung-ph-7003.playouts.now.amagi.tv/playlist.m3u8
+
+#EXTINF:-1 tvg-id="4856.kpop.by.cjenm.in.substitute" tvg-name="4856 Kpop by CJENM (IN) Substitute" tvg-logo="https://placehold.co/100x100?text=4856%20Kpop%20by%20CJENM%20(IN)%20Substitute" group-title="SamsungTV PH",4856 Kpop by CJENM (IN) Substitute
+https://cc-s23bl4el34qh7.akamaized.net/v1/master/3722c60a815c199d9c0ef36c5b73da68a62b09d1/cc-s23bl4el34qh7/f4acc9ba_daae_4ed0_b836_32126cead919/hls/playlist.m3u8?ads.device_did=%7BPSID%7D&ads.device_dnt=%7BTARGETOPT%7D&ads.app_domain=%7BAPP_DOMAIN%7D&ads.app_name=%7BAPP_NAME%7D&ads.ssai_vendor=SSSLIVE&ads.afsdk_params=%7BAFSDK_VALUE%7D&ads.service_id=IN3800006RD
+
+#EXTINF:-1 tvg-id="4857.kmusic.in.substitute" tvg-name="4857 @Kmusic (IN) Substitute" tvg-logo="https://placehold.co/100x100?text=4857%20%40Kmusic%20(IN)%20Substitute" group-title="SamsungTV PH",4857 @Kmusic (IN) Substitute
+https://ads.its-newid.net/api/manifest.m3u8?tp=samsung_tvplus&channel_name=%40k-music&channel_id=newid_277&apikey=b97c7a7d0c82424bb607e141ef215779&auth=8047e75c-de975cb9-46a9680e-d55eeb66&ads.live=%5BCONTENT_LIVE%5D&ads.device_did=%7BPSID%7D&ads.ifa=%5BIFA%5D&ads.ifatype=%5BIFA_TYPE%5D&ads.lat=%5BLMT%5D&ads.donotsell=%5BDNS%5D&ads.ip=%5BIP%5D&ads.gdpr=%5BGDPR%5D&ads.gdprconsent=%5BGDPR_CONSENT%5D&ads.country=%5BCOUNTRY%5D&ads.us_privacy=%5BUS_PRIVACY%5D&ads.appstoreurl=%5BAPP_STOREURL%5D&ads.bundleid=%5BAPP_BUNDLE%5D&ads.app.name=%7BAPP_NAME%7D&ads.appversion=%5BAPP_VERSION%5D&ads.devicetype=%5BDEVICE_TYPE%5D&ads.devicemake=%5BDEVICE_MAKE%5D&ads.devicemodel=%5BDEVICE_MODEL%5D&ads.targetad=%5BTARGETAD_ALLOWED%5D&ads.content_title=%5BPROGRAM_TITLE%5D&ads.content_series=%5BSERIES_TITLE%5D&ads.content_season=%5BSEASON_TITLE%5D&ads.content_episode=%5BEPISODE_NO%5D&ads.content_length=%5BCONTENT_LENGTH%5D&ads.device.dnt=%7BTARGETOPT%7D&ads.app_domain=%7BAPP_DOMAIN%7D&nh=true&ads.device_dnt=%7BTARGETOPT%7D&ads.app_name=%7BAPP_NAME%7D&ads.ssai_vendor=SSSLIVE&ads.afsdk_params=%7BAFSDK_VALUE%7D&ads.service_id=IN4900011OU
+
+#EXTINF:-1 tvg-id="4860.trace.urban" tvg-name="4860 Trace Urban" tvg-logo="https://placehold.co/100x100?text=4860%20Trace%20Urban" group-title="SamsungTV PH",4860 Trace Urban
+https://amg01131-amg01131c1-samsung-ph-5310.playouts.now.amagi.tv/playlist.m3u8
+
+#EXTINF:-1 tvg-id="4871.stingray.pop.adult" tvg-name="4871 Stingray Pop Adult" tvg-logo="https://placehold.co/100x100?text=4871%20Stingray%20Pop%20Adult" group-title="SamsungTV PH",4871 Stingray Pop Adult
+https://d1si3n1st4nkgb.cloudfront.net/10000/88258008/hls/master.m3u8?ads.xumo_channelId=88258008
+
+#EXTINF:-1 tvg-id="4872.stingray.2000s" tvg-name="4872 Stingray 2000s" tvg-logo="https://placehold.co/100x100?text=4872%20Stingray%202000s" group-title="SamsungTV PH",4872 Stingray 2000s
+https://d1si3n1st4nkgb.cloudfront.net/10000/88258009/hls/master.m3u8?ads.xumo_channelId=88258009
+
+#EXTINF:-1 tvg-id="4873.stingray.greatest.hits" tvg-name="4873 Stingray Greatest Hits" tvg-logo="https://placehold.co/100x100?text=4873%20Stingray%20Greatest%20Hits" group-title="SamsungTV PH",4873 Stingray Greatest Hits
+https://lotus.stingray.com/manifest/ose-155ads-montreal/samsungtvplus/master.m3u8
+
+#EXTINF:-1 tvg-id="4874.stingray.classic.rock" tvg-name="4874 Stingray Classic Rock" tvg-logo="https://placehold.co/100x100?text=4874%20Stingray%20Classic%20Rock" group-title="SamsungTV PH",4874 Stingray Classic Rock
+https://lotus.stingray.com/manifest/ose-101ads-montreal/samsungtvplus/master.m3u8
+
+#EXTINF:-1 tvg-id="4875.stingray.spa" tvg-name="4875 Stingray SPA" tvg-logo="https://placehold.co/100x100?text=4875%20Stingray%20SPA" group-title="SamsungTV PH",4875 Stingray SPA
+https://lotus.stingray.com/manifest/ose-122ads-montreal/samsungtvplus/master.m3u8
+
+#EXTINF:-1 tvg-id="4876.stingray.easy.listening" tvg-name="4876 Stingray Easy Listening" tvg-logo="https://placehold.co/100x100?text=4876%20Stingray%20Easy%20Listening" group-title="SamsungTV PH",4876 Stingray Easy Listening
+https://lotus.stingray.com/manifest/ose-137ads-montreal/samsungtvplus/master.m3u8
+
+#EXTINF:-1 tvg-id="4877.stingray.hit.list" tvg-name="4877 Stingray Hit list" tvg-logo="https://placehold.co/100x100?text=4877%20Stingray%20Hit%20list" group-title="SamsungTV PH",4877 Stingray Hit list
+https://d1si3n1st4nkgb.cloudfront.net/10000/88258007/hls/master.m3u8?ads.xumo_channelId=88258007
+
+#EXTINF:-1 tvg-id="4879.stingray.todays.k.pop" tvg-name="4879 Stingray Todays K-Pop" tvg-logo="https://placehold.co/100x100?text=4879%20Stingray%20Todays%20K-Pop" group-title="SamsungTV PH",4879 Stingray Todays K-Pop
+https://lotus.stingray.com/manifest/ose-317ads-montreal/samsungtvplus/master.m3u8
+
+#EXTINF:-1 tvg-id="4880.time2rlx" tvg-name="4880 Time2Rlx" tvg-logo="https://placehold.co/100x100?text=4880%20Time2Rlx" group-title="SamsungTV PH",4880 Time2Rlx
+https://amg00735-amg00735c51-samsung-au-11187.playouts.now.amagi.tv/playlist.m3u8
+
+#EXTINF:-1 tvg-id="4930.kidoodle.tv" tvg-name="4930 Kidoodle TV" tvg-logo="https://placehold.co/100x100?text=4930%20Kidoodle%20TV" group-title="SamsungTV PH",4930 Kidoodle TV
+https://amg07653-apmc-amg07653c5-samsung-ph-8539.playouts.now.amagi.tv/playlist.m3u8
+
+#EXTINF:-1 tvg-id="4933.strawberry.shortcake" tvg-name="4933 Strawberry Shortcake" tvg-logo="https://placehold.co/100x100?text=4933%20Strawberry%20Shortcake" group-title="SamsungTV PH",4933 Strawberry Shortcake
+https://d1si3n1st4nkgb.cloudfront.net/10000/88258006/hls/master.m3u8?ads.xumo_channelId=88258006
+
+#EXTINF:-1 tvg-id="4934.sonic.the.hedgehog" tvg-name="4934 Sonic the Hedgehog" tvg-logo="https://placehold.co/100x100?text=4934%20Sonic%20the%20Hedgehog" group-title="SamsungTV PH",4934 Sonic the Hedgehog
+https://d1si3n1st4nkgb.cloudfront.net/10000/88258004/hls/master.m3u8?ads.xumo_channelId=88258004
+
+#EXTINF:-1 tvg-id="4935.super.mario" tvg-name="4935 Super Mario" tvg-logo="https://placehold.co/100x100?text=4935%20Super%20Mario" group-title="SamsungTV PH",4935 Super Mario
+https://d1si3n1st4nkgb.cloudfront.net/10000/88258005/hls/master.m3u8?ads.xumo_channelId=88258005
+
+#EXTINF:-1 tvg-id="4936.teletubbies" tvg-name="4936 Teletubbies" tvg-logo="https://placehold.co/100x100?text=4936%20Teletubbies" group-title="SamsungTV PH",4936 Teletubbies
+https://d1si3n1st4nkgb.cloudfront.net/10000/88258003/hls/master.m3u8?ads.xumo_channelId=88258003
+
+#EXTINF:-1 tvg-id="4938.pop" tvg-name="4938 Pop" tvg-logo="https://placehold.co/100x100?text=4938%20Pop" group-title="SamsungTV PH",4938 Pop
+https://amg01753-amg01753c6-samsung-au-6678.playouts.now.amagi.tv/playlist.m3u8
+
+#EXTINF:-1 tvg-id="cbs.news.24x7.unlisted." tvg-name="CBS News 24x7 (Unlisted)" tvg-logo="https://placehold.co/100x100?text=CBS%20News%2024x7%20(Unlisted)" group-title="SamsungTV PH",CBS News 24x7 (Unlisted)
+https://amg02703-amg02703c22-samsung-ph-11448.playouts.now.amagi.tv/playlist.m3u8
+
+#EXTINF:-1 tvg-id="introuble.not.listed" tvg-name="InTrouble NOT listed" tvg-logo="https://placehold.co/100x100?text=InTrouble%20NOT%20listed" group-title="SamsungTV PH",InTrouble NOT listed
+https://amg00861-amg00861c6-samsung-ph-4635.playouts.now.amagi.tv/playlist.m3u8
+
