@@ -1,0 +1,125 @@
+#EXTM3U billed-msg="Provided by Exempli"
+
+#######################################################
+#                          #                          #
+#    -------------------   #  ----------------------  #
+#    Playlist by Exempli   #           IPTV           #
+#    -------------------   #  ----------------------  #
+#                          #                          #
+#######################################################
+
+#EXTINF:-1 tvg-id="axn" ch-number="1" tvg-name="AXN" tvg-logo="https://placehold.co/100x100?text=AXN" group-title="IndiHomeTV",AXN
+https://cdnbal1.indihometv.com/atm/DASH/axn/manifest.mpd
+
+#EXTINF:-1 tvg-id="bali.tv" ch-number="1" tvg-name="Bali TV" tvg-logo="https://placehold.co/100x100?text=Bali%20TV" group-title="IndiHomeTV",Bali TV
+https://cdnbal1.indihometv.com/atm/DASH/balitv/manifest.mpd
+
+#EXTINF:-1 tvg-id="berita.satu" ch-number="1" tvg-name="Berita Satu" tvg-logo="https://placehold.co/100x100?text=Berita%20Satu" group-title="IndiHomeTV",Berita Satu
+https://cdnbal1.indihometv.com/atm/DASH/beritasatu/manifest.mpd
+
+#EXTINF:-1 tvg-id="BTV.id" ch-number="1" tvg-name="BTV" tvg-logo="https://placehold.co/100x100?text=BTV%20%F0%9F%87%AE%F0%9F%87%A9" group-title="IndiHomeTV",BTV
+#EXTVLCOPT:http-header-User-Agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:151.0) Gecko/20100101 Firefox/151.0
+https://cdnbal1.indihometv.com/atm/DASH/beritasatu/manifest.mpd
+
+#EXTINF:-1 tvg-id="cbeebies" ch-number="1" tvg-name="CBeebies" tvg-logo="https://placehold.co/100x100?text=CBeebies" group-title="IndiHomeTV",CBeebies
+https://cdnbal1.indihometv.com/atm/DASH/cbeebies/manifest.mpd
+
+#EXTINF:-1 tvg-id="cinemax" ch-number="1" tvg-name="Cinemax" tvg-logo="https://placehold.co/100x100?text=Cinemax" group-title="IndiHomeTV",Cinemax
+https://cdnbal1.indihometv.com/atm/DASH/cinemax/manifest.mpd
+
+#EXTINF:-1 tvg-id="discovery.channel" ch-number="1" tvg-name="Discovery Channel" tvg-logo="https://placehold.co/100x100?text=Discovery%20Channel" group-title="IndiHomeTV",Discovery Channel
+https://cdnbal1.indihometv.com/atm/DASH/disco/manifest.mpd
+
+#EXTINF:-1 tvg-id="fashion.tv" ch-number="1" tvg-name="Fashion TV" tvg-logo="https://placehold.co/100x100?text=Fashion%20TV" group-title="IndiHomeTV",Fashion TV
+https://cdnbal1.indihometv.com/atm/DASH/fashiontv/manifest.mpd
+
+#EXTINF:-1 tvg-id="fight.sport" ch-number="1" tvg-name="Fight Sport" tvg-logo="https://placehold.co/100x100?text=Fight%20Sport" group-title="IndiHomeTV",Fight Sport
+https://cdnbal1.indihometv.com/atm/DASH/fightsport/manifest.mpd
+
+#EXTINF:-1 tvg-id="hits" ch-number="1" tvg-name="HITS" tvg-logo="https://placehold.co/100x100?text=HITS" group-title="IndiHomeTV",HITS
+https://cdnbal1.indihometv.com/atm/DASH/hits/manifest.mpd
+
+#EXTINF:-1 tvg-id="hits.movies" ch-number="1" tvg-name="HITS Movies" tvg-logo="https://placehold.co/100x100?text=HITS%20Movies" group-title="IndiHomeTV",HITS Movies
+https://cdnbal1.indihometv.com/atm/DASH/hitsmovie/manifest.mpd
+
+#EXTINF:-1 tvg-id="idx" ch-number="1" tvg-name="IDX" tvg-logo="https://placehold.co/100x100?text=IDX" group-title="IndiHomeTV",IDX
+https://cdnbal1.indihometv.com/atm/DASH/idx/manifest.mpd
+
+#EXTINF:-1 tvg-id="indosiar" ch-number="1" tvg-name="Indosiar" tvg-logo="https://placehold.co/100x100?text=Indosiar" group-title="IndiHomeTV",Indosiar
+https://cdnbal1.indihometv.com/atm/DASH/indosiar/manifest.mpd
+
+#EXTINF:-1 tvg-id="inews" ch-number="1" tvg-name="iNews" tvg-logo="https://placehold.co/100x100?text=iNews" group-title="IndiHomeTV",iNews
+https://cdnbal1.indihometv.com/atm/DASH/inews/manifest.mpd
+
+#EXTINF:-1 tvg-id="jak.tv" ch-number="1" tvg-name="Jak TV" tvg-logo="https://placehold.co/100x100?text=Jak%20TV" group-title="IndiHomeTV",Jak TV
+https://cdnbal1.indihometv.com/atm/DASH/JAK_TV/manifest.mpd
+
+#EXTINF:-1 tvg-id="jawa.pos" ch-number="1" tvg-name="Jawa Pos" tvg-logo="https://placehold.co/100x100?text=Jawa%20Pos" group-title="IndiHomeTV",Jawa Pos
+https://cdnbal1.indihometv.com/atm/DASH/jawapos/manifest.mpd
+
+#EXTINF:-1 tvg-id="jtv" ch-number="1" tvg-name="JTV" tvg-logo="https://placehold.co/100x100?text=JTV" group-title="IndiHomeTV",JTV
+https://cdnbal1.indihometv.com/atm/DASH/jtv/manifest.mpd
+
+#EXTINF:-1 tvg-id="k." ch-number="1" tvg-name="K+" tvg-logo="https://placehold.co/100x100?text=K%2B" group-title="IndiHomeTV",K+
+https://cdnbal1.indihometv.com/atm/DASH/kplus/kplus-avc1_2500000=7-3277707030000000.mpd
+
+#EXTINF:-1 tvg-id="kix" ch-number="1" tvg-name="KIX" tvg-logo="https://placehold.co/100x100?text=KIX" group-title="IndiHomeTV",KIX
+https://cdnbal1.indihometv.com/atm/DASH/kix/manifest.mpd
+
+#EXTINF:-1 tvg-id="kompas.tv" ch-number="1" tvg-name="Kompas TV" tvg-logo="https://placehold.co/100x100?text=Kompas%20TV" group-title="IndiHomeTV",Kompas TV
+https://cdnbal1.indihometv.com/atm/DASH/KOMPAS_TV/manifest.mpd
+
+#EXTINF:-1 tvg-id="mnc.news" ch-number="1" tvg-name="MNC News" tvg-logo="https://placehold.co/100x100?text=MNC%20News" group-title="IndiHomeTV",MNC News
+https://cdnbal1.indihometv.com/atm/DASH/mncnews/manifest.mpd
+
+#EXTINF:-1 tvg-id="my.kids" ch-number="1" tvg-name="My Kids" tvg-logo="https://placehold.co/100x100?text=My%20Kids" group-title="IndiHomeTV",My Kids
+https://cdnbal1.indihometv.com/atm/DASH/mykids/manifest.mpd
+
+#EXTINF:-1 tvg-id="new.tv.comprehensive" ch-number="1" tvg-name="New TV Comprehensive" tvg-logo="https://placehold.co/100x100?text=New%20TV%20Comprehensive" group-title="IndiHomeTV",New TV Comprehensive
+https://cdnbal1.indihometv.com/atm/DASH/newtvcomprehensive/manifest.mpd
+
+#EXTINF:-1 tvg-id="new.tv.finance" ch-number="1" tvg-name="New TV Finance" tvg-logo="https://placehold.co/100x100?text=New%20TV%20Finance" group-title="IndiHomeTV",New TV Finance
+https://cdnbal1.indihometv.com/atm/DASH/newtvfinance/manifest.mpd
+
+#EXTINF:-1 tvg-id="new.tv.variety" ch-number="1" tvg-name="New TV Variety" tvg-logo="https://placehold.co/100x100?text=New%20TV%20Variety" group-title="IndiHomeTV",New TV Variety
+https://cdnbal1.indihometv.com/atm/DASH/newtvvariety/manifest.mpd
+
+#EXTINF:-1 tvg-id="nickelodeon" ch-number="1" tvg-name="Nickelodeon" tvg-logo="https://placehold.co/100x100?text=Nickelodeon" group-title="IndiHomeTV",Nickelodeon
+https://cdnbal1.indihometv.com/atm/DASH/nickelodeon/manifest.mpd
+
+#EXTINF:-1 tvg-id="nusantara.tv" ch-number="1" tvg-name="Nusantara TV" tvg-logo="https://placehold.co/100x100?text=Nusantara%20TV" group-title="IndiHomeTV",Nusantara TV
+https://cdnbal1.indihometv.com/atm/DASH/nusantaratv/manifest.mpd
+
+#EXTINF:-1 tvg-id="prambors.tv" ch-number="1" tvg-name="Prambors TV" tvg-logo="https://placehold.co/100x100?text=Prambors%20TV" group-title="IndiHomeTV",Prambors TV
+https://cdnbal1.indihometv.com/atm/DASH/pramborstv/manifest.mpd
+
+#EXTINF:-1 tvg-id="rajawali.tv" ch-number="1" tvg-name="Rajawali TV" tvg-logo="https://placehold.co/100x100?text=Rajawali%20TV" group-title="IndiHomeTV",Rajawali TV
+https://cdnbal1.indihometv.com/atm/DASH/RAJAWALI_TV/manifest.mpd
+
+#EXTINF:-1 tvg-id="sctv" ch-number="1" tvg-name="SCTV" tvg-logo="https://placehold.co/100x100?text=SCTV" group-title="IndiHomeTV",SCTV
+https://cdnbal1.indihometv.com/atm/DASH/sctv/manifest.mpd
+
+#EXTINF:-1 tvg-id="SindoNews.id" ch-number="1" tvg-name="SINDONEWS TV" tvg-logo="https://placehold.co/100x100?text=SINDONEWS%20TV%20%F0%9F%87%AE%F0%9F%87%A9" group-title="IndiHomeTV",SINDONEWS TV
+#EXTVLCOPT:http-header-User-Agent=IndiHomeTV/8.7.12 (Linux;Android 15.0.0;) ExoPlayerLib/2.19.1
+https://cdnbal1.indihometv.com/atm/DASH/mncnews/manifest.mpd
+
+#EXTINF:-1 tvg-id="sinpo.tv" ch-number="1" tvg-name="Sinpo TV" tvg-logo="https://placehold.co/100x100?text=Sinpo%20TV" group-title="IndiHomeTV",Sinpo TV
+https://cdnbal1.indihometv.com/atm/DASH/sinpotv/manifest.mpd
+
+#EXTINF:-1 tvg-id="thrill" ch-number="1" tvg-name="Thrill" tvg-logo="https://placehold.co/100x100?text=Thrill" group-title="IndiHomeTV",Thrill
+https://cdnbal1.indihometv.com/atm/DASH/thrill/manifest.mpd
+
+#EXTINF:-1 tvg-id="tv.one" ch-number="1" tvg-name="TV One" tvg-logo="https://placehold.co/100x100?text=TV%20One" group-title="IndiHomeTV",TV One
+https://cdnbal1.indihometv.com/atm/DASH/tvone/manifest.mpd
+
+#EXTINF:-1 tvg-id="tv5.monde" ch-number="1" tvg-name="TV5 Monde" tvg-logo="https://placehold.co/100x100?text=TV5%20Monde" group-title="IndiHomeTV",TV5 Monde
+https://cdnbal1.indihometv.com/atm/DASH/tv5monde/manifest.mpd
+
+#EXTINF:-1 tvg-id="tvri.world" ch-number="1" tvg-name="TVRI World" tvg-logo="https://placehold.co/100x100?text=TVRI%20World" group-title="IndiHomeTV",TVRI World
+https://cdnbal1.indihometv.com/atm/DASH/tvriworld/manifest.mpd
+
+#EXTINF:-1 tvg-id="usee.sport" ch-number="1" tvg-name="Usee Sport" tvg-logo="https://placehold.co/100x100?text=Usee%20Sport" group-title="IndiHomeTV",Usee Sport
+https://cdnbal1.indihometv.com/atm/DASH/useesport/manifest.mpd
+
+#EXTINF:-1 tvg-id="z.bioskop" ch-number="1" tvg-name="Z Bioskop" tvg-logo="https://placehold.co/100x100?text=Z%20Bioskop" group-title="IndiHomeTV",Z Bioskop
+https://cdnbal1.indihometv.com/atm/DASH/zbioskop/manifest.mpd
