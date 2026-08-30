@@ -16,6 +16,10 @@ https://ex3mpli.github.io/bisdaktv/converge.m3u8
 https://ex3mpli.github.io/bisdaktv/indihometv.m3u8
 ```
 
+```samsungtvph
+https://ex3mpli.github.io/bisdaktv/samsungtvph.m3u8
+```
+
 ### How to use
 1. Download OTT Navigator
 2. Settings
