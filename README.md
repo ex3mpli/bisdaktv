@@ -12,6 +12,10 @@ https://ex3mpli.github.io/bisdaktv/cignal.m3u8
 https://ex3mpli.github.io/bisdaktv/converge.m3u8
 ```
 
+```indihometv
+https://ex3mpli.github.io/bisdaktv/indihometv.m3u8
+```
+
 ### How to use
 1. Download OTT Navigator
 2. Settings
