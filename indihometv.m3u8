@@ -18,7 +18,6 @@ https://cdnbal1.indihometv.com/atm/DASH/balitv/manifest.mpd
 https://cdnbal1.indihometv.com/atm/DASH/beritasatu/manifest.mpd
 
 #EXTINF:-1 tvg-id="BTV.id" ch-number="1" tvg-name="BTV" tvg-logo="https://placehold.co/100x100?text=BTV%20%F0%9F%87%AE%F0%9F%87%A9" group-title="IndiHomeTV",BTV
-#EXTVLCOPT:http-header-User-Agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:151.0) Gecko/20100101 Firefox/151.0
 https://cdnbal1.indihometv.com/atm/DASH/beritasatu/manifest.mpd
 
 #EXTINF:-1 tvg-id="cbeebies" ch-number="1" tvg-name="CBeebies" tvg-logo="https://placehold.co/100x100?text=CBeebies" group-title="IndiHomeTV",CBeebies
