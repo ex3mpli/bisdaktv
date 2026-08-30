@@ -61,7 +61,7 @@ https://cdnbal1.indihometv.com/atm/DASH/jawapos/manifest.mpd
 https://cdnbal1.indihometv.com/atm/DASH/jtv/manifest.mpd
 
 #EXTINF:-1 tvg-id="k." ch-number="1" tvg-name="K+" tvg-logo="https://placehold.co/100x100?text=K%2B" group-title="IndiHomeTV",K+
-https://cdnbal1.indihometv.com/atm/DASH/kplus/kplus-avc1_2500000=7-3277707030000000.mpd
+https://cdnbal1.indihometv.com/atm/DASH/kplus/manifest.mpd
 
 #EXTINF:-1 tvg-id="kix" ch-number="1" tvg-name="KIX" tvg-logo="https://placehold.co/100x100?text=KIX" group-title="IndiHomeTV",KIX
 https://cdnbal1.indihometv.com/atm/DASH/kix/manifest.mpd
@@ -99,8 +99,7 @@ https://cdnbal1.indihometv.com/atm/DASH/RAJAWALI_TV/manifest.mpd
 #EXTINF:-1 tvg-id="sctv" ch-number="1" tvg-name="SCTV" tvg-logo="https://placehold.co/100x100?text=SCTV" group-title="IndiHomeTV",SCTV
 https://cdnbal1.indihometv.com/atm/DASH/sctv/manifest.mpd
 
-#EXTINF:-1 tvg-id="SindoNews.id" ch-number="1" tvg-name="SINDONEWS TV" tvg-logo="https://placehold.co/100x100?text=SINDONEWS%20TV%20%F0%9F%87%AE%F0%9F%87%A9" group-title="IndiHomeTV",SINDONEWS TV
-#EXTVLCOPT:http-header-User-Agent=IndiHomeTV/8.7.12 (Linux;Android 15.0.0;) ExoPlayerLib/2.19.1
+#EXTINF:-1 tvg-id="SindoNews.id" ch-number="1" tvg-name="SINDONEWS TV" tvg-logo="https://placehold.co/100x100?text=SINDONEWS%20TV%20%F0%9F%87%AE%F0%9F%87%A9" group-title="IndiHomeTV",Sindo News TV
 https://cdnbal1.indihometv.com/atm/DASH/mncnews/manifest.mpd
 
 #EXTINF:-1 tvg-id="sinpo.tv" ch-number="1" tvg-name="Sinpo TV" tvg-logo="https://placehold.co/100x100?text=Sinpo%20TV" group-title="IndiHomeTV",Sinpo TV
