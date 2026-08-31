@@ -8,6 +8,8 @@
 #                          #                          #
 #######################################################
 
+#EXTM3U
+
 #EXTINF:-1 group-title="Amazon",5StarMAX East
 #KODIPROP:inputstream.adaptive.manifest_type=dash
 #KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
@@ -35,6 +37,13 @@ https://otte.live.fly.ww.aiv-cdn.net/iad-nitro/live/dash/enc/fgrjsgdqg3/out/v1/4
 #KODIPROP:inputstream.adaptive.license_key=59a51164c2c915352f04066a06f6e807:eba5cc362d1d63c0fe6460febca0fd11
 #EXTVLCOPT:http-header-User-Agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/140.0.0.0 Safari/537.36
 https://otte.live.fly.ww.aiv-cdn.net/PDX/clients/dash/enc/0f5clvxn6o/out/v1/d5a953bb19734fa3baa1776266887fcb/cenc.mpd
+
+#EXTINF:-1 group-title="Amazon",Black Cinema
+#KODIPROP:inputstream.adaptive.manifest_type=dash
+#KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
+#KODIPROP:inputstream.adaptive.license_key=dab8e28bb3dd8335c1669dc2aa7891fc:ce8ec4255a0c5a495749ea524e4e98b4
+#EXTVLCOPT:http-header-User-Agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/140.0.0.0 Safari/537.36
+https://otte.live.fly.ww.aiv-cdn.net/iad-nitro/live/clients/dash/enc/vzhzbcmueh/out/v1/3a0e3004d0514932acc2bb6758c61ed5/cenc.mpd
 
 #EXTINF:-1 group-title="Amazon",Cinemax HD East
 #KODIPROP:inputstream.adaptive.manifest_type=dash
@@ -98,13 +107,6 @@ https://otte.live.fly.ww.aiv-cdn.net/iad-nitro/live/clients/dash/enc/zzhnlvao6q/
 #KODIPROP:inputstream.adaptive.license_key=0b380bec87af5c16ee145bbf8cd7d65e:edcb65d1269bd76f166d6bc56114211f
 #EXTVLCOPT:http-header-User-Agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/140.0.0.0 Safari/537.36
 https://otte.live.fly.ww.aiv-cdn.net/iad-nitro/live/clients/dash/enc/u7xfabrc5b/out/v1/67371e988d6649afbde43ba1e9747550/cenc.mpd
-
-#EXTINF:-1 group-title="Amazon",James Bond 007!
-#KODIPROP:inputstream.adaptive.manifest_type=dash
-#KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
-#KODIPROP:inputstream.adaptive.license_key=dab8e28bb3dd8335c1669dc2aa7891fc:ce8ec4255a0c5a495749ea524e4e98b4
-#EXTVLCOPT:http-header-User-Agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/140.0.0.0 Safari/537.36
-https://otte.live.fly.ww.aiv-cdn.net/iad-nitro/live/clients/dash/enc/vzhzbcmueh/out/v1/3a0e3004d0514932acc2bb6758c61ed5/cenc.mpd
 
 #EXTINF:-1 group-title="Amazon",MGM Drive-in
 #KODIPROP:inputstream.adaptive.manifest_type=dash
@@ -245,3 +247,4 @@ https://otte.live.fly.ww.aiv-cdn.net/IAD/clients/dash/enc/jqcz2pxwvz/out/v1/acae
 #KODIPROP:inputstream.adaptive.license_key=0c6ca94e4d9cdcb8eb387e659ba00834:0565f7a65c76833908647b4a4c382d26
 #EXTVLCOPT:http-header-User-Agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/140.0.0.0 Safari/537.36
 https://otte.live.fly.ww.aiv-cdn.net/IAD/clients/dash/enc/nrc5bbshtk/out/v1/a5969f1d6b1e4327ae04fe03dd1eec36/cenc.mpd
+
