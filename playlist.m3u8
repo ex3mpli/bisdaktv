@@ -1,4 +1,4 @@
-#EXTM3U refresh="12" billed-msg="Provided by: Exempli"
+#EXTM3U refresh="24" billed-msg="Provided by: Exempli" max-con="1000"
 
 #############################################################
 #EXTINF:0 group-logo="https://i.imgur.com/bCL205u.png",Cignal
