@@ -1,4 +1,12 @@
-#EXTM3U
+#EXTM3U billed-msg="Provided by Exempli"
+
+########################################################
+#                          #                           #
+#    -------------------   #  -----------------------  #
+#    Playlist by Exempli   #          Skymovie         #
+#    -------------------   #  -----------------------  #
+#                          #                           #
+########################################################
 
 #EXTINF:-1 group-title="skymovie",ABC AUSTRALIA
 https://bisdaktv.fun/channel.php?channel=161
