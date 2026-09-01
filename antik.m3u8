@@ -1,0 +1,861 @@
+#EXTM3U
+
+#######################################################
+#                          #                          #
+#    -------------------   #  ----------------------  #
+#    Playlist by Exempli   #           Antik          #
+#    -------------------   #  ----------------------  #
+#                          #                          #
+#######################################################
+
+#EXTINF:0 group-title="Antik",24
+#KODIPROP:inputstream.adaptive.manifest_type=dash
+#KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
+#KODIPROP:inputstream.adaptive.license_key=11223344556677889900112233445566:4b80724d0ef86bcb2c21f7999d67739d
+https://dash2.antik.sk/stream/hisi_rtvs_24/playlist_cbcs.mpd
+
+#EXTINF:0 group-title="Antik",360 TuneBox
+https://dash2.antik.sk/live/test_360_tunebox_medium_atk/playlist.m3u8
+
+#EXTINF:0 group-title="Antik",Sport
+#KODIPROP:inputstream.adaptive.manifest_type=dash
+#KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
+#KODIPROP:inputstream.adaptive.license_key=11223344556677889900112233445566:4b80724d0ef86bcb2c21f7999d67739d
+https://dash.allice.antik.sk/stream/stvr_sport_streaming001/playlist_cbcs.mpd
+
+#EXTINF:0 group-title="Antik",A11
+https://dash2.antik.sk/live/test_regionalni_tv/playlist.m3u8
+
+#EXTINF:0 group-title="Antik",Al Jazeera
+https://dash2.antik.sk/live/test_aljazeera/playlist.m3u8
+
+#EXTINF:0 group-title="Antik",Al Jazeera English
+https://dash2.antik.sk/live/test_aljazeera_eng/playlist.m3u8
+
+#EXTINF:0 group-title="Antik",AMC
+#KODIPROP:inputstream.adaptive.manifest_type=dash
+#KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
+#KODIPROP:inputstream.adaptive.license_key=11223344556677889900112233445566:4b80724d0ef86bcb2c21f7999d67739d
+https://dash2.antik.sk/stream/nvidia_amc/playlist_cbcs.mpd
+
+#EXTINF:0 group-title="Antik",Animal Planet
+http://88.212.15.19/live/test_animal_planet_hd_hevc/playlist.m3u8
+
+#EXTINF:0 group-title="Antik",Antik Info TV
+https://dash2.antik.sk/live/test_infokanal_tizen/playlist.m3u8
+
+#EXTINF:0 group-title="Antik",Arena Sport 1
+#KODIPROP:inputstream.adaptive.manifest_type=dash
+#KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
+#KODIPROP:inputstream.adaptive.license_key=11223344556677889900112233445566:4b80724d0ef86bcb2c21f7999d67739d
+https://dash2.antik.sk/stream/hisi_arena_sport1/playlist_cbcs.mpd
+
+#EXTINF:0 group-title="Antik",Arena Sport 2
+#KODIPROP:inputstream.adaptive.manifest_type=dash
+#KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
+#KODIPROP:inputstream.adaptive.license_key=11223344556677889900112233445566:4b80724d0ef86bcb2c21f7999d67739d
+https://dash2.antik.sk/stream/hisi_as2/playlist_cbcs.mpd
+
+#EXTINF:0 group-title="Antik",Arirang TV
+https://dash2.antik.sk/live/test_arirang/playlist.m3u8
+
+#EXTINF:0 group-title="Antik",Armenia 1 TV
+https://dash2.antik.sk/live/test_armenia/playlist.m3u8
+
+#EXTINF:0 group-title="Antik",ATV Ziar
+https://dash2.antik.sk/live/test_atv_ziar/playlist.m3u8
+
+#EXTINF:0 group-title="Antik",Auto Motor und Sport
+#KODIPROP:inputstream.adaptive.manifest_type=dash
+#KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
+#KODIPROP:inputstream.adaptive.license_key=11223344556677889900112233445566:4b80724d0ef86bcb2c21f7999d67739d
+https://dash.antik.sk/stream/hisi_ams/playlist_cbcs.mpd
+
+#EXTINF:0 group-title="Antik",AXN
+#KODIPROP:inputstream.adaptive.manifest_type=dash
+#KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
+#KODIPROP:inputstream.adaptive.license_key=11223344556677889900112233445566:4b80724d0ef86bcb2c21f7999d67739d
+https://dash2.antik.sk/stream/hisi_axn/playlist_cbcs.mpd
+
+#EXTINF:0 group-title="Antik",AXN Black
+#KODIPROP:inputstream.adaptive.manifest_type=dash
+#KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
+#KODIPROP:inputstream.adaptive.license_key=11223344556677889900112233445566:4b80724d0ef86bcb2c21f7999d67739d
+https://dash2.antik.sk/stream/hisi_axn_black/playlist_cbcs.mpd
+
+#EXTINF:0 group-title="Antik",AXN White
+#KODIPROP:inputstream.adaptive.manifest_type=dash
+#KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
+#KODIPROP:inputstream.adaptive.license_key=11223344556677889900112233445566:4b80724d0ef86bcb2c21f7999d67739d
+https://dash2.antik.sk/stream/hisi_axn_white/playlist_cbcs.mpd
+
+#EXTINF:0 group-title="Antik",babes
+#KODIPROP:inputstream.adaptive.manifest_type=dash
+#KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
+#KODIPROP:inputstream.adaptive.license_key=11223344556677889900112233445566:4b80724d0ef86bcb2c21f7999d67739d
+https://dash2.antik.sk/stream/hisi_babes/playlist_cbcs.mpd
+
+#EXTINF:0 group-title="Antik",bang_u
+#KODIPROP:inputstream.adaptive.manifest_type=dash
+#KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
+#KODIPROP:inputstream.adaptive.license_key=11223344556677889900112233445566:4b80724d0ef86bcb2c21f7999d67739d
+https://dash2.antik.sk/stream/hisi_bang_u/playlist_cbcs.mpd
+
+#EXTINF:0 group-title="Antik",Barrandov
+#KODIPROP:inputstream.adaptive.manifest_type=dash
+#KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
+#KODIPROP:inputstream.adaptive.license_key=11223344556677889900112233445566:4b80724d0ef86bcb2c21f7999d67739d
+https://dash2.antik.sk/stream/hisi_barrandov/playlist_cbcs.mpd
+
+#EXTINF:0 group-title="Antik",Barrandov Krimi
+https://dash2.antik.sk/live/test_barrandov_plus_atk_1200/playlist.m3u8
+
+#EXTINF:0 group-title="Antik",BBC Earth
+http://88.212.15.19/live/test_bbc_eartch_hevc/playlist.m3u8
+
+#EXTINF:0 group-title="Antik",BBC First
+http://88.212.15.19/live/bbc_first/index.m3u8
+
+#EXTINF:0 group-title="Antik",brazzers_europe
+#KODIPROP:inputstream.adaptive.manifest_type=dash
+#KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
+#KODIPROP:inputstream.adaptive.license_key=11223344556677889900112233445566:4b80724d0ef86bcb2c21f7999d67739d
+https://dash2.antik.sk/stream/hisi_brazzers_europe/playlist_cbcs.mpd
+
+#EXTINF:0 group-title="Antik",BTV
+https://dash2.antik.sk/live/test_btv/playlist.m3u8
+
+#EXTINF:0 group-title="Antik",CETV
+https://dash2.antik.sk/live/test_central/playlist.m3u8
+
+#EXTINF:0 group-title="Antik",CGTN
+https://dash2.antik.sk/live/test_cgtn/playlist.m3u8
+
+#EXTINF:0 group-title="Antik",CGTN Documentary
+https://dash2.antik.sk/live/test_cgtn_doc/playlist.m3u8
+
+#EXTINF:0 group-title="Antik",Cinemax
+http://88.212.15.19/live/test_cinemax_hd_hevc/playlist.m3u8
+
+#EXTINF:0 group-title="Antik",Cinemax 2
+http://88.212.15.19/live/test_cinemax2_hd_hevc/playlist.m3u8
+
+#EXTINF:0 group-title="Antik",CNN Prima News
+http://88.212.15.19/live/test_cnn_pirma_news/playlist.m3u8
+
+#EXTINF:0 group-title="Antik",Crime & Investigation
+#KODIPROP:inputstream.adaptive.manifest_type=dash
+#KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
+#KODIPROP:inputstream.adaptive.license_key=11223344556677889900112233445566:4b80724d0ef86bcb2c21f7999d67739d
+https://dash2.antik.sk/stream/hisi_crime_and_invest/playlist_cbcs.mpd
+
+#EXTINF:0 group-title="Antik",CSRTV
+https://dash2.antik.sk/live/test_csrtv/playlist.m3u8
+
+#EXTINF:0 group-title="Antik",CT :D - CT art
+#KODIPROP:inputstream.adaptive.manifest_type=dash
+#KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
+#KODIPROP:inputstream.adaptive.license_key=11223344556677889900112233445566:4b80724d0ef86bcb2c21f7999d67739d
+https://dash2.antik.sk/stream/hisi_ct_detem/playlist_cbcs.mpd
+
+#EXTINF:0 group-title="Antik",CT1
+#KODIPROP:inputstream.adaptive.manifest_type=dash
+#KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
+#KODIPROP:inputstream.adaptive.license_key=11223344556677889900112233445566:4b80724d0ef86bcb2c21f7999d67739d
+https://dash2.antik.sk/stream/nvidia_ct1/playlist_cbcs.mpd
+
+#EXTINF:0 group-title="Antik",CT2
+#KODIPROP:inputstream.adaptive.manifest_type=dash
+#KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
+#KODIPROP:inputstream.adaptive.license_key=11223344556677889900112233445566:4b80724d0ef86bcb2c21f7999d67739d
+https://dash2.antik.sk/stream/hisi_ct_2/playlist_cbcs.mpd
+
+#EXTINF:0 group-title="Antik",CT24
+https://dash2.antik.sk/live/ct24_avc_25p/playlist.m3u8
+
+#EXTINF:0 group-title="Antik",Current Time
+https://dash2.antik.sk/live/test_current_time_atktv/playlist.m3u8
+
+#EXTINF:0 group-title="Antik",DajTo
+#KODIPROP:inputstream.adaptive.manifest_type=dash
+#KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
+#KODIPROP:inputstream.adaptive.license_key=11223344556677889900112233445566:4b80724d0ef86bcb2c21f7999d67739d
+https://dash2.antik.sk/stream/nvidia_dajto/playlist_cbcs.mpd
+
+#EXTINF:0 group-title="Antik",desire
+#KODIPROP:inputstream.adaptive.manifest_type=dash
+#KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
+#KODIPROP:inputstream.adaptive.license_key=11223344556677889900112233445566:4b80724d0ef86bcb2c21f7999d67739d
+https://dash2.antik.sk/stream/hisi_desire/playlist_cbcs.mpd
+
+#EXTINF:0 group-title="Antik",Discovery
+http://88.212.15.19/live/test_discovery_hd_hevc/playlist.m3u8
+
+#EXTINF:0 group-title="Antik",Disney Channel
+#KODIPROP:inputstream.adaptive.manifest_type=dash
+#KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
+#KODIPROP:inputstream.adaptive.license_key=11223344556677889900112233445566:4b80724d0ef86bcb2c21f7999d67739d
+https://dash2.antik.sk/stream/hisi_disney_channel/playlist_cbcs.mpd
+
+#EXTINF:0 group-title="Antik",Disney Junior
+#KODIPROP:inputstream.adaptive.manifest_type=dash
+#KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
+#KODIPROP:inputstream.adaptive.license_key=11223344556677889900112233445566:4b80724d0ef86bcb2c21f7999d67739d
+https://dash2.antik.sk/stream/hisi_disney_jr/playlist_cbcs.mpd
+
+#EXTINF:0 group-title="Antik",DocuBox
+https://dash2.antik.sk/live/test_docubox_medium_atk/playlist.m3u8
+
+#EXTINF:0 group-title="Antik",Doktor TV
+https://dash.antik.sk/live/tv_doktor/index.m3u8
+
+#EXTINF:0 group-title="Antik",Doma
+#KODIPROP:inputstream.adaptive.manifest_type=dash
+#KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
+#KODIPROP:inputstream.adaptive.license_key=11223344556677889900112233445566:4b80724d0ef86bcb2c21f7999d67739d
+https://dash2.antik.sk/stream/nvidia_doma/playlist_cbcs.mpd
+
+#EXTINF:0 group-title="Antik",dorcel_tv
+#KODIPROP:inputstream.adaptive.manifest_type=dash
+#KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
+#KODIPROP:inputstream.adaptive.license_key=11223344556677889900112233445566:4b80724d0ef86bcb2c21f7999d67739d
+https://dash2.antik.sk/stream/hisi_dorcel/playlist_cbcs.mpd
+
+#EXTINF:0 group-title="Antik",dorcel_xxx
+#KODIPROP:inputstream.adaptive.manifest_type=dash
+#KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
+#KODIPROP:inputstream.adaptive.license_key=11223344556677889900112233445566:4b80724d0ef86bcb2c21f7999d67739d
+https://dash2.antik.sk/stream/hisi_dorcel_xxx/playlist_cbcs.mpd
+
+#EXTINF:0 group-title="Antik",Duck TV
+https://dash2.antik.sk/live/duck_tv/index.m3u8
+
+#EXTINF:0 group-title="Antik",Duck TV Plus
+https://dash2.antik.sk/live/test_duck_plus/playlist.m3u8
+
+#EXTINF:0 group-title="Antik",dusk
+#KODIPROP:inputstream.adaptive.manifest_type=dash
+#KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
+#KODIPROP:inputstream.adaptive.license_key=11223344556677889900112233445566:4b80724d0ef86bcb2c21f7999d67739d
+https://dash2.antik.sk/stream/hisi_dusk/playlist_cbcs.mpd
+
+#EXTINF:0 group-title="Antik",Dvojka
+#KODIPROP:inputstream.adaptive.manifest_type=dash
+#KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
+#KODIPROP:inputstream.adaptive.license_key=11223344556677889900112233445566:4b80724d0ef86bcb2c21f7999d67739d
+https://dash2.antik.sk/stream/nvidia_dvojka/playlist_cbcs.mpd
+
+#EXTINF:0 group-title="Antik",English Club TV
+https://dash.antik.sk/live/test_ectv_hd_1200/playlist.m3u8
+
+#EXTINF:0 group-title="Antik",erox
+#KODIPROP:inputstream.adaptive.manifest_type=dash
+#KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
+#KODIPROP:inputstream.adaptive.license_key=11223344556677889900112233445566:4b80724d0ef86bcb2c21f7999d67739d
+https://dash2.antik.sk/stream/hisi_erox/playlist_cbcs.mpd
+
+#EXTINF:0 group-title="Antik",eroxxx
+#KODIPROP:inputstream.adaptive.manifest_type=dash
+#KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
+#KODIPROP:inputstream.adaptive.license_key=11223344556677889900112233445566:4b80724d0ef86bcb2c21f7999d67739d
+https://dash2.antik.sk/stream/hisi_eroxxx/playlist_cbcs.mpd
+
+#EXTINF:0 group-title="Antik",Espreso TV
+https://dash2.antik.sk/live/test_espresso/playlist.m3u8
+
+#EXTINF:0 group-title="Antik",Euronews
+https://dash2.antik.sk/live/test_euronews/playlist.m3u8
+
+#EXTINF:0 group-title="Antik",extasy
+#KODIPROP:inputstream.adaptive.manifest_type=dash
+#KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
+#KODIPROP:inputstream.adaptive.license_key=11223344556677889900112233445566:4b80724d0ef86bcb2c21f7999d67739d
+https://dash2.antik.sk/stream/hisi_extasy/playlist_cbcs.mpd
+
+#EXTINF:0 group-title="Antik",FashionBox
+https://dash2.antik.sk/live/test_fashionbox_medium_atk/playlist.m3u8
+
+#EXTINF:0 group-title="Antik",Fast and Funbox
+https://dash2.antik.sk/live/test_fast_and_funbox_medium_atk/playlist.m3u8
+
+#EXTINF:0 group-title="Antik",FightBox
+https://dash2.antik.sk/live/test_fightbox_medium_atk/playlist.m3u8
+
+#EXTINF:0 group-title="Antik",Film +
+#KODIPROP:inputstream.adaptive.manifest_type=dash
+#KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
+#KODIPROP:inputstream.adaptive.license_key=11223344556677889900112233445566:4b80724d0ef86bcb2c21f7999d67739d
+https://dash.antik.sk/stream/nvidia_film_plus/playlist_cbcs.mpd
+
+#EXTINF:0 group-title="Antik",FilmBox+ Comedy
+#KODIPROP:inputstream.adaptive.manifest_type=dash
+#KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
+#KODIPROP:inputstream.adaptive.license_key=11223344556677889900112233445566:4b80724d0ef86bcb2c21f7999d67739d
+https://dash2.antik.sk/stream/hisi_fb_family/playlist_cbcs.mpd
+
+#EXTINF:0 group-title="Antik",FilmBox+ Emotion
+#KODIPROP:inputstream.adaptive.manifest_type=dash
+#KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
+#KODIPROP:inputstream.adaptive.license_key=11223344556677889900112233445566:4b80724d0ef86bcb2c21f7999d67739d
+https://dash2.antik.sk/stream/hisi_fb_extra/playlist_cbcs.mpd
+
+#EXTINF:0 group-title="Antik",FilmBox+ Festival
+https://dash2.antik.sk/live/test_filmbox_arthouse_atk_1200/playlist.m3u8
+
+#EXTINF:0 group-title="Antik",FilmBox+ hits
+#KODIPROP:inputstream.adaptive.manifest_type=dash
+#KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
+#KODIPROP:inputstream.adaptive.license_key=11223344556677889900112233445566:4b80724d0ef86bcb2c21f7999d67739d
+https://dash2.antik.sk/stream/hisi_fb_premium/playlist_cbcs.mpd
+
+#EXTINF:0 group-title="Antik",FilmBox+ Love & Crime
+#KODIPROP:inputstream.adaptive.manifest_type=dash
+#KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
+#KODIPROP:inputstream.adaptive.license_key=11223344556677889900112233445566:4b80724d0ef86bcb2c21f7999d67739d
+https://dash2.antik.sk/stream/hisi_fb_stars/playlist_cbcs.mpd
+
+#EXTINF:0 group-title="Antik",FilmBox+ One
+#KODIPROP:inputstream.adaptive.manifest_type=dash
+#KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
+#KODIPROP:inputstream.adaptive.license_key=11223344556677889900112233445566:4b80724d0ef86bcb2c21f7999d67739d
+https://dash.antik.sk/stream/nvidia_filmbox/playlist_cbcs.mpd
+
+#EXTINF:0 group-title="Antik",Fishing&Hunting
+#KODIPROP:inputstream.adaptive.manifest_type=dash
+#KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
+#KODIPROP:inputstream.adaptive.license_key=11223344556677889900112233445566:4b80724d0ef86bcb2c21f7999d67739d
+https://dash2.antik.sk/stream/hisi_fishing/playlist_cbcs.mpd
+
+#EXTINF:0 group-title="Antik",Folklorika
+#KODIPROP:inputstream.adaptive.manifest_type=dash
+#KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
+#KODIPROP:inputstream.adaptive.license_key=11223344556677889900112233445566:4b80724d0ef86bcb2c21f7999d67739d
+https://dash2.antik.sk/stream/hisi_folklorika/playlist_cbcs.mpd
+
+#EXTINF:0 group-title="Antik",France 24
+https://dash2.antik.sk/live/test_france24_france/playlist.m3u8
+
+#EXTINF:0 group-title="Antik",France 24 English
+https://dash2.antik.sk/live/test_france24_eng/playlist.m3u8
+
+#EXTINF:0 group-title="Antik",Godzone TV
+https://dash2.antik.sk/live/test_vita/playlist.m3u8
+
+#EXTINF:0 group-title="Antik",Golf Channel
+https://dash2.antik.sk/live/test_golf_channel/playlist.m3u8
+
+#EXTINF:0 group-title="Antik",GTTV
+https://stream.ostv.sk/GTTV/index.m3u8
+
+#EXTINF:0 group-title="Antik",HaHa TV
+https://dash2.antik.sk/live/test_haha_tv/playlist.m3u8
+
+#EXTINF:0 group-title="Antik",HBO
+https://dash2.antik.sk/live/test_hbo_hd_hevc/playlist.m3u8
+
+#EXTINF:0 group-title="Antik",HBO 2
+https://dash2.antik.sk/live/test_hbo2_hd_hevc/playlist.m3u8
+
+#EXTINF:0 group-title="Antik",HBO 3
+https://dash2.antik.sk/live/test_hbo3_hd_hevc/playlist.m3u8
+
+#EXTINF:0 group-title="Antik",History 2
+#KODIPROP:inputstream.adaptive.manifest_type=dash
+#KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
+#KODIPROP:inputstream.adaptive.license_key=11223344556677889900112233445566:4b80724d0ef86bcb2c21f7999d67739d
+https://dash2.antik.sk/stream/hisi_h2/playlist_cbcs.mpd
+
+#EXTINF:0 group-title="Antik",History Channel
+#KODIPROP:inputstream.adaptive.manifest_type=dash
+#KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
+#KODIPROP:inputstream.adaptive.license_key=11223344556677889900112233445566:4b80724d0ef86bcb2c21f7999d67739d
+https://dash2.antik.sk/stream/nvidia_history/playlist_cbcs.mpd
+
+#EXTINF:0 group-title="Antik",HN TV
+https://dash2.antik.sk/live/test_hntv/playlist.m3u8
+
+#EXTINF:0 group-title="Antik",Jednotka
+#KODIPROP:inputstream.adaptive.manifest_type=dash
+#KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
+#KODIPROP:inputstream.adaptive.license_key=11223344556677889900112233445566:4b80724d0ef86bcb2c21f7999d67739d
+https://dash2.antik.sk/stream/nvidia_jednotka/playlist_cbcs.mpd
+
+#EXTINF:0 group-title="Antik",JimJam
+#KODIPROP:inputstream.adaptive.manifest_type=dash
+#KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
+#KODIPROP:inputstream.adaptive.license_key=11223344556677889900112233445566:4b80724d0ef86bcb2c21f7999d67739d
+https://dash2.antik.sk/stream/hisi_jimjam/playlist_cbcs.mpd
+
+#EXTINF:0 group-title="Antik",JOJ
+#KODIPROP:inputstream.adaptive.manifest_type=dash
+#KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
+#KODIPROP:inputstream.adaptive.license_key=11223344556677889900112233445566:4b80724d0ef86bcb2c21f7999d67739d
+https://dash.allice.antik.sk/stream/joj_streaming001/playlist_cbcs.mpd
+
+#EXTINF:0 group-title="Antik",JOJ +1
+#KODIPROP:inputstream.adaptive.manifest_type=dash
+#KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
+#KODIPROP:inputstream.adaptive.license_key=11223344556677889900112233445566:4b80724d0ef86bcb2c21f7999d67739d
+https://dash2.antik.sk/stream/hisi_joj_plus_jedna/playlist_cbcs.mpd
+
+#EXTINF:0 group-title="Antik",JOJ 24
+#KODIPROP:inputstream.adaptive.manifest_type=dash
+#KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
+#KODIPROP:inputstream.adaptive.license_key=11223344556677889900112233445566:4b80724d0ef86bcb2c21f7999d67739d
+https://dash2.antik.sk/stream/hisi_joj_24/playlist_cbcs.mpd
+
+#EXTINF:0 group-title="Antik",JOJ Cinema
+#KODIPROP:inputstream.adaptive.manifest_type=dash
+#KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
+#KODIPROP:inputstream.adaptive.license_key=11223344556677889900112233445566:4b80724d0ef86bcb2c21f7999d67739d
+https://dash2.antik.sk/stream/nvidia_joj_cinema/playlist_cbcs.mpd
+
+#EXTINF:0 group-title="Antik",JOJ Cinema +1
+#KODIPROP:inputstream.adaptive.manifest_type=dash
+#KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
+#KODIPROP:inputstream.adaptive.license_key=11223344556677889900112233445566:4b80724d0ef86bcb2c21f7999d67739d
+https://dash2.antik.sk/stream/hisi_joj_cine_plus_jedna/playlist_cbcs.mpd
+
+#EXTINF:0 group-title="Antik",JOJ Krimi
+#KODIPROP:inputstream.adaptive.manifest_type=dash
+#KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
+#KODIPROP:inputstream.adaptive.license_key=11223344556677889900112233445566:4b80724d0ef86bcb2c21f7999d67739d
+https://dash2.antik.sk/stream/nvidia_wau/playlist_cbcs.mpd
+
+#EXTINF:0 group-title="Antik",JOJ Plus
+#KODIPROP:inputstream.adaptive.manifest_type=dash
+#KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
+#KODIPROP:inputstream.adaptive.license_key=11223344556677889900112233445566:4b80724d0ef86bcb2c21f7999d67739d
+https://dash2.antik.sk/stream/nvidia_joj_plus/playlist_cbcs.mpd
+
+#EXTINF:0 group-title="Antik",JOJ Sport
+#KODIPROP:inputstream.adaptive.manifest_type=dash
+#KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
+#KODIPROP:inputstream.adaptive.license_key=11223344556677889900112233445566:4b80724d0ef86bcb2c21f7999d67739d
+https://dash.allice.antik.sk/stream/joj_sport_streaming001/playlist_cbcs.mpd
+
+#EXTINF:0 group-title="Antik",JOJ Sport 2
+#KODIPROP:inputstream.adaptive.manifest_type=dash
+#KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
+#KODIPROP:inputstream.adaptive.license_key=11223344556677889900112233445566:4b80724d0ef86bcb2c21f7999d67739d
+https://dash2.antik.sk/stream/nvidia_joj_sport_2/playlist_cbcs.mpd
+
+#EXTINF:0 group-title="Antik",JOJ Svet
+#KODIPROP:inputstream.adaptive.manifest_type=dash
+#KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
+#KODIPROP:inputstream.adaptive.license_key=11223344556677889900112233445566:4b80724d0ef86bcb2c21f7999d67739d
+https://dash.antik.sk/stream/hisi_joj_svet/playlist_cbcs.mpd
+
+#EXTINF:0 group-title="Antik",Jojko
+#KODIPROP:inputstream.adaptive.manifest_type=dash
+#KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
+#KODIPROP:inputstream.adaptive.license_key=11223344556677889900112233445566:4b80724d0ef86bcb2c21f7999d67739d
+https://dash2.antik.sk/stream/hisi_jojko/playlist_cbcs.mpd
+
+#EXTINF:0 group-title="Antik",Kanal1
+https://dash2.antik.sk/live/test_upnetwork/playlist.m3u8
+
+#EXTINF:0 group-title="Antik",Kino Barrandov
+#KODIPROP:inputstream.adaptive.manifest_type=dash
+#KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
+#KODIPROP:inputstream.adaptive.license_key=11223344556677889900112233445566:4b80724d0ef86bcb2c21f7999d67739d
+https://dash2.antik.sk/stream/hisi_kino_barrandov/playlist_cbcs.mpd
+
+#EXTINF:0 group-title="Antik",Kitchen TV
+https://dash.antik.sk/live/test_kitchen_tv/playlist.m3u8
+
+#EXTINF:0 group-title="Antik",LALA TV
+#KODIPROP:inputstream.adaptive.manifest_type=dash
+#KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
+#KODIPROP:inputstream.adaptive.license_key=11223344556677889900112233445566:4b80724d0ef86bcb2c21f7999d67739d
+https://dash2.antik.sk/stream/hisi_lala/playlist_cbcs.mpd
+
+#EXTINF:0 group-title="Antik",LangLab
+https://dash2.antik.sk/live/langlabs/index.m3u8
+
+#EXTINF:0 group-title="Antik",leo_gold
+#KODIPROP:inputstream.adaptive.manifest_type=dash
+#KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
+#KODIPROP:inputstream.adaptive.license_key=11223344556677889900112233445566:4b80724d0ef86bcb2c21f7999d67739d
+https://dash2.antik.sk/stream/hisi_leo_gold/playlist_cbcs.mpd
+
+#EXTINF:0 group-title="Antik",Life TV
+https://dash2.antik.sk/live/test_life/playlist.m3u8
+
+#EXTINF:0 group-title="Antik",Lingo Toons
+https://dash2.antik.sk/live/lingotoons/index.m3u8
+
+#EXTINF:0 group-title="Antik",Love Nature
+#KODIPROP:inputstream.adaptive.manifest_type=dash
+#KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
+#KODIPROP:inputstream.adaptive.license_key=11223344556677889900112233445566:4b80724d0ef86bcb2c21f7999d67739d
+https://dash2.antik.sk/stream/hisi_love_nature/playlist_cbcs.mpd
+
+#EXTINF:0 group-title="Antik",Markiza
+#KODIPROP:inputstream.adaptive.manifest_type=dash
+#KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
+#KODIPROP:inputstream.adaptive.license_key=11223344556677889900112233445566:4b80724d0ef86bcb2c21f7999d67739d
+https://dash2.antik.sk/stream/nvidia_markiza/playlist_cbcs.mpd
+
+#EXTINF:0 group-title="Antik",Markiza +1
+#KODIPROP:inputstream.adaptive.manifest_type=dash
+#KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
+#KODIPROP:inputstream.adaptive.license_key=11223344556677889900112233445566:4b80724d0ef86bcb2c21f7999d67739d
+https://dash2.antik.sk/stream/hisi_markiza_plus_jedna/playlist_cbcs.mpd
+
+#EXTINF:0 group-title="Antik",Markiza Klasik
+#KODIPROP:inputstream.adaptive.manifest_type=dash
+#KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
+#KODIPROP:inputstream.adaptive.license_key=11223344556677889900112233445566:4b80724d0ef86bcb2c21f7999d67739d
+https://dash2.antik.sk/stream/hisi_markiza_klasik/playlist_cbcs.mpd
+
+#EXTINF:0 group-title="Antik",Markiza Krimi
+#KODIPROP:inputstream.adaptive.manifest_type=dash
+#KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
+#KODIPROP:inputstream.adaptive.license_key=11223344556677889900112233445566:4b80724d0ef86bcb2c21f7999d67739d
+https://dash2.antik.sk/stream/nvidia_markiza_krimi/playlist_cbcs.mpd
+
+#EXTINF:0 group-title="Antik",Mestska Televizia Partizanske
+https://dash2.antik.sk/live/test_partizanske/playlist.m3u8
+
+#EXTINF:0 group-title="Antik",Mestska Televizia Trnava
+https://dash2.antik.sk/live/test_trnava/playlist.m3u8
+
+#EXTINF:0 group-title="Antik",Mestska Tv Kosice
+https://dash2.antik.sk/live/test_mtv_kosice/playlist.m3u8
+
+#EXTINF:0 group-title="Antik",Miestna TV Trebisov
+https://dash2.antik.sk/live/test_trebisov/playlist.m3u8
+
+#EXTINF:0 group-title="Antik",Minimax
+#KODIPROP:inputstream.adaptive.manifest_type=dash
+#KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
+#KODIPROP:inputstream.adaptive.license_key=11223344556677889900112233445566:4b80724d0ef86bcb2c21f7999d67739d
+https://dash2.antik.sk/stream/hisi_minimax/playlist_cbcs.mpd
+
+#EXTINF:0 group-title="Antik",Moldava TV
+https://dash2.antik.sk/live/test_moldava/playlist.m3u8
+
+#EXTINF:0 group-title="Antik",Nase Kosice
+https://dash2.antik.sk/live/nase_kosice/index.m3u8
+
+#EXTINF:0 group-title="Antik",National Geographic Channel
+#KODIPROP:inputstream.adaptive.manifest_type=dash
+#KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
+#KODIPROP:inputstream.adaptive.license_key=11223344556677889900112233445566:4b80724d0ef86bcb2c21f7999d67739d
+https://dash.antik.sk/stream/hisi_ngc/playlist_cbcs.mpd
+
+#EXTINF:0 group-title="Antik",National Geographic Wild
+#KODIPROP:inputstream.adaptive.manifest_type=dash
+#KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
+#KODIPROP:inputstream.adaptive.license_key=11223344556677889900112233445566:4b80724d0ef86bcb2c21f7999d67739d
+https://dash2.antik.sk/stream/hisi_ngw/playlist_cbcs.mpd
+
+#EXTINF:0 group-title="Antik",NHK World Japan
+https://dash2.antik.sk/live/test_nhk/playlist.m3u8
+
+#EXTINF:0 group-title="Antik",Nick Jr
+#KODIPROP:inputstream.adaptive.manifest_type=dash
+#KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
+#KODIPROP:inputstream.adaptive.license_key=11223344556677889900112233445566:4b80724d0ef86bcb2c21f7999d67739d
+https://dash2.antik.sk/stream/hisi_nick_jr/playlist_cbcs.mpd
+
+#EXTINF:0 group-title="Antik",Nickelodeon
+#KODIPROP:inputstream.adaptive.manifest_type=dash
+#KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
+#KODIPROP:inputstream.adaptive.license_key=11223344556677889900112233445566:4b80724d0ef86bcb2c21f7999d67739d
+https://dash2.antik.sk/stream/hisi_nickelodeon/playlist_cbcs.mpd
+
+#EXTINF:0 group-title="Antik",Nicktoons
+#KODIPROP:inputstream.adaptive.manifest_type=dash
+#KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
+#KODIPROP:inputstream.adaptive.license_key=11223344556677889900112233445566:4b80724d0ef86bcb2c21f7999d67739d
+https://dash2.antik.sk/stream/hisi_nikctoons/playlist_cbcs.mpd
+
+#EXTINF:0 group-title="Antik",NOE
+#KODIPROP:inputstream.adaptive.manifest_type=dash
+#KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
+#KODIPROP:inputstream.adaptive.license_key=11223344556677889900112233445566:4b80724d0ef86bcb2c21f7999d67739d
+https://dash2.antik.sk/stream/hisi_noe/playlist_cbcs.mpd
+
+#EXTINF:0 group-title="Antik",Nova Sport 1
+#KODIPROP:inputstream.adaptive.manifest_type=dash
+#KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
+#KODIPROP:inputstream.adaptive.license_key=11223344556677889900112233445566:4b80724d0ef86bcb2c21f7999d67739d
+https://dash2.antik.sk/stream/nvidia_nova_sport1/playlist_cenc.mpd
+
+#EXTINF:0 group-title="Antik",Nova Sport 2
+#KODIPROP:inputstream.adaptive.manifest_type=dash
+#KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
+#KODIPROP:inputstream.adaptive.license_key=11223344556677889900112233445566:4b80724d0ef86bcb2c21f7999d67739d
+https://dash2.antik.sk/stream/nvidia_nova_sport2/playlist_cbcs.mpd
+
+#EXTINF:0 group-title="Antik",Ocko
+#KODIPROP:inputstream.adaptive.manifest_type=dash
+#KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
+#KODIPROP:inputstream.adaptive.license_key=11223344556677889900112233445566:4b80724d0ef86bcb2c21f7999d67739d
+https://dash2.antik.sk/stream/hisi_ocko/playlist_cbcs.mpd
+
+#EXTINF:0 group-title="Antik",Ocko Black
+https://dash2.antik.sk/live/test_ocko_black/playlist.m3u8
+
+#EXTINF:0 group-title="Antik",Ocko Expres
+https://dash2.antik.sk/live/test_ocko_expres/playlist.m3u8
+
+#EXTINF:0 group-title="Antik",Ocko Star
+https://dash2.antik.sk/live/test_ocko_star/playlist.m3u8
+
+#EXTINF:0 group-title="Antik",PARK TV
+https://dash.antik.sk/live/test_park_tv/playlist.m3u8
+
+#EXTINF:0 group-title="Antik",passion_xxx
+#KODIPROP:inputstream.adaptive.manifest_type=dash
+#KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
+#KODIPROP:inputstream.adaptive.license_key=11223344556677889900112233445566:4b80724d0ef86bcb2c21f7999d67739d
+https://dash2.antik.sk/stream/hisi_passion_xxx/playlist_cbcs.mpd
+
+#EXTINF:0 group-title="Antik",Polar TV
+https://dash2.antik.sk/live/test_polar_tv_atktv/playlist.m3u8
+
+#EXTINF:0 group-title="Antik",PREMIUM
+https://dash2.antik.sk/live/test_slager_premium_hd/playlist.m3u8
+
+#EXTINF:0 group-title="Antik",Prima Cool SK
+http://88.212.15.19/live/prima_cool_cz_avc/index.m3u8
+
+#EXTINF:0 group-title="Antik",Prima Krimi SK
+http://88.212.15.19/live/prima_krimi_avc_25p/playlist.m3u8
+
+#EXTINF:0 group-title="Antik",Prima Love SK
+http://88.212.15.19/live/prima_love_avc_25p/playlist.m3u8
+
+#EXTINF:0 group-title="Antik",Prima SK
+http://88.212.15.19/live/prima_avc_25p/playlist.m3u8
+
+#EXTINF:0 group-title="Antik",Prima Star SK
+http://88.212.15.19/live/test_prima_star_hevc_25p/playlist.m3u8
+
+#EXTINF:0 group-title="Antik",Prima Zoom SK
+http://88.212.15.19/live/prima_zoom_avc_25p/playlist.m3u8
+
+#EXTINF:0 group-title="Antik",pure_babes
+#KODIPROP:inputstream.adaptive.manifest_type=dash
+#KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
+#KODIPROP:inputstream.adaptive.license_key=11223344556677889900112233445566:4b80724d0ef86bcb2c21f7999d67739d
+https://dash2.antik.sk/stream/hisi_pure_babes/playlist_cbcs.mpd
+
+#EXTINF:0 group-title="Antik",Rai Tre
+https://dash2.antik.sk/live/test_rai_tre_tizen/playlist.m3u8
+
+#EXTINF:0 group-title="Antik",Rai Uno
+https://dash2.antik.sk/live/test_rai_uno_tizen/playlist.m3u8
+
+#EXTINF:0 group-title="Antik",reality_tv
+#KODIPROP:inputstream.adaptive.manifest_type=dash
+#KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
+#KODIPROP:inputstream.adaptive.license_key=11223344556677889900112233445566:4b80724d0ef86bcb2c21f7999d67739d
+https://dash2.antik.sk/stream/hisi_reality_tv/playlist_cbcs.mpd
+
+#EXTINF:0 group-title="Antik",Rebel
+https://dash2.antik.sk/live/test_rebel/playlist.m3u8
+
+#EXTINF:0 group-title="Antik",Regió TV
+https://dash2.antik.sk/live/test_regio_tv/playlist.m3u8
+
+#EXTINF:0 group-title="Antik",Relax
+https://dash2.antik.sk/live/test_relax/playlist.m3u8
+
+#EXTINF:0 group-title="Antik",Retro Music Television
+#KODIPROP:inputstream.adaptive.manifest_type=dash
+#KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
+#KODIPROP:inputstream.adaptive.license_key=11223344556677889900112233445566:4b80724d0ef86bcb2c21f7999d67739d
+https://dash2.antik.sk/stream/hisi_retro_music/playlist_cbcs.mpd
+
+#EXTINF:0 group-title="Antik",RiK TV
+https://dash2.antik.sk/live/rik_atk/index.m3u8
+
+#EXTINF:0 group-title="Antik",RVTV
+https://dash2.antik.sk/live/test_roznava/playlist.m3u8
+
+#EXTINF:0 group-title="Antik",Senzi
+#KODIPROP:inputstream.adaptive.manifest_type=dash
+#KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
+#KODIPROP:inputstream.adaptive.license_key=11223344556677889900112233445566:4b80724d0ef86bcb2c21f7999d67739d
+https://dash2.antik.sk/stream/hisi_senzi/playlist_cbcs.mpd
+
+#EXTINF:0 group-title="Antik",Seznam.cz TV
+#KODIPROP:inputstream.adaptive.manifest_type=dash
+#KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
+#KODIPROP:inputstream.adaptive.license_key=11223344556677889900112233445566:4b80724d0ef86bcb2c21f7999d67739d
+https://dash2.antik.sk/stream/hisi_seznam/playlist_cbcs.mpd
+
+#EXTINF:0 group-title="Antik",Skvele TV
+https://dash2.antik.sk/live/test_skvele_tv_fhd/playlist.m3u8
+
+#EXTINF:0 group-title="Antik",Sky News
+https://dash2.antik.sk/live/test_skynews/playlist.m3u8
+
+#EXTINF:0 group-title="Antik",Slager Muzika
+https://dash2.antik.sk/live/test_slagr_2_atk/playlist.m3u8
+
+#EXTINF:0 group-title="Antik",Slager Original
+#KODIPROP:inputstream.adaptive.manifest_type=dash
+#KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
+#KODIPROP:inputstream.adaptive.license_key=11223344556677889900112233445566:4b80724d0ef86bcb2c21f7999d67739d
+https://dash2.antik.sk/stream/hisi_slager_original/playlist_cbcs.mpd
+
+#EXTINF:0 group-title="Antik",Spektrum
+#KODIPROP:inputstream.adaptive.manifest_type=dash
+#KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
+#KODIPROP:inputstream.adaptive.license_key=11223344556677889900112233445566:4b80724d0ef86bcb2c21f7999d67739d
+https://dash2.antik.sk/stream/hisi_spektrum/playlist_cbcs.mpd
+
+#EXTINF:0 group-title="Antik",Spektrum Home
+#KODIPROP:inputstream.adaptive.manifest_type=dash
+#KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
+#KODIPROP:inputstream.adaptive.license_key=11223344556677889900112233445566:4b80724d0ef86bcb2c21f7999d67739d
+https://dash2.antik.sk/stream/hisi_spektrum_home/playlist_cbcs.mpd
+
+#EXTINF:0 group-title="Antik",Sport 1
+#KODIPROP:inputstream.adaptive.manifest_type=dash
+#KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
+#KODIPROP:inputstream.adaptive.license_key=11223344556677889900112233445566:4b80724d0ef86bcb2c21f7999d67739d
+https://dash2.antik.sk/stream/nvidia_sport_1/playlist_cbcs.mpd
+
+#EXTINF:0 group-title="Antik",Sport 2
+#KODIPROP:inputstream.adaptive.manifest_type=dash
+#KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
+#KODIPROP:inputstream.adaptive.license_key=11223344556677889900112233445566:4b80724d0ef86bcb2c21f7999d67739d
+https://dash2.antik.sk/stream/nvidia_sport2/playlist_cbcs.mpd
+
+#EXTINF:0 group-title="Antik",STINGRAY iConcerts
+https://dash2.antik.sk/live/test_stingray_iconcerts_hd_hevc50/playlist.m3u8
+
+#EXTINF:0 group-title="Antik",SuperYacht TV
+https://dash2.antik.sk/live/test_superyacht/playlist.m3u8
+
+#EXTINF:0 group-title="Antik",TA3
+#KODIPROP:inputstream.adaptive.manifest_type=dash
+#KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
+#KODIPROP:inputstream.adaptive.license_key=11223344556677889900112233445566:4b80724d0ef86bcb2c21f7999d67739d
+https://dash2.antik.sk/stream/nvidia_ta3/playlist_cbcs.mpd
+
+#EXTINF:0 group-title="Antik",Tanecne sutaze
+https://dash2.antik.sk/live/tanecnesutaze/index.m3u8
+
+#EXTINF:0 group-title="Antik",Televizia Slovensko
+https://dash2.antik.sk/live/test_zapadoslovenska/playlist.m3u8
+
+#EXTINF:0 group-title="Antik",TLC
+http://88.212.15.19/live/test_tlc_1200_atk/playlist.m3u8
+
+#EXTINF:0 group-title="Antik",Travel xp 4k
+https://dash2.antik.sk/live/travel_xp_4k/index.m3u8
+
+#EXTINF:0 group-title="Antik",TRT World
+https://dash2.antik.sk/live/test_trt_world_atktv/playlist.m3u8
+
+#EXTINF:0 group-title="Antik",true_amateurs
+#KODIPROP:inputstream.adaptive.manifest_type=dash
+#KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
+#KODIPROP:inputstream.adaptive.license_key=11223344556677889900112233445566:4b80724d0ef86bcb2c21f7999d67739d
+https://dash2.antik.sk/stream/hisi_true_amateurs/playlist_cbcs.mpd
+
+#EXTINF:0 group-title="Antik",Turbo TV
+https://dash2.antik.sk/live/turbo_tv_avc_25p/playlist.m3u8
+
+#EXTINF:0 group-title="Antik",TV 9
+https://dash2.antik.sk/live/test_tv9/playlist.m3u8
+
+#EXTINF:0 group-title="Antik",TV Bratislava
+https://dash2.antik.sk/live/test_batv/playlist.m3u8
+
+#EXTINF:0 group-title="Antik",TV Kezmarok
+https://dash2.antik.sk/live/test_severka/playlist.m3u8
+
+#EXTINF:0 group-title="Antik",TV LocAll
+https://dash2.antik.sk/live/test_locall/playlist.m3u8
+
+#EXTINF:0 group-title="Antik",TV LUX
+#KODIPROP:inputstream.adaptive.manifest_type=dash
+#KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
+#KODIPROP:inputstream.adaptive.license_key=11223344556677889900112233445566:4b80724d0ef86bcb2c21f7999d67739d
+https://dash2.antik.sk/stream/hisi_lux/playlist_cbcs.mpd
+
+#EXTINF:0 group-title="Antik",TV Mistral
+https://dash2.antik.sk/live/test_mistral_atktv/playlist.m3u8
+
+#EXTINF:0 group-title="Antik",TV Nitricka
+https://dash2.antik.sk/live/test_nitricka/playlist.m3u8
+
+#EXTINF:0 group-title="Antik",TV Nove Zamky
+https://dash2.antik.sk/live/test_nove_zamky/playlist.m3u8
+
+#EXTINF:0 group-title="Antik",tv NRSR
+https://dash2.antik.sk/live/test_nrsr/playlist.m3u8
+
+#EXTINF:0 group-title="Antik",TV Panorama
+https://dash2.antik.sk/live/test_panorama/playlist.m3u8
+
+#EXTINF:0 group-title="Antik",TV Paprika
+#KODIPROP:inputstream.adaptive.manifest_type=dash
+#KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
+#KODIPROP:inputstream.adaptive.license_key=11223344556677889900112233445566:4b80724d0ef86bcb2c21f7999d67739d
+https://dash2.antik.sk/stream/hisi_paprika/playlist_cbcs.mpd
+
+#EXTINF:0 group-title="Antik",TV Pianko
+https://dash2.antik.sk/live/test_pianko/playlist.m3u8
+
+#EXTINF:0 group-title="Antik",TV Poprad
+https://dash2.antik.sk/live/test_poprad/playlist.m3u8
+
+#EXTINF:0 group-title="Antik",TV Povazie
+https://dash2.antik.sk/live/test_povazie/playlist.m3u8
+
+#EXTINF:0 group-title="Antik",TV RAJ
+https://dash2.antik.sk/live/test_raj/playlist.m3u8
+
+#EXTINF:0 group-title="Antik",TV Reduta
+https://dash2.antik.sk/live/tv_reduta/playlist.m3u8
+
+#EXTINF:0 group-title="Antik",TV Romana
+https://dash2.antik.sk/live/test_romana/playlist.m3u8
+
+#EXTINF:0 group-title="Antik",TV Ruzinov
+https://dash2.antik.sk/live/test_ruzinov/playlist.m3u8
+
+#EXTINF:0 group-title="Antik",TV SEN
+https://dash2.antik.sk/live/test_tv_sen_atktv/playlist.m3u8
+
+#EXTINF:0 group-title="Antik",Tv Vega
+https://dash2.antik.sk/live/test_vega/playlist.m3u8
+
+#EXTINF:0 group-title="Antik",TV Zemplin
+https://dash2.antik.sk/live/test_zemplin/playlist.m3u8
+
+#EXTINF:0 group-title="Antik",TV7
+https://dash2.antik.sk/live/test_tv7/playlist.m3u8
+
+#EXTINF:0 group-title="Antik",TV8
+https://dash2.antik.sk/live/test_osem/playlist.m3u8
+
+#EXTINF:0 group-title="Antik",TVP Info
+https://dash2.antik.sk/live/test_tvp_info/playlist.m3u8
+
+#EXTINF:0 group-title="Antik",TVP Polonia
+https://dash2.antik.sk/live/test_tvp_polonia/playlist.m3u8
+
+#EXTINF:0 group-title="Antik",TVP World
+https://dash2.antik.sk/live/test_tvp_world/playlist.m3u8
+
+#EXTINF:0 group-title="Antik",UA TV
+https://dash2.antik.sk/live/test_uatv/playlist.m3u8
+
+#EXTINF:0 group-title="Antik",Viasat Explore
+http://88.212.15.19/live/test_viasat_explore_atk_tv/playlist.m3u8
+
+#EXTINF:0 group-title="Antik",Viasat History
+http://88.212.15.19/live/test_viasat_history_atk_tv/playlist.m3u8
+
+#EXTINF:0 group-title="Antik",Viasat Nature
+http://88.212.15.19/live/test_viasat_nature_atk_tv/playlist.m3u8
