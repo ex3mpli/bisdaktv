@@ -2,8 +2,8 @@
 #EXT-X-VERSION:3
 #EXT-X-INDEPENDENT-SEGMENTS
 #EXT-X-STREAM-INF:BANDWIDTH=1872455,AVERAGE-BANDWIDTH=1241671,RESOLUTION=640x360,FRAME-RATE=29.970,CODECS="avc1.4D4028,mp4a.40.2"
-http://d1bail49udbz1k.cloudfront.net/out/v1/78e282e04f0944f3ad0aa1db7a1be645/index_1.m3u8
+https://d1bail49udbz1k.cloudfront.net/out/v1/78e282e04f0944f3ad0aa1db7a1be645/index_1.m3u8
 #EXT-X-STREAM-INF:BANDWIDTH=4511108,AVERAGE-BANDWIDTH=2891636,RESOLUTION=1280x720,FRAME-RATE=29.970,CODECS="avc1.4D4028,mp4a.40.2"
-http://d1bail49udbz1k.cloudfront.net/out/v1/78e282e04f0944f3ad0aa1db7a1be645/index_2.m3u8
+https://d1bail49udbz1k.cloudfront.net/out/v1/78e282e04f0944f3ad0aa1db7a1be645/index_2.m3u8
 #EXT-X-STREAM-INF:BANDWIDTH=8029252,AVERAGE-BANDWIDTH=5091511,RESOLUTION=1920x1080,FRAME-RATE=29.970,CODECS="avc1.4D4028,mp4a.40.2"
-http://d1bail49udbz1k.cloudfront.net/out/v1/78e282e04f0944f3ad0aa1db7a1be645/index_3.m3u8
+https://d1bail49udbz1k.cloudfront.net/out/v1/78e282e04f0944f3ad0aa1db7a1be645/index_3.m3u8
