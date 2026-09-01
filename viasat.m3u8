@@ -8,12 +8,12 @@
 #                          #                           #
 ########################################################
 
-#EXTINF:-1 group-title="Viasat",Viasat Explore
+#EXTINF:0 group-title="Viasat",Viasat Explore
 https://webtvstream.bhtelecom.ba/hls15/viasat_explore.mpd?n=ayoyoyPh0WDAYJCl1UQlpOST0fCwcGGRJTOD1KVERbQFdBOQwaX11ISQpTXV1BKh8UDQk9ACMKKAddWVZdS1hEQUQhJjUnOklDBQcKFlYuDwYfGllMIgYXGwQMXFhBUEdET1tBVEECwMgMyhcR19SRFZd
 
-#EXTINF:-1 group-title="Viasat",Viasat History
+#EXTINF:0 group-title="Viasat",Viasat History
 https://mob.webtvstream.bhtelecom.ba/hls15/viasat_history.mpd?n=7e88df0f0fc1cbd49f02170eb9448f5a
 
-#EXTINF:-1 group-title="Viasat",Viasat Nature
+#EXTINF:0 group-title="Viasat",Viasat Nature
 https://mob.webtvstream.bhtelecom.ba/hls15/viasat_nature.mpd?n=276ceb87b528e1ce0973b5d585851284
 
