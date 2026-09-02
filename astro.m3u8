@@ -1,0 +1,1311 @@
+#EXTM3U
+
+#######################################################
+#                          #                          #
+#    -------------------   #  ----------------------  #
+#    Playlist by Exempli   #           Astro          #
+#    -------------------   #  ----------------------  #
+#                          #                          #
+#######################################################
+
+#EXTINF:0 group-title="Astro",100 ASTRO 30
+#KODIPROP:inputstream.adaptive.manifest_type=dash
+#KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
+#KODIPROP:inputstream.adaptive.license_key=794848d878e10fab209059c0e6942010:961c77438e111f20abd3db96f88cdfd2
+#EXTVLCOPT:http-header-User-Agent=Mozilla/5.0 (Linux; Android 13; UltraBox Build/TP1A.220624.014; wv) AppleWebKit/537.36 (KHTML, like Gecko) Version/4.0 Chrome/136.0.7103.61 Mobile Safari/537.36
+https://linearjitp-playback.astro.com.my/dash-wv/linear/5166/default_primary.mpd
+
+#EXTINF:0 group-title="Astro",100 HEROES
+#KODIPROP:inputstream.adaptive.manifest_type=dash
+#KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
+#KODIPROP:inputstream.adaptive.license_key=bd73177f7e40014751cb76167bee3c10:45b75b07b7cf3b0f52c8663c2cb51555
+#EXTVLCOPT:http-header-User-Agent=Mozilla/5.0 (Linux; Android 13; UltraBox Build/TP1A.220624.014; wv) AppleWebKit/537.36 (KHTML, like Gecko) Version/4.0 Chrome/136.0.7103.61 Mobile Safari/537.36
+https://linearjitp-playback.astro.com.my/dash-wv/linear/5183/default_primary.mpd
+
+#EXTINF:0 group-title="Astro",100 KUDADA
+#KODIPROP:inputstream.adaptive.manifest_type=dash
+#KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
+#KODIPROP:inputstream.adaptive.license_key=7aba9150a2cd133e302846cdab551510:01d48cea036bd3eb6cef93ed4496d7fd
+#EXTVLCOPT:http-header-User-Agent=Mozilla/5.0 (Linux; Android 13; UltraBox Build/TP1A.220624.014; wv) AppleWebKit/537.36 (KHTML, like Gecko) Version/4.0 Chrome/136.0.7103.61 Mobile Safari/537.36
+https://linearjitp-playback.astro.com.my/dash-wv/linear/5185/default_primary.mpd
+
+#EXTINF:0 group-title="Astro",100 LOL
+#KODIPROP:inputstream.adaptive.manifest_type=dash
+#KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
+#KODIPROP:inputstream.adaptive.license_key=122c84bc130940586c961bae652b3610:1153586a1a453e03402714a299964564
+#EXTVLCOPT:http-header-User-Agent=Mozilla/5.0 (Linux; Android 13; UltraBox Build/TP1A.220624.014; wv) AppleWebKit/537.36 (KHTML, like Gecko) Version/4.0 Chrome/136.0.7103.61 Mobile Safari/537.36
+https://linearjitp-playback.astro.com.my/dash-wv/linear/5167/default_primary.mpd
+
+#EXTINF:0 group-title="Astro",100 SCREAM
+#KODIPROP:inputstream.adaptive.manifest_type=dash
+#KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
+#KODIPROP:inputstream.adaptive.license_key=9f12c73a0dacdc10dc8b165c6c769810:8c26845e721b25748d51e37dd0671aa6
+#EXTVLCOPT:http-header-User-Agent=Mozilla/5.0 (Linux; Android 13; UltraBox Build/TP1A.220624.014; wv) AppleWebKit/537.36 (KHTML, like Gecko) Version/4.0 Chrome/136.0.7103.61 Mobile Safari/537.36
+https://linearjitp-playback.astro.com.my/dash-wv/linear/5181/default_primary.mpd
+
+#EXTINF:0 group-title="Astro",100 XILELE
+#KODIPROP:inputstream.adaptive.manifest_type=dash
+#KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
+#KODIPROP:inputstream.adaptive.license_key=58ce03fd70bac9f61eadf9d762ce8e10:9b27d4fac3292cf7cfca3312cb409343
+#EXTVLCOPT:http-header-User-Agent=Mozilla/5.0 (Linux; Android 13; UltraBox Build/TP1A.220624.014; wv) AppleWebKit/537.36 (KHTML, like Gecko) Version/4.0 Chrome/136.0.7103.61 Mobile Safari/537.36
+https://linearjitp-playback.astro.com.my/dash-wv/linear/5179/default_primary.mpd
+
+#EXTINF:0 group-title="Astro",101 TV1 HD
+#KODIPROP:inputstream.adaptive.manifest_type=dash
+#KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
+#KODIPROP:inputstream.adaptive.license_key=912760c409eb5aff3e060422c502f410:bea2d0f89fb3fbafa1fc9f34ba8734a6
+#EXTVLCOPT:http-header-User-Agent=Mozilla/5.0 (Linux; Android 13; UltraBox Build/TP1A.220624.014; wv) AppleWebKit/537.36 (KHTML, like Gecko) Version/4.0 Chrome/136.0.7103.61 Mobile Safari/537.36
+https://linearjitp-playback.astro.com.my/dash-wv/linear/711/default_primary.mpd
+
+#EXTINF:0 group-title="Astro",102 TV2 HD
+#KODIPROP:inputstream.adaptive.manifest_type=dash
+#KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
+#KODIPROP:inputstream.adaptive.license_key=4f885481fe053e544096532c1dcb9710:24a9b17859862887f28f63c7c29bcaa5
+#EXTVLCOPT:http-header-User-Agent=Mozilla/5.0 (Linux; Android 13; UltraBox Build/TP1A.220624.014; wv) AppleWebKit/537.36 (KHTML, like Gecko) Version/4.0 Chrome/136.0.7103.61 Mobile Safari/537.36
+https://linearjitp-playback.astro.com.my/dash-wv/linear/5027/default_primary.mpd
+
+#EXTINF:0 group-title="Astro",103 TV3
+#KODIPROP:inputstream.adaptive.manifest_type=dash
+#KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
+#KODIPROP:inputstream.adaptive.license_key=3bc3f0e518aed92e80a98118e5bc2c10:5fce364fbc4499856597b19a96f44648
+#EXTVLCOPT:http-header-User-Agent=Mozilla/5.0 (Linux; Android 13; UltraBox Build/TP1A.220624.014; wv) AppleWebKit/537.36 (KHTML, like Gecko) Version/4.0 Chrome/136.0.7103.61 Mobile Safari/537.36
+https://linearjitp-playback.astro.com.my/dash-wv/linear/809/default_primary.mpd
+
+#EXTINF:0 group-title="Astro",106 ASTRO OASIS
+#KODIPROP:inputstream.adaptive.manifest_type=dash
+#KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
+#KODIPROP:inputstream.adaptive.license_key=17d5d62dc61954b82ee016da264abd10:5f35f815699140e2649d825f0d24028e
+#EXTVLCOPT:http-header-User-Agent=Mozilla/5.0 (Linux; Android 13; UltraBox Build/TP1A.220624.014; wv) AppleWebKit/537.36 (KHTML, like Gecko) Version/4.0 Chrome/136.0.7103.61 Mobile Safari/537.36
+https://linearjitp-playback.astro.com.my/dash-wv/linear/2505/default_primary.mpd
+
+#EXTINF:0 group-title="Astro",108 ASTRO CITRA
+#KODIPROP:inputstream.adaptive.manifest_type=dash
+#KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
+#KODIPROP:inputstream.adaptive.license_key=84bf9ad6848be7db20f9d16823deef10:654f2d25a5bfb27c9e5ae0852584a166
+#EXTVLCOPT:http-header-User-Agent=Mozilla/5.0 (Linux; Android 13; UltraBox Build/TP1A.220624.014; wv) AppleWebKit/537.36 (KHTML, like Gecko) Version/4.0 Chrome/136.0.7103.61 Mobile Safari/537.36
+https://linearjitp-playback.astro.com.my/dash-wv/linear/2700/default_primary.mpd
+
+#EXTINF:0 group-title="Astro",109 ASTRO RIA FEED 2
+#KODIPROP:inputstream.adaptive.manifest_type=dash
+#KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
+#KODIPROP:inputstream.adaptive.license_key=d5249cb40505495494828f42c37087cb:d59f6a7bed00bd5348355ab5b3ee6aa0
+#EXTVLCOPT:http-header-User-Agent=Mozilla/5.0 (Linux; Android 13; UltraBox Build/TP1A.220624.014; wv) AppleWebKit/537.36 (KHTML, like Gecko) Version/4.0 Chrome/136.0.7103.61 Mobile Safari/537.36
+https://linearjitp-playback.astro.com.my/dash-wv/linear/1004/default_primary.mpd
+
+#EXTINF:0 group-title="Astro",110 ASTRO PRIMA FEED 2
+#KODIPROP:inputstream.adaptive.manifest_type=dash
+#KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
+#KODIPROP:inputstream.adaptive.license_key=0b65326aede3edbe81e6fb40317d5310:8412f444ffbe350cf2ece051f9152e90
+#EXTVLCOPT:http-header-User-Agent=Mozilla/5.0 (Linux; Android 13; UltraBox Build/TP1A.220624.014; wv) AppleWebKit/537.36 (KHTML, like Gecko) Version/4.0 Chrome/136.0.7103.61 Mobile Safari/537.36
+https://linearjitp-playback.astro.com.my/dash-wv/linear/1000/default_primary.mpd
+
+#EXTINF:0 group-title="Astro",112 ASTRO RANIA
+#KODIPROP:inputstream.adaptive.manifest_type=dash
+#KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
+#KODIPROP:inputstream.adaptive.license_key=784c6037e5888e84106e41059fe2b110:8e4200bf5c4d523ff00bfd173d021602
+#EXTVLCOPT:http-header-User-Agent=Mozilla/5.0 (Linux; Android 13; UltraBox Build/TP1A.220624.014; wv) AppleWebKit/537.36 (KHTML, like Gecko) Version/4.0 Chrome/136.0.7103.61 Mobile Safari/537.36
+https://linearjitp-playback.astro.com.my/dash-wv/linear/608/default_primary.mpd
+
+#EXTINF:0 group-title="Astro",113 ASTRO AURA
+#KODIPROP:inputstream.adaptive.manifest_type=dash
+#KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
+#KODIPROP:inputstream.adaptive.license_key=869c3237d2fae78301a91dbb5a924d10:f5c2312185f9f0c4894b73ce17419d8c
+#EXTVLCOPT:http-header-User-Agent=Mozilla/5.0 (Linux; Android 13; UltraBox Build/TP1A.220624.014; wv) AppleWebKit/537.36 (KHTML, like Gecko) Version/4.0 Chrome/136.0.7103.61 Mobile Safari/537.36
+https://linearjitp-playback.astro.com.my/dash-wv/linear/609/default_primary.mpd
+
+#EXTINF:0 group-title="Astro",114 TV ALHIJRAH
+#KODIPROP:inputstream.adaptive.manifest_type=dash
+#KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
+#KODIPROP:inputstream.adaptive.license_key=41a42fb5af457501c11bb9b158d5a110:57a8d6f9e3832887db18ea6071118736
+#EXTVLCOPT:http-header-User-Agent=Mozilla/5.0 (Linux; Android 13; UltraBox Build/TP1A.220624.014; wv) AppleWebKit/537.36 (KHTML, like Gecko) Version/4.0 Chrome/136.0.7103.61 Mobile Safari/537.36
+https://linearjitp-playback.astro.com.my/dash-wv/linear/1113/default_primary.mpd
+
+#EXTINF:0 group-title="Astro",116 COLORS HINDI HD
+#KODIPROP:inputstream.adaptive.manifest_type=dash
+#KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
+#KODIPROP:inputstream.adaptive.license_key=ad3cb242cde3b687e2398cd21eb9bd10:6ed9b4976a854a289ce62cac957a55d5
+#EXTVLCOPT:http-header-User-Agent=Mozilla/5.0 (Linux; Android 13; UltraBox Build/TP1A.220624.014; wv) AppleWebKit/537.36 (KHTML, like Gecko) Version/4.0 Chrome/136.0.7103.61 Mobile Safari/537.36
+https://linearjitp-playback.astro.com.my/dash-wv/linear/2611/default_primary.mpd
+
+#EXTINF:0 group-title="Astro",117 Z CINEMA HD
+#KODIPROP:inputstream.adaptive.manifest_type=dash
+#KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
+#KODIPROP:inputstream.adaptive.license_key=db96483900762e233aa7830457a0d310:20f392e5a1021be68fc32bcdb9ec3ad4
+#EXTVLCOPT:http-header-User-Agent=Mozilla/5.0 (Linux; Android 13; UltraBox Build/TP1A.220624.014; wv) AppleWebKit/537.36 (KHTML, like Gecko) Version/4.0 Chrome/136.0.7103.61 Mobile Safari/537.36
+https://linearjitp-playback.astro.com.my/dash-wv/linear/5106/default_primary.mpd
+
+#EXTINF:0 group-title="Astro",120 ANIPLUS
+#KODIPROP:inputstream.adaptive.manifest_type=dash
+#KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
+#KODIPROP:inputstream.adaptive.license_key=e9cc552a8a2d46ab05c827b6f3a59b10:ea5f1c775483efae21247b5c48263735
+#EXTVLCOPT:http-header-User-Agent=Mozilla/5.0 (Linux; Android 13; UltraBox Build/TP1A.220624.014; wv) AppleWebKit/537.36 (KHTML, like Gecko) Version/4.0 Chrome/136.0.7103.61 Mobile Safari/537.36
+https://linearjitp-playback.astro.com.my/dash-wv/linear/5600/default_primary.mpd
+
+#EXTINF:0 group-title="Astro",122 TV SARAWAK
+#KODIPROP:inputstream.adaptive.manifest_type=dash
+#KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
+#KODIPROP:inputstream.adaptive.license_key=c3e956b38ae993be1494c7cfa17b1110:55ccaee886b340dd901f4bf8dd9d3a6a
+#EXTVLCOPT:http-header-User-Agent=Mozilla/5.0 (Linux; Android 13; UltraBox Build/TP1A.220624.014; wv) AppleWebKit/537.36 (KHTML, like Gecko) Version/4.0 Chrome/136.0.7103.61 Mobile Safari/537.36
+https://linearjitp-playback.astro.com.my/dash-wv/linear/5021/default_primary.mpd
+
+#EXTINF:0 group-title="Astro",146 TV OKEY HD
+#KODIPROP:inputstream.adaptive.manifest_type=dash
+#KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
+#KODIPROP:inputstream.adaptive.license_key=60f202b16407fedd8e369c32af57dd10:c8475231c09dc1b639886976b6fc7575
+#EXTVLCOPT:http-header-User-Agent=Mozilla/5.0 (Linux; Android 13; UltraBox Build/TP1A.220624.014; wv) AppleWebKit/537.36 (KHTML, like Gecko) Version/4.0 Chrome/136.0.7103.61 Mobile Safari/537.36
+https://linearjitp-playback.astro.com.my/dash-wv/linear/5072/default_primary.mpd
+
+#EXTINF:0 group-title="Astro",147 DIDIKTV KPM
+#KODIPROP:inputstream.adaptive.manifest_type=dash
+#KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
+#KODIPROP:inputstream.adaptive.license_key=e509735b5f89750d42ace2410ead7210:1726083509d570b5de4730ab9f338cc3
+#EXTVLCOPT:http-header-User-Agent=Mozilla/5.0 (Linux; Android 13; UltraBox Build/TP1A.220624.014; wv) AppleWebKit/537.36 (KHTML, like Gecko) Version/4.0 Chrome/136.0.7103.61 Mobile Safari/537.36
+https://linearjitp-playback.astro.com.my/dash-wv/linear/707/default_primary.mpd
+
+#EXTINF:0 group-title="Astro",148 8TV
+#KODIPROP:inputstream.adaptive.manifest_type=dash
+#KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
+#KODIPROP:inputstream.adaptive.license_key=0cb7980e9d1d8957f9a293ed96342410:11da1ad368d0cacffe4824b6b35e22b7
+#EXTVLCOPT:http-header-User-Agent=Mozilla/5.0 (Linux; Android 13; UltraBox Build/TP1A.220624.014; wv) AppleWebKit/537.36 (KHTML, like Gecko) Version/4.0 Chrome/136.0.7103.61 Mobile Safari/537.36
+https://linearjitp-playback.astro.com.my/dash-wv/linear/911/default_primary.mpd
+
+#EXTINF:0 group-title="Astro",149 TV9
+#KODIPROP:inputstream.adaptive.manifest_type=dash
+#KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
+#KODIPROP:inputstream.adaptive.license_key=27828727f0a3a0b4fbc668378ccf8c10:958e9cb7389e20948de5a542d2729ecf
+#EXTVLCOPT:http-header-User-Agent=Mozilla/5.0 (Linux; Android 13; UltraBox Build/TP1A.220624.014; wv) AppleWebKit/537.36 (KHTML, like Gecko) Version/4.0 Chrome/136.0.7103.61 Mobile Safari/537.36
+https://linearjitp-playback.astro.com.my/dash-wv/linear/705/default_primary.mpd
+
+#EXTINF:0 group-title="Astro",200 SELF SERVICE
+#KODIPROP:inputstream.adaptive.manifest_type=dash
+#KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
+#KODIPROP:inputstream.adaptive.license_key=2f3238142348789ed5a99b9a1bd8e010:438fb62e97278526686d921126343d32
+#EXTVLCOPT:http-header-User-Agent=Mozilla/5.0 (Linux; Android 13; UltraBox Build/TP1A.220624.014; wv) AppleWebKit/537.36 (KHTML, like Gecko) Version/4.0 Chrome/136.0.7103.61 Mobile Safari/537.36
+https://linearjitp-playback.astro.com.my/dash-wv/linear/5128/default_primary.mpd
+
+#EXTINF:0 group-title="Astro",201 ASTRO VAANAVIL
+#KODIPROP:inputstream.adaptive.manifest_type=dash
+#KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
+#KODIPROP:inputstream.adaptive.license_key=72499c6ad44cc37d95a9075420911110:b5416326114a13e90662a4fbaf3c532b
+#EXTVLCOPT:http-header-User-Agent=Mozilla/5.0 (Linux; Android 13; UltraBox Build/TP1A.220624.014; wv) AppleWebKit/537.36 (KHTML, like Gecko) Version/4.0 Chrome/136.0.7103.61 Mobile Safari/537.36
+https://linearjitp-playback.astro.com.my/dash-wv/linear/2309/default_primary.mpd
+
+#EXTINF:0 group-title="Astro",202 ASTRO VINMEEN
+#KODIPROP:inputstream.adaptive.manifest_type=dash
+#KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
+#KODIPROP:inputstream.adaptive.license_key=c7737edd1d67824fa70df73154bf8110:68c5db3b309fab5503a6fdb580ddf281
+#EXTVLCOPT:http-header-User-Agent=Mozilla/5.0 (Linux; Android 13; UltraBox Build/TP1A.220624.014; wv) AppleWebKit/537.36 (KHTML, like Gecko) Version/4.0 Chrome/136.0.7103.61 Mobile Safari/537.36
+https://linearjitp-playback.astro.com.my/dash-wv/linear/2105//default_primary.mpd
+
+#EXTINF:0 group-title="Astro",203 ASTRO VELLITHIRAI HD
+#KODIPROP:inputstream.adaptive.manifest_type=dash
+#KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
+#KODIPROP:inputstream.adaptive.license_key=9c44af8b594b6157f55d3c31bd679c10:c128bbe41e94d15a7f8cc2f6253a54b2
+#EXTVLCOPT:http-header-User-Agent=Mozilla/5.0 (Linux; Android 13; UltraBox Build/TP1A.220624.014; wv) AppleWebKit/537.36 (KHTML, like Gecko) Version/4.0 Chrome/136.0.7103.61 Mobile Safari/537.36
+https://linearjitp-playback.astro.com.my/dash-wv/linear/5073/default_primary.mpd
+
+#EXTINF:0 group-title="Astro",211 SUN TV HD
+#KODIPROP:inputstream.adaptive.manifest_type=dash
+#KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
+#KODIPROP:inputstream.adaptive.license_key=83076ff2f68d1764b559c432ab49ca10:ebdf56ba4a3562cc82053a2952975432
+#EXTVLCOPT:http-header-User-Agent=Mozilla/5.0 (Linux; Android 13; UltraBox Build/TP1A.220624.014; wv) AppleWebKit/537.36 (KHTML, like Gecko) Version/4.0 Chrome/136.0.7103.61 Mobile Safari/537.36
+https://linearjitp-playback.astro.com.my/dash-wv/linear/2310/default_primary.mpd
+
+#EXTINF:0 group-title="Astro",212 SUN MUSIC HD
+#KODIPROP:inputstream.adaptive.manifest_type=dash
+#KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
+#KODIPROP:inputstream.adaptive.license_key=beaca9461f7ca0d58ba529fed2e7b610:da0a70148e126eb40cce02665753896d
+#EXTVLCOPT:http-header-User-Agent=Mozilla/5.0 (Linux; Android 13; UltraBox Build/TP1A.220624.014; wv) AppleWebKit/537.36 (KHTML, like Gecko) Version/4.0 Chrome/136.0.7103.61 Mobile Safari/537.36
+https://linearjitp-playback.astro.com.my/dash-wv/linear/5011/default_primary.mpd
+
+#EXTINF:0 group-title="Astro",214 ADITHYA
+#KODIPROP:inputstream.adaptive.manifest_type=dash
+#KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
+#KODIPROP:inputstream.adaptive.license_key=859f5b2054c4073e8f0da463d208b910:5eb3762b1a4631a0b98e25e23cef0193
+#EXTVLCOPT:http-header-User-Agent=Mozilla/5.0 (Linux; Android 13; UltraBox Build/TP1A.220624.014; wv) AppleWebKit/537.36 (KHTML, like Gecko) Version/4.0 Chrome/136.0.7103.61 Mobile Safari/537.36
+https://linearjitp-playback.astro.com.my/dash-wv/linear/915/default_primary.mpd
+
+#EXTINF:0 group-title="Astro",215 SUN NEWS
+#KODIPROP:inputstream.adaptive.manifest_type=dash
+#KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
+#KODIPROP:inputstream.adaptive.license_key=0a171cc1bb90f78820cf25cc55f0ee10:ac08792047218ca2a01f2bbd12d90501
+#EXTVLCOPT:http-header-User-Agent=Mozilla/5.0 (Linux; Android 13; UltraBox Build/TP1A.220624.014; wv) AppleWebKit/537.36 (KHTML, like Gecko) Version/4.0 Chrome/136.0.7103.61 Mobile Safari/537.36
+https://linearjitp-playback.astro.com.my/dash-wv/linear/5087/default_primary.mpd
+
+#EXTINF:0 group-title="Astro",216 KTV
+#KODIPROP:inputstream.adaptive.manifest_type=dash
+#KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
+#KODIPROP:inputstream.adaptive.license_key=8e7863a8e770b0d72ebe4a68437b6410:73648ceba3751645926d45421c85d927
+#EXTVLCOPT:http-header-User-Agent=Mozilla/5.0 (Linux; Android 13; UltraBox Build/TP1A.220624.014; wv) AppleWebKit/537.36 (KHTML, like Gecko) Version/4.0 Chrome/136.0.7103.61 Mobile Safari/537.36
+https://linearjitp-playback.astro.com.my/dash-wv/linear/5088/default_primary.mpd
+
+#EXTINF:0 group-title="Astro",217 SUN LIFE
+#KODIPROP:inputstream.adaptive.manifest_type=dash
+#KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
+#KODIPROP:inputstream.adaptive.license_key=e3e1be94e6c193fa21787ce8435db610:726304708c429f613ec2dc53619d6f76
+#EXTVLCOPT:http-header-User-Agent=Mozilla/5.0 (Linux; Android 13; UltraBox Build/TP1A.220624.014; wv) AppleWebKit/537.36 (KHTML, like Gecko) Version/4.0 Chrome/136.0.7103.61 Mobile Safari/537.36
+https://linearjitp-playback.astro.com.my/dash-wv/linear/5089/default_primary.mpd
+
+#EXTINF:0 group-title="Astro",221 STAR VIJAY HD
+#KODIPROP:inputstream.adaptive.manifest_type=dash
+#KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
+#KODIPROP:inputstream.adaptive.license_key=af35608a7d4b13d1158c2ef6d6c1a010:d01c81050dfab309c6be7e60d03c2d82
+#EXTVLCOPT:http-header-User-Agent=Mozilla/5.0 (Linux; Android 13; UltraBox Build/TP1A.220624.014; wv) AppleWebKit/537.36 (KHTML, like Gecko) Version/4.0 Chrome/136.0.7103.61 Mobile Safari/537.36
+https://linearjitp-playback.astro.com.my/dash-wv/linear/2707/default_primary.mpd
+
+#EXTINF:0 group-title="Astro",222 COLORS TAMIL HD
+#KODIPROP:inputstream.adaptive.manifest_type=dash
+#KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
+#KODIPROP:inputstream.adaptive.license_key=e46354fb39c28e5956bc946ac2a05010:511905bf191474b412b4ec117515a79c
+#EXTVLCOPT:http-header-User-Agent=Mozilla/5.0 (Linux; Android 13; UltraBox Build/TP1A.220624.014; wv) AppleWebKit/537.36 (KHTML, like Gecko) Version/4.0 Chrome/136.0.7103.61 Mobile Safari/537.36
+https://linearjitp-playback.astro.com.my/dash-wv/linear/2101/default_primary.mpd
+
+#EXTINF:0 group-title="Astro",223 Z TAMIL HD
+#KODIPROP:inputstream.adaptive.manifest_type=dash
+#KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
+#KODIPROP:inputstream.adaptive.license_key=0d4e3e7dac2d58b93bf819a72fe8d510:667a33f4d5bb3587f2d5209886839eac
+#EXTVLCOPT:http-header-User-Agent=Mozilla/5.0 (Linux; Android 13; UltraBox Build/TP1A.220624.014; wv) AppleWebKit/537.36 (KHTML, like Gecko) Version/4.0 Chrome/136.0.7103.61 Mobile Safari/537.36
+https://linearjitp-playback.astro.com.my/dash-wv/linear/2311/default_primary.mpd
+
+#EXTINF:0 group-title="Astro",241 ASTRO THANGATHIRAI
+#KODIPROP:inputstream.adaptive.manifest_type=dash
+#KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
+#KODIPROP:inputstream.adaptive.license_key=918adebe10a9848d567dc6cb5adce510:084e76561bba9d4f3ae953acdd37b3ed
+#EXTVLCOPT:http-header-User-Agent=Mozilla/5.0 (Linux; Android 13; UltraBox Build/TP1A.220624.014; wv) AppleWebKit/537.36 (KHTML, like Gecko) Version/4.0 Chrome/136.0.7103.61 Mobile Safari/537.36
+https://linearjitp-playback.astro.com.my/dash-wv/linear/2109/default_primary.mpd
+
+#EXTINF:0 group-title="Astro",300 IQIYI HD
+#KODIPROP:inputstream.adaptive.manifest_type=dash
+#KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
+#KODIPROP:inputstream.adaptive.license_key=7ef7e913ce85a1131b27036069169a10:77d98ed71db7524c27875a09a975f9e6
+#EXTVLCOPT:http-header-User-Agent=Mozilla/5.0 (Linux; Android 13; UltraBox Build/TP1A.220624.014; wv) AppleWebKit/537.36 (KHTML, like Gecko) Version/4.0 Chrome/136.0.7103.61 Mobile Safari/537.36
+https://linearjitp-playback.astro.com.my/dash-wv/linear/1006/default_primary.mpd
+
+#EXTINF:0 group-title="Astro",305 TVB CLASSIC HD
+#KODIPROP:inputstream.adaptive.manifest_type=dash
+#KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
+#KODIPROP:inputstream.adaptive.license_key=071448690a0ec9b27eb2c1a7d5e03010:933ae273b166baa8fb203eef1a7adbdf
+#EXTVLCOPT:http-header-User-Agent=Mozilla/5.0 (Linux; Android 13; UltraBox Build/TP1A.220624.014; wv) AppleWebKit/537.36 (KHTML, like Gecko) Version/4.0 Chrome/136.0.7103.61 Mobile Safari/537.36
+https://linearjitp-playback.astro.com.my/dash-wv/linear/5016/default_primary.mpd
+
+#EXTINF:0 group-title="Astro",306 ASTRO AEC
+#KODIPROP:inputstream.adaptive.manifest_type=dash
+#KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
+#KODIPROP:inputstream.adaptive.license_key=06282157da4e8f97623a70ed017fad10:8da72ca8501a4deb4bfc381fe1737ef4
+#EXTVLCOPT:http-header-User-Agent=Mozilla/5.0 (Linux; Android 13; UltraBox Build/TP1A.220624.014; wv) AppleWebKit/537.36 (KHTML, like Gecko) Version/4.0 Chrome/136.0.7103.61 Mobile Safari/537.36
+https://linearjitp-playback.astro.com.my/dash-wv/linear/2400/default_primary.mpd
+
+#EXTINF:0 group-title="Astro",308 ASTRO QJ
+#KODIPROP:inputstream.adaptive.manifest_type=dash
+#KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
+#KODIPROP:inputstream.adaptive.license_key=89de71cf39be0946dec828edff84d010:9d5e036094bb77cbaf8867d3272c66d0
+#EXTVLCOPT:http-header-User-Agent=Mozilla/5.0 (Linux; Android 13; UltraBox Build/TP1A.220624.014; wv) AppleWebKit/537.36 (KHTML, like Gecko) Version/4.0 Chrome/136.0.7103.61 Mobile Safari/537.36
+https://linearjitp-playback.astro.com.my/dash-wv/linear/2507/default_primary.mpd
+
+#EXTINF:0 group-title="Astro",308 ASTRO QJ
+#KODIPROP:inputstream.adaptive.manifest_type=dash
+#KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
+#KODIPROP:inputstream.adaptive.license_key=b7192c458481368dda1ecb65ec945710:03f1c0ae1cec374f3b7d494c7436d3fd
+#EXTVLCOPT:http-header-User-Agent=Mozilla/5.0 (Linux; Android 13; UltraBox Build/TP1A.220624.014; wv) AppleWebKit/537.36 (KHTML, like Gecko) Version/4.0 Chrome/136.0.7103.61 Mobile Safari/537.36
+https://linearjitp-playback.astro.com.my/dash-wv/linear/5135/default_primary.mpd
+
+#EXTINF:0 group-title="Astro",309 CELESTIAL MOVIES HD
+#KODIPROP:inputstream.adaptive.manifest_type=dash
+#KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
+#KODIPROP:inputstream.adaptive.license_key=c5c1ba26907291afec11a9a78d513410:361197805d0149c29801946cf2dde67c
+#EXTVLCOPT:http-header-User-Agent=Mozilla/5.0 (Linux; Android 13; UltraBox Build/TP1A.220624.014; wv) AppleWebKit/537.36 (KHTML, like Gecko) Version/4.0 Chrome/136.0.7103.61 Mobile Safari/537.36
+https://linearjitp-playback.astro.com.my/dash-wv/linear/506/default_primary.mpd
+
+#EXTINF:0 group-title="Astro",310 TVB JADE
+#KODIPROP:inputstream.adaptive.manifest_type=dash
+#KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
+#KODIPROP:inputstream.adaptive.license_key=fe1219019a9f36cdef347088e592ca10:cb9e1a122ed1c6445f7d3fd2162358f1
+#EXTVLCOPT:http-header-User-Agent=Mozilla/5.0 (Linux; Android 13; UltraBox Build/TP1A.220624.014; wv) AppleWebKit/537.36 (KHTML, like Gecko) Version/4.0 Chrome/136.0.7103.61 Mobile Safari/537.36
+https://linearjitp-playback.astro.com.my/dash-wv/linear/2600/default_primary.mpd
+
+#EXTINF:0 group-title="Astro",311 ASTRO AOD
+#KODIPROP:inputstream.adaptive.manifest_type=dash
+#KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
+#KODIPROP:inputstream.adaptive.license_key=286aef4e8d85db66e05fe4a5c799e410:176e2938bce795d1c85559a2440477f7
+#EXTVLCOPT:http-header-User-Agent=Mozilla/5.0 (Linux; Android 13; UltraBox Build/TP1A.220624.014; wv) AppleWebKit/537.36 (KHTML, like Gecko) Version/4.0 Chrome/136.0.7103.61 Mobile Safari/537.36
+https://linearjitp-playback.astro.com.my/dash-wv/linear/2706/default_primary.mpd
+
+#EXTINF:0 group-title="Astro",316 CTI ASIA HD
+#KODIPROP:inputstream.adaptive.manifest_type=dash
+#KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
+#KODIPROP:inputstream.adaptive.license_key=d626598c2ab452537509dcb8a86db910:f5a9cadea2372a52c2b91f9c261fe0a4
+#EXTVLCOPT:http-header-User-Agent=Mozilla/5.0 (Linux; Android 13; UltraBox Build/TP1A.220624.014; wv) AppleWebKit/537.36 (KHTML, like Gecko) Version/4.0 Chrome/136.0.7103.61 Mobile Safari/537.36
+https://linearjitp-playback.astro.com.my/dash-wv/linear/5017/default_primary.mpd
+
+#EXTINF:0 group-title="Astro",317 TVB ENTERTAINMENT NEWS HD
+#KODIPROP:inputstream.adaptive.manifest_type=dash
+#KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
+#KODIPROP:inputstream.adaptive.license_key=fa629c3640ce533c755509f67f75e610:af710a06fd67975b99db4a47a757b84b
+#EXTVLCOPT:http-header-User-Agent=Mozilla/5.0 (Linux; Android 13; UltraBox Build/TP1A.220624.014; wv) AppleWebKit/537.36 (KHTML, like Gecko) Version/4.0 Chrome/136.0.7103.61 Mobile Safari/537.36
+https://linearjitp-playback.astro.com.my/dash-wv/linear/5015/default_primary.mpd
+
+#EXTINF:0 group-title="Astro",319 TVB XING HE HD
+#KODIPROP:inputstream.adaptive.manifest_type=dash
+#KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
+#KODIPROP:inputstream.adaptive.license_key=e36e0cbdef0677b48dba5c63e8caaf10:ecfb454b2f3e238c5b5dc196e4f91fb8
+#EXTVLCOPT:http-header-User-Agent=Mozilla/5.0 (Linux; Android 13; UltraBox Build/TP1A.220624.014; wv) AppleWebKit/537.36 (KHTML, like Gecko) Version/4.0 Chrome/136.0.7103.61 Mobile Safari/537.36
+https://linearjitp-playback.astro.com.my/dash-wv/linear/401/default_primary.mpd
+
+#EXTINF:0 group-title="Astro",320 TVBS ASIA HD
+#KODIPROP:inputstream.adaptive.manifest_type=dash
+#KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
+#KODIPROP:inputstream.adaptive.license_key=e76a89a1e23f8f7b828f4dbdc2d09a10:346f0f60cbd7591e1ae72ca589157bb1
+#EXTVLCOPT:http-header-User-Agent=Mozilla/5.0 (Linux; Android 13; UltraBox Build/TP1A.220624.014; wv) AppleWebKit/537.36 (KHTML, like Gecko) Version/4.0 Chrome/136.0.7103.61 Mobile Safari/537.36
+https://linearjitp-playback.astro.com.my/dash-wv/linear/402/default_primary.mpd
+
+#EXTINF:0 group-title="Astro",321 CCM
+#KODIPROP:inputstream.adaptive.manifest_type=dash
+#KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
+#KODIPROP:inputstream.adaptive.license_key=a642dd4bf3ea782e19202adefb604b10:3f59355e15eed1bb219ea1687d55cfbb
+#EXTVLCOPT:http-header-User-Agent=Mozilla/5.0 (Linux; Android 13; UltraBox Build/TP1A.220624.014; wv) AppleWebKit/537.36 (KHTML, like Gecko) Version/4.0 Chrome/136.0.7103.61 Mobile Safari/537.36
+https://linearjitp-playback.astro.com.my/dash-wv/linear/100/default_primary.mpd
+
+#EXTINF:0 group-title="Astro",325 PHOENIX CHINESE CHANNEL HD
+#KODIPROP:inputstream.adaptive.manifest_type=dash
+#KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
+#KODIPROP:inputstream.adaptive.license_key=517c308ef6419b1767e9ae710c897710:fd6be1cea9fa23c98f20f1b2abcae276
+#EXTVLCOPT:http-header-User-Agent=Mozilla/5.0 (Linux; Android 13; UltraBox Build/TP1A.220624.014; wv) AppleWebKit/537.36 (KHTML, like Gecko) Version/4.0 Chrome/136.0.7103.61 Mobile Safari/537.36
+https://linearjitp-playback.astro.com.my/dash-wv/linear/400/default_primary.mpd
+
+#EXTINF:0 group-title="Astro",326 PHOENIX INFO NEWS HD
+#KODIPROP:inputstream.adaptive.manifest_type=dash
+#KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
+#KODIPROP:inputstream.adaptive.license_key=9729558a9bff8d94774bfa2f019a1310:8b9eb7ab7196a425d9ab618a5c9f99d9
+#EXTVLCOPT:http-header-User-Agent=Mozilla/5.0 (Linux; Android 13; UltraBox Build/TP1A.220624.014; wv) AppleWebKit/537.36 (KHTML, like Gecko) Version/4.0 Chrome/136.0.7103.61 Mobile Safari/537.36
+https://linearjitp-playback.astro.com.my/dash-wv/linear/5009/default_primary.mpd
+
+#EXTINF:0 group-title="Astro",333 ASTRO HUA HEE DAI
+#KODIPROP:inputstream.adaptive.manifest_type=dash
+#KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
+#KODIPROP:inputstream.adaptive.license_key=60507ef0dc9c813d5f8c7b2229412f10:c8a0f7e69bb31dfd475da26fc6c6003b
+#EXTVLCOPT:http-header-User-Agent=Mozilla/5.0 (Linux; Android 13; UltraBox Build/TP1A.220624.014; wv) AppleWebKit/537.36 (KHTML, like Gecko) Version/4.0 Chrome/136.0.7103.61 Mobile Safari/537.36
+https://linearjitp-playback.astro.com.my/dash-wv/linear/2308/default_primary.mpd
+
+#EXTINF:0 group-title="Astro",335 CCTV4 HD
+#KODIPROP:inputstream.adaptive.manifest_type=dash
+#KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
+#KODIPROP:inputstream.adaptive.license_key=db1a338f71d40186f5997cb085bb3f10:8425690c4844fbb01b5eae706bc2f7c6
+#EXTVLCOPT:http-header-User-Agent=Mozilla/5.0 (Linux; Android 13; UltraBox Build/TP1A.220624.014; wv) AppleWebKit/537.36 (KHTML, like Gecko) Version/4.0 Chrome/136.0.7103.61 Mobile Safari/537.36
+https://linearjitp-playback.astro.com.my/dash-wv/linear/403/default_primary.mpd
+
+#EXTINF:0 group-title="Astro",392 KBS WORLD HD
+#KODIPROP:inputstream.adaptive.manifest_type=dash
+#KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
+#KODIPROP:inputstream.adaptive.license_key=692950d39869c92af9a9ddea453c0d10:eadc626ab959255f7ab881c03d306fe2
+#EXTVLCOPT:http-header-User-Agent=Mozilla/5.0 (Linux; Android 13; UltraBox Build/TP1A.220624.014; wv) AppleWebKit/537.36 (KHTML, like Gecko) Version/4.0 Chrome/136.0.7103.61 Mobile Safari/537.36
+https://linearjitp-playback.astro.com.my/dash-wv/linear/2306/default_primary.mpd
+
+#EXTINF:0 group-title="Astro",393 ASTRO DAEBAK
+#KODIPROP:inputstream.adaptive.manifest_type=dash
+#KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
+#KODIPROP:inputstream.adaptive.license_key=4a2285bc4c5593c6ec41e95494f6b510:b10ab951eab1556c78b410ce0cd6dfef
+#EXTVLCOPT:http-header-User-Agent=Mozilla/5.0 (Linux; Android 13; UltraBox Build/TP1A.220624.014; wv) AppleWebKit/537.36 (KHTML, like Gecko) Version/4.0 Chrome/136.0.7103.61 Mobile Safari/537.36
+https://linearjitp-playback.astro.com.my/dash-wv/linear/5211/default_primary.mpd
+
+#EXTINF:0 group-title="Astro",393 ONE HD
+#KODIPROP:inputstream.adaptive.manifest_type=dash
+#KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
+#KODIPROP:inputstream.adaptive.license_key=d8fe398c79065173fa9788f226056510:45e77e6a8ba767b63cacfdb01ef2ac29
+#EXTVLCOPT:http-header-User-Agent=Mozilla/5.0 (Linux; Android 13; UltraBox Build/TP1A.220624.014; wv) AppleWebKit/537.36 (KHTML, like Gecko) Version/4.0 Chrome/136.0.7103.61 Mobile Safari/537.36
+https://linearjitp-playback.astro.com.my/dash-wv/linear/2702/default_primary.mpd
+
+#EXTINF:0 group-title="Astro",395 TVN HD
+#KODIPROP:inputstream.adaptive.manifest_type=dash
+#KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
+#KODIPROP:inputstream.adaptive.license_key=faf4d62bb898de503446c28fb1aa9210:19e80ecc5d337215c64004cb49c9cb01
+#EXTVLCOPT:http-header-User-Agent=Mozilla/5.0 (Linux; Android 13; UltraBox Build/TP1A.220624.014; wv) AppleWebKit/537.36 (KHTML, like Gecko) Version/4.0 Chrome/136.0.7103.61 Mobile Safari/537.36
+https://linearjitp-playback.astro.com.my/dash-wv/linear/1001/default_primary.mpd
+
+#EXTINF:0 group-title="Astro",396 K-PLUS HD
+#KODIPROP:inputstream.adaptive.manifest_type=dash
+#KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
+#KODIPROP:inputstream.adaptive.license_key=aa48b28bd723f91214887df6ed9fad10:b5a3a800848120c843ae0fa68c09c261
+#EXTVLCOPT:http-header-User-Agent=Mozilla/5.0 (Linux; Android 13; UltraBox Build/TP1A.220624.014; wv) AppleWebKit/537.36 (KHTML, like Gecko) Version/4.0 Chrome/136.0.7103.61 Mobile Safari/537.36
+https://linearjitp-playback.astro.com.my/dash-wv/linear/9983/default_primary.mpd
+
+#EXTINF:0 group-title="Astro",398 NHK WORLD PREMIUM
+#KODIPROP:inputstream.adaptive.manifest_type=dash
+#KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
+#KODIPROP:inputstream.adaptive.license_key=98817b144bcf19fd0ddca7fe54cee110:44b423a77dd34ace162db35cbb0fb6a3
+#EXTVLCOPT:http-header-User-Agent=Mozilla/5.0 (Linux; Android 13; UltraBox Build/TP1A.220624.014; wv) AppleWebKit/537.36 (KHTML, like Gecko) Version/4.0 Chrome/136.0.7103.61 Mobile Safari/537.36
+https://linearjitp-playback.astro.com.my/dash-wv/linear/5018/default_primary.mpd
+
+#EXTINF:0 group-title="Astro",401 HITS MOVIES HD
+#KODIPROP:inputstream.adaptive.manifest_type=dash
+#KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
+#KODIPROP:inputstream.adaptive.license_key=ff1febd7018d0dd711601e795e0d6210:38fbfb3a56e40ff92c9df8acbcba9ef6
+#EXTVLCOPT:http-header-User-Agent=Mozilla/5.0 (Linux; Android 13; UltraBox Build/TP1A.220624.014; wv) AppleWebKit/537.36 (KHTML, like Gecko) Version/4.0 Chrome/136.0.7103.61 Mobile Safari/537.36
+https://linearjitp-playback.astro.com.my/dash-wv/linear/2305/default_primary.mpd
+
+#EXTINF:0 group-title="Astro",404 ASTRO BOO
+#KODIPROP:inputstream.adaptive.manifest_type=dash
+#KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
+#KODIPROP:inputstream.adaptive.license_key=ea4d51ade01bbf3946e0de973051ba10:f3266bec607f25879f48640f30f1c888
+#EXTVLCOPT:http-header-User-Agent=Mozilla/5.0 (Linux; Android 13; UltraBox Build/TP1A.220624.014; wv) AppleWebKit/537.36 (KHTML, like Gecko) Version/4.0 Chrome/136.0.7103.61 Mobile Safari/537.36
+https://linearjitp-playback.astro.com.my/dash-wv/linear/2407/default_primary.mpd
+
+#EXTINF:0 group-title="Astro",411 ASTRO SHOWTIME
+#KODIPROP:inputstream.adaptive.manifest_type=dash
+#KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
+#KODIPROP:inputstream.adaptive.license_key={"keys":[{"kty"
+#EXTVLCOPT:http-header-User-Agent=Mozilla/5.0 (Linux; Android 13; UltraBox Build/TP1A.220624.014; wv) AppleWebKit/537.36 (KHTML, like Gecko) Version/4.0 Chrome/136.0.7103.61 Mobile Safari/537.36
+https://linearjitp-playback.astro.com.my/dash-wv/linear/5145/default_primary.mpd
+
+#EXTINF:0 group-title="Astro",411 HBO
+#KODIPROP:inputstream.adaptive.manifest_type=dash
+#KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
+#KODIPROP:inputstream.adaptive.license_key=a098896d2b11c5f3906a993c3ba5c610:f3f842c54cc96cbbd0bcb96a4cb8a813
+#EXTVLCOPT:http-header-User-Agent=Mozilla/5.0 (Linux; Android 13; UltraBox Build/TP1A.220624.014; wv) AppleWebKit/537.36 (KHTML, like Gecko) Version/4.0 Chrome/136.0.7103.61 Mobile Safari/537.36
+https://linearjitp-playback.astro.com.my/dash-wv/linear/2304/default_primary.mpd
+
+#EXTINF:0 group-title="Astro",412 ASTRO FAM TIME
+#KODIPROP:inputstream.adaptive.manifest_type=dash
+#KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
+#KODIPROP:inputstream.adaptive.license_key=07fa6a9f7fe7806bba9b0e97d0ac5b10:c336fd7c8bb18d17bf63c9e46032a8ed
+#EXTVLCOPT:http-header-User-Agent=Mozilla/5.0 (Linux; Android 13; UltraBox Build/TP1A.220624.014; wv) AppleWebKit/537.36 (KHTML, like Gecko) Version/4.0 Chrome/136.0.7103.61 Mobile Safari/537.36
+https://linearjitp-playback.astro.com.my/dash-wv/linear/5186/default_primary.mpd
+
+#EXTINF:0 group-title="Astro",412 CINEMAX
+#KODIPROP:inputstream.adaptive.manifest_type=dash
+#KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
+#KODIPROP:inputstream.adaptive.license_key=efdb2a8d39151cc39f4b51d762cf9c10:13cc535ad4a73201147863cac386cdd3
+#EXTVLCOPT:http-header-User-Agent=Mozilla/5.0 (Linux; Android 13; UltraBox Build/TP1A.220624.014; wv) AppleWebKit/537.36 (KHTML, like Gecko) Version/4.0 Chrome/136.0.7103.61 Mobile Safari/537.36
+https://linearjitp-playback.astro.com.my/dash-wv/linear/603/default_primary.mpd
+
+#EXTINF:0 group-title="Astro",413 ASTRO SHOWCASE
+#KODIPROP:inputstream.adaptive.manifest_type=dash
+#KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
+#KODIPROP:inputstream.adaptive.license_key=b8090c8361cc5cc5c1aac0ec2710de10:ca0d18538845bae2cb4f4a168036f174
+#EXTVLCOPT:http-header-User-Agent=Mozilla/5.0 (Linux; Android 13; UltraBox Build/TP1A.220624.014; wv) AppleWebKit/537.36 (KHTML, like Gecko) Version/4.0 Chrome/136.0.7103.61 Mobile Safari/537.36
+https://linearjitp-playback.astro.com.my/dash-wv/linear/5054/default_primary.mpd
+
+#EXTINF:0 group-title="Astro",414 HBO FAMILY
+#KODIPROP:inputstream.adaptive.manifest_type=dash
+#KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
+#KODIPROP:inputstream.adaptive.license_key=2b9ff7cc1a3dc9fef47cc5773472d510:7e37588e893ab9252e505bd6dda35beb
+#EXTVLCOPT:http-header-User-Agent=Mozilla/5.0 (Linux; Android 13; UltraBox Build/TP1A.220624.014; wv) AppleWebKit/537.36 (KHTML, like Gecko) Version/4.0 Chrome/136.0.7103.61 Mobile Safari/537.36
+https://linearjitp-playback.astro.com.my/dash-wv/linear/5053/default_primary.mpd
+
+#EXTINF:0 group-title="Astro",414 ROCK ACTION
+#KODIPROP:inputstream.adaptive.manifest_type=dash
+#KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
+#KODIPROP:inputstream.adaptive.license_key={"keys":[{"kty"
+#EXTVLCOPT:http-header-User-Agent=Mozilla/5.0 (Linux; Android 13; UltraBox Build/TP1A.220624.014; wv) AppleWebKit/537.36 (KHTML, like Gecko) Version/4.0 Chrome/136.0.7103.61 Mobile Safari/537.36
+https://linearjitp-playback.astro.com.my/dash-wv/linear/5143/default_primary.mpd
+
+#EXTINF:0 group-title="Astro",415 HBO HITS
+#KODIPROP:inputstream.adaptive.manifest_type=dash
+#KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
+#KODIPROP:inputstream.adaptive.license_key=5d600eb70944d681c26c1f48fbe61f10:796139ba05a2ab425f978c7fd98b4372
+#EXTVLCOPT:http-header-User-Agent=Mozilla/5.0 (Linux; Android 13; UltraBox Build/TP1A.220624.014; wv) AppleWebKit/537.36 (KHTML, like Gecko) Version/4.0 Chrome/136.0.7103.61 Mobile Safari/537.36
+https://linearjitp-playback.astro.com.my/dash-wv/linear/5055/default_primary.mpd
+
+#EXTINF:0 group-title="Astro",415 ROCK X STREAM
+#KODIPROP:inputstream.adaptive.manifest_type=dash
+#KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
+#KODIPROP:inputstream.adaptive.license_key={"keys":[{"kty"
+#EXTVLCOPT:http-header-User-Agent=Mozilla/5.0 (Linux; Android 13; UltraBox Build/TP1A.220624.014; wv) AppleWebKit/537.36 (KHTML, like Gecko) Version/4.0 Chrome/136.0.7103.61 Mobile Safari/537.36
+https://linearjitp-playback.astro.com.my/dash-wv/linear/5144/default_primary.mpd
+
+#EXTINF:0 group-title="Astro",416 TVN MOVIES HD
+#KODIPROP:inputstream.adaptive.manifest_type=dash
+#KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
+#KODIPROP:inputstream.adaptive.license_key=8e269c8aa32ad77eb83068312343d610:d12ccebafbba2a535d88a3087f884252
+#EXTVLCOPT:http-header-User-Agent=Mozilla/5.0 (Linux; Android 13; UltraBox Build/TP1A.220624.014; wv) AppleWebKit/537.36 (KHTML, like Gecko) Version/4.0 Chrome/136.0.7103.61 Mobile Safari/537.36
+https://linearjitp-playback.astro.com.my/dash-wv/linear/2406/default_primary.mpd
+
+#EXTINF:0 group-title="Astro",501 ASTRO AWANI HD
+#KODIPROP:inputstream.adaptive.manifest_type=dash
+#KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
+#KODIPROP:inputstream.adaptive.license_key=6f06f3b3cf7cbad0cc8b21e2c94dfb10:525510cfa634bd630af8c95fa93576ca
+#EXTVLCOPT:http-header-User-Agent=Mozilla/5.0 (Linux; Android 13; UltraBox Build/TP1A.220624.014; wv) AppleWebKit/537.36 (KHTML, like Gecko) Version/4.0 Chrome/136.0.7103.61 Mobile Safari/537.36
+https://linearjitp-playback.astro.com.my/dash-wv/linear/5025/default_primary.mpd
+
+#EXTINF:0 group-title="Astro",502 BERNAMA TV
+#KODIPROP:inputstream.adaptive.manifest_type=dash
+#KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
+#KODIPROP:inputstream.adaptive.license_key=1406bbf218ca14f967034fcf4abf7710:39a27aa2cc84a29b665fcc4dbf9c54b6
+#EXTVLCOPT:http-header-User-Agent=Mozilla/5.0 (Linux; Android 13; UltraBox Build/TP1A.220624.014; wv) AppleWebKit/537.36 (KHTML, like Gecko) Version/4.0 Chrome/136.0.7103.61 Mobile Safari/537.36
+https://linearjitp-playback.astro.com.my/dash-wv/linear/1114/default_primary.mpd
+
+#EXTINF:0 group-title="Astro",503 CGTN HD
+#KODIPROP:inputstream.adaptive.manifest_type=dash
+#KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
+#KODIPROP:inputstream.adaptive.license_key=fc66ef0ee35b5ba639dc0e13c5f8a910:9e706161f02fb99cb692d2965470494e
+#EXTVLCOPT:http-header-User-Agent=Mozilla/5.0 (Linux; Android 13; UltraBox Build/TP1A.220624.014; wv) AppleWebKit/537.36 (KHTML, like Gecko) Version/4.0 Chrome/136.0.7103.61 Mobile Safari/537.36
+https://linearjitp-playback.astro.com.my/dash-wv/linear/5019/default_primary.mpd
+
+#EXTINF:0 group-title="Astro",505 BERITA RTM
+#KODIPROP:inputstream.adaptive.manifest_type=dash
+#KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
+#KODIPROP:inputstream.adaptive.license_key={"keys":[{"kty"
+#EXTVLCOPT:http-header-User-Agent=Mozilla/5.0 (Linux; Android 13; AndroidTV Build/V3.2025; wv) AppleWebKit/537.36 (KHTML, like Gecko) Version/4.0 Chrome/136.0.7103.61 Mobile Safari/537.36
+https://linearjitp-playback.astro.com.my/dash-wv/linear/5213/default_primary.mpd
+
+#EXTINF:0 group-title="Astro",511 CNN HD
+#KODIPROP:inputstream.adaptive.manifest_type=dash
+#KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
+#KODIPROP:inputstream.adaptive.license_key=1b618a291cece44c9845dddfc4fd9b10:bf7e1b97555c4acb7455f711b2a9ff16
+#EXTVLCOPT:http-header-User-Agent=Mozilla/5.0 (Linux; Android 13; UltraBox Build/TP1A.220624.014; wv) AppleWebKit/537.36 (KHTML, like Gecko) Version/4.0 Chrome/136.0.7103.61 Mobile Safari/537.36
+https://linearjitp-playback.astro.com.my/dash-wv/linear/2503/default_primary.mpd
+
+#EXTINF:0 group-title="Astro",512 BBC NEWS HD
+#KODIPROP:inputstream.adaptive.manifest_type=dash
+#KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
+#KODIPROP:inputstream.adaptive.license_key=01767d1c2315c0e9556f477fb1f0c710:77ec0eeb21c07812fd7c58628366ccb3
+#EXTVLCOPT:http-header-User-Agent=Mozilla/5.0 (Linux; Android 13; UltraBox Build/TP1A.220624.014; wv) AppleWebKit/537.36 (KHTML, like Gecko) Version/4.0 Chrome/136.0.7103.61 Mobile Safari/537.36
+https://linearjitp-playback.astro.com.my/dash-wv/linear/1008/default_primary.mpd
+
+#EXTINF:0 group-title="Astro",513 AL JAZEERA ENGLISH HD
+#KODIPROP:inputstream.adaptive.manifest_type=dash
+#KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
+#KODIPROP:inputstream.adaptive.license_key=b1fbd0874e7923f5b05929a042aa0610:6c3c498113abffdf454dc935319a794d
+#EXTVLCOPT:http-header-User-Agent=Mozilla/5.0 (Linux; Android 13; UltraBox Build/TP1A.220624.014; wv) AppleWebKit/537.36 (KHTML, like Gecko) Version/4.0 Chrome/136.0.7103.61 Mobile Safari/537.36
+https://linearjitp-playback.astro.com.my/dash-wv/linear/2110/default_primary.mpd
+
+#EXTINF:0 group-title="Astro",514 SKY NEWS HD
+#KODIPROP:inputstream.adaptive.manifest_type=dash
+#KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
+#KODIPROP:inputstream.adaptive.license_key=4bef7fc1bcb6bd7f287def940e38cb10:b0dadd74b713e4b29fd27e147cae7133
+#EXTVLCOPT:http-header-User-Agent=Mozilla/5.0 (Linux; Android 13; UltraBox Build/TP1A.220624.014; wv) AppleWebKit/537.36 (KHTML, like Gecko) Version/4.0 Chrome/136.0.7103.61 Mobile Safari/537.36
+https://linearjitp-playback.astro.com.my/dash-wv/linear/2102/default_primary.mpd
+
+#EXTINF:0 group-title="Astro",515 CNA HD
+#KODIPROP:inputstream.adaptive.manifest_type=dash
+#KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
+#KODIPROP:inputstream.adaptive.license_key=f812aeae6be5b924a8181b512d5d7910:44275884ee394d05081fde395ff6e415
+#EXTVLCOPT:http-header-User-Agent=Mozilla/5.0 (Linux; Android 13; UltraBox Build/TP1A.220624.014; wv) AppleWebKit/537.36 (KHTML, like Gecko) Version/4.0 Chrome/136.0.7103.61 Mobile Safari/537.36
+https://linearjitp-playback.astro.com.my/dash-wv/linear/605/default_primary.mpd
+
+#EXTINF:0 group-title="Astro",516 CNBC HD
+#KODIPROP:inputstream.adaptive.manifest_type=dash
+#KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
+#KODIPROP:inputstream.adaptive.license_key=c3a38f1340531759a1ca97bc5d80c810:602827a870d49862d1a23f2912957b4c
+#EXTVLCOPT:http-header-User-Agent=Mozilla/5.0 (Linux; Android 13; UltraBox Build/TP1A.220624.014; wv) AppleWebKit/537.36 (KHTML, like Gecko) Version/4.0 Chrome/136.0.7103.61 Mobile Safari/537.36
+https://linearjitp-playback.astro.com.my/dash-wv/linear/900/default_primary.mpd
+
+#EXTINF:0 group-title="Astro",517 BLOOMBERG TV HD
+#KODIPROP:inputstream.adaptive.manifest_type=dash
+#KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
+#KODIPROP:inputstream.adaptive.license_key=db1343545ae25ddecf8dfa4422f35410:79a044b30d64f5c37e6d45d503cbb280
+#EXTVLCOPT:http-header-User-Agent=Mozilla/5.0 (Linux; Android 13; UltraBox Build/TP1A.220624.014; wv) AppleWebKit/537.36 (KHTML, like Gecko) Version/4.0 Chrome/136.0.7103.61 Mobile Safari/537.36
+https://linearjitp-playback.astro.com.my/dash-wv/linear/5020/default_primary.mpd
+
+#EXTINF:0 group-title="Astro",518 ABC AUSTRALIA HD
+#KODIPROP:inputstream.adaptive.manifest_type=dash
+#KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
+#KODIPROP:inputstream.adaptive.license_key=6a9fcc2f94258cee0f2108687c42e710:99bd7c1ff2391244b4e40e08bef1109d
+#EXTVLCOPT:http-header-User-Agent=Mozilla/5.0 (Linux; Android 13; UltraBox Build/TP1A.220624.014; wv) AppleWebKit/537.36 (KHTML, like Gecko) Version/4.0 Chrome/136.0.7103.61 Mobile Safari/537.36
+https://linearjitp-playback.astro.com.my/dash-wv/linear/5075/default_primary.mpd
+
+#EXTINF:0 group-title="Astro",521 DW ENGLISH
+#KODIPROP:inputstream.adaptive.manifest_type=dash
+#KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
+#KODIPROP:inputstream.adaptive.license_key=7edf3bd590cf337f721a2e5bec361510:13bb829ce4836ccf74071c45993978c5
+#EXTVLCOPT:http-header-User-Agent=Mozilla/5.0 (Linux; Android 13; UltraBox Build/TP1A.220624.014; wv) AppleWebKit/537.36 (KHTML, like Gecko) Version/4.0 Chrome/136.0.7103.61 Mobile Safari/537.36
+https://linearjitp-playback.astro.com.my/dash-wv/linear/9984/default_primary.mpd
+
+#EXTINF:0 group-title="Astro",522 FRANCE24
+#KODIPROP:inputstream.adaptive.manifest_type=dash
+#KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
+#KODIPROP:inputstream.adaptive.license_key=3b0c1cebd0c4518d600f52c354ed1910:76d409ffc4eaa012c61d8c31bd13df5d
+#EXTVLCOPT:http-header-User-Agent=Mozilla/5.0 (Linux; Android 13; UltraBox Build/TP1A.220624.014; wv) AppleWebKit/537.36 (KHTML, like Gecko) Version/4.0 Chrome/136.0.7103.61 Mobile Safari/537.36
+https://linearjitp-playback.astro.com.my/dash-wv/linear/9985/default_primary.mpd
+
+#EXTINF:0 group-title="Astro",549 LOVE NATURE 4K
+#KODIPROP:inputstream.adaptive.manifest_type=dash
+#KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
+#KODIPROP:inputstream.adaptive.license_key=1afdcaf4198bfd3200584469fc3e5110:6edc92c49be84ca7a2f327beafbccae6
+#EXTVLCOPT:http-header-User-Agent=Mozilla/5.0 (Linux; Android 13; UltraBox Build/TP1A.220624.014; wv) AppleWebKit/537.36 (KHTML, like Gecko) Version/4.0 Chrome/136.0.7103.61 Mobile Safari/537.36
+https://linearjitp-playback.astro.com.my/dash-wv/linear/5097/default_primary.mpd
+
+#EXTINF:0 group-title="Astro",550 LOVE NATURE
+#KODIPROP:inputstream.adaptive.manifest_type=dash
+#KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
+#KODIPROP:inputstream.adaptive.license_key=168bd815468639fe4528b4bf0141f310:775a654c0610811ad022329a68884de1
+#EXTVLCOPT:http-header-User-Agent=Mozilla/5.0 (Linux; Android 13; UltraBox Build/TP1A.220624.014; wv) AppleWebKit/537.36 (KHTML, like Gecko) Version/4.0 Chrome/136.0.7103.61 Mobile Safari/537.36
+https://linearjitp-playback.astro.com.my/dash-wv/linear/5096/default_primary.mpd
+
+#EXTINF:0 group-title="Astro",551 GLOBAL TREKKER
+#KODIPROP:inputstream.adaptive.manifest_type=dash
+#KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
+#KODIPROP:inputstream.adaptive.license_key=92d34a84fae8e54de0a829629941be10:2fb39ab3f55333d5fa3e830ebf99ec16
+#EXTVLCOPT:http-header-User-Agent=Mozilla/5.0 (Linux; Android 13; UltraBox Build/TP1A.220624.014; wv) AppleWebKit/537.36 (KHTML, like Gecko) Version/4.0 Chrome/136.0.7103.61 Mobile Safari/537.36
+https://linearjitp-playback.astro.com.my/dash-wv/linear/5094/default_primary.mpd
+
+#EXTINF:0 group-title="Astro",552 DISCOVERY CHANNEL
+#KODIPROP:inputstream.adaptive.manifest_type=dash
+#KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
+#KODIPROP:inputstream.adaptive.license_key=276767a578aae2eacb284247ccd9eb10:03ef88df1a47669e5459e105e3b535b1
+#EXTVLCOPT:http-header-User-Agent=Mozilla/5.0 (Linux; Android 13; UltraBox Build/TP1A.220624.014; wv) AppleWebKit/537.36 (KHTML, like Gecko) Version/4.0 Chrome/136.0.7103.61 Mobile Safari/537.36
+https://linearjitp-playback.astro.com.my/dash-wv/linear/2510/default_primary.mpd
+
+#EXTINF:0 group-title="Astro",553 DISCOVERY ASIA
+#KODIPROP:inputstream.adaptive.manifest_type=dash
+#KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
+#KODIPROP:inputstream.adaptive.license_key=3ff02fcd80c2e3230c52ae70fe903410:c3a58ec867cc25829e1fbe8938442553
+#EXTVLCOPT:http-header-User-Agent=Mozilla/5.0 (Linux; Android 13; UltraBox Build/TP1A.220624.014; wv) AppleWebKit/537.36 (KHTML, like Gecko) Version/4.0 Chrome/136.0.7103.61 Mobile Safari/537.36
+https://linearjitp-playback.astro.com.my/dash-wv/linear/501/default_primary.mpd
+
+#EXTINF:0 group-title="Astro",554 BBC EARTH
+#KODIPROP:inputstream.adaptive.manifest_type=dash
+#KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
+#KODIPROP:inputstream.adaptive.license_key=dbf62ff0804bc5b8d523ef009d786310:bb1bdb27cc5fe1ec637d257999344cc3
+#EXTVLCOPT:http-header-User-Agent=Mozilla/5.0 (Linux; Android 13; UltraBox Build/TP1A.220624.014; wv) AppleWebKit/537.36 (KHTML, like Gecko) Version/4.0 Chrome/136.0.7103.61 Mobile Safari/537.36
+https://linearjitp-playback.astro.com.my/dash-wv/linear/5051/default_primary.mpd
+
+#EXTINF:0 group-title="Astro",555 HISTORY
+#KODIPROP:inputstream.adaptive.manifest_type=dash
+#KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
+#KODIPROP:inputstream.adaptive.license_key=3feecc36930732cbb69306dc687c6f10:3458265f7530bf1fef204ca8cb4689db
+#EXTVLCOPT:http-header-User-Agent=Mozilla/5.0 (Linux; Android 13; UltraBox Build/TP1A.220624.014; wv) AppleWebKit/537.36 (KHTML, like Gecko) Version/4.0 Chrome/136.0.7103.61 Mobile Safari/537.36
+https://linearjitp-playback.astro.com.my/dash-wv/linear/604/default_primary.mpd
+
+#EXTINF:0 group-title="Astro",556 ANIMAL PLANET
+#KODIPROP:inputstream.adaptive.manifest_type=dash
+#KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
+#KODIPROP:inputstream.adaptive.license_key=d5199f1513a0286e038dae8f7d820010:4d4d4d9dc41be43f528a4940cf66f14c
+#EXTVLCOPT:http-header-User-Agent=Mozilla/5.0 (Linux; Android 13; UltraBox Build/TP1A.220624.014; wv) AppleWebKit/537.36 (KHTML, like Gecko) Version/4.0 Chrome/136.0.7103.61 Mobile Safari/537.36
+https://linearjitp-playback.astro.com.my/dash-wv/linear/2710/default_primary.mpd
+
+#EXTINF:0 group-title="Astro",556 CGTN DOCUMENTARY
+#KODIPROP:inputstream.adaptive.manifest_type=dash
+#KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
+#KODIPROP:inputstream.adaptive.license_key=5082ef4a1f53079360ed8283bbe05c10:9a837b648a223d23ff05045972dbb6ae
+#EXTVLCOPT:http-header-User-Agent=Mozilla/5.0 (Linux; Android 13; UltraBox Build/TP1A.220624.014; wv) AppleWebKit/537.36 (KHTML, like Gecko) Version/4.0 Chrome/136.0.7103.61 Mobile Safari/537.36
+https://linearjitp-playback.astro.com.my/dash-wv/linear/5119/default_primary.mpd
+
+#EXTINF:0 group-title="Astro",603 ASTRO TUTOR TV
+#KODIPROP:inputstream.adaptive.manifest_type=dash
+#KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
+#KODIPROP:inputstream.adaptive.license_key=8829b8f4d91d2630f398c67ed94c2310:aed9dc02038725aadbd0c7bd1709240b
+#EXTVLCOPT:http-header-User-Agent=Mozilla/5.0 (Linux; Android 13; UltraBox Build/TP1A.220624.014; wv) AppleWebKit/537.36 (KHTML, like Gecko) Version/4.0 Chrome/136.0.7103.61 Mobile Safari/537.36
+https://linearjitp-playback.astro.com.my/dash-wv/linear/5071/default_primary.mpd
+
+#EXTINF:0 group-title="Astro",612 ASTRO CERIA FEED 2
+#KODIPROP:inputstream.adaptive.manifest_type=dash
+#KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
+#KODIPROP:inputstream.adaptive.license_key=b6e60ca0d28e8f97395f07b4e2e53a10:0f0ea6c3543c29d7f513eb886eb74f88
+#EXTVLCOPT:http-header-User-Agent=Mozilla/5.0 (Linux; Android 13; UltraBox Build/TP1A.220624.014; wv) AppleWebKit/537.36 (KHTML, like Gecko) Version/4.0 Chrome/136.0.7103.61 Mobile Safari/537.36
+https://linearjitp-playback.astro.com.my/dash-wv/linear/2606/default_primary.mpd
+
+#EXTINF:0 group-title="Astro",615 CARTOON NETWORK HD
+#KODIPROP:inputstream.adaptive.manifest_type=dash
+#KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
+#KODIPROP:inputstream.adaptive.license_key=1a05bebf706408431a390c3f9f40f410:89c5ff9f8e65c7fe966afbd2f9128e5f
+#EXTVLCOPT:http-header-User-Agent=Mozilla/5.0 (Linux; Android 13; UltraBox Build/TP1A.220624.014; wv) AppleWebKit/537.36 (KHTML, like Gecko) Version/4.0 Chrome/136.0.7103.61 Mobile Safari/537.36
+https://linearjitp-playback.astro.com.my/dash-wv/linear/509/default_primary.mpd
+
+#EXTINF:0 group-title="Astro",616 NICKELODEON HD
+#KODIPROP:inputstream.adaptive.manifest_type=dash
+#KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
+#KODIPROP:inputstream.adaptive.license_key=d8520e96a1283ab6e5be538474bfa810:bda5f7bbc1e44096f779a0619fe9881f
+#EXTVLCOPT:http-header-User-Agent=Mozilla/5.0 (Linux; Android 13; UltraBox Build/TP1A.220624.014; wv) AppleWebKit/537.36 (KHTML, like Gecko) Version/4.0 Chrome/136.0.7103.61 Mobile Safari/537.36
+https://linearjitp-playback.astro.com.my/dash-wv/linear/2511/default_primary.mpd
+
+#EXTINF:0 group-title="Astro",617 NICK JR.
+#KODIPROP:inputstream.adaptive.manifest_type=dash
+#KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
+#KODIPROP:inputstream.adaptive.license_key=fa65220c9f76e424173899df533a6d10:b4abbee95b69b3e80a0d141272c870db
+#EXTVLCOPT:http-header-User-Agent=Mozilla/5.0 (Linux; Android 13; UltraBox Build/TP1A.220624.014; wv) AppleWebKit/537.36 (KHTML, like Gecko) Version/4.0 Chrome/136.0.7103.61 Mobile Safari/537.36
+https://linearjitp-playback.astro.com.my/dash-wv/linear/9982/default_primary.mpd
+
+#EXTINF:0 group-title="Astro",618 MOONBUG KIDS
+#KODIPROP:inputstream.adaptive.manifest_type=dash
+#KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
+#KODIPROP:inputstream.adaptive.license_key=e3cb7499710786eb105fab7b52459910:8ab093adabdc343b8734b7ecf0aea11a
+#EXTVLCOPT:http-header-User-Agent=Mozilla/5.0 (Linux; Android 13; UltraBox Build/TP1A.220624.014; wv) AppleWebKit/537.36 (KHTML, like Gecko) Version/4.0 Chrome/136.0.7103.61 Mobile Safari/537.36
+https://linearjitp-playback.astro.com.my/dash-wv/linear/5067/default_primary.mpd
+
+#EXTINF:0 group-title="Astro",619 BLIPPI & FRIENDS
+#KODIPROP:inputstream.adaptive.manifest_type=dash
+#KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
+#KODIPROP:inputstream.adaptive.license_key=b1119e01b67a19a3eb37c41140c3fa10:5124996ebcfee077b4aacec307f38d0f
+#EXTVLCOPT:http-header-User-Agent=Mozilla/5.0 (Linux; Android 13; UltraBox Build/TP1A.220624.014; wv) AppleWebKit/537.36 (KHTML, like Gecko) Version/4.0 Chrome/136.0.7103.61 Mobile Safari/537.36
+https://linearjitp-playback.astro.com.my/dash-wv/linear/5175/default_primary.mpd
+
+#EXTINF:0 group-title="Astro",620 CBEEBIES
+#KODIPROP:inputstream.adaptive.manifest_type=dash
+#KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
+#KODIPROP:inputstream.adaptive.license_key=50c699c444e5f80dacafc4c99667d810:de6c5feaae5f6963b4b392ddc8b6a778
+#EXTVLCOPT:http-header-User-Agent=Mozilla/5.0 (Linux; Android 13; UltraBox Build/TP1A.220624.014; wv) AppleWebKit/537.36 (KHTML, like Gecko) Version/4.0 Chrome/136.0.7103.61 Mobile Safari/537.36
+https://linearjitp-playback.astro.com.my/dash-wv/linear/5093/default_primary.mpd
+
+#EXTINF:0 group-title="Astro",701 AXN HD
+#KODIPROP:inputstream.adaptive.manifest_type=dash
+#KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
+#KODIPROP:inputstream.adaptive.license_key=c24a7811d9ab46b48b746a0e7e269210:c321afe1689b07d5b7e55bd025c483ce
+#EXTVLCOPT:http-header-User-Agent=Mozilla/5.0 (Linux; Android 13; UltraBox Build/TP1A.220624.014; wv) AppleWebKit/537.36 (KHTML, like Gecko) Version/4.0 Chrome/136.0.7103.61 Mobile Safari/537.36
+https://linearjitp-playback.astro.com.my/dash-wv/linear/2303/default_primary.mpd
+
+#EXTINF:0 group-title="Astro",702 HITS NOW
+#KODIPROP:inputstream.adaptive.manifest_type=dash
+#KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
+#KODIPROP:inputstream.adaptive.license_key=4307def6a29bec082f8c93f1f98e5910:a4d49bda8cd29ba2888c732b4e7d9d63
+#EXTVLCOPT:http-header-User-Agent=Mozilla/5.0 (Linux; Android 13; UltraBox Build/TP1A.220624.014; wv) AppleWebKit/537.36 (KHTML, like Gecko) Version/4.0 Chrome/136.0.7103.61 Mobile Safari/537.36
+https://linearjitp-playback.astro.com.my/dash-wv/linear/5110/default_primary.mpd
+
+#EXTINF:0 group-title="Astro",703 LIFETIME HD
+#KODIPROP:inputstream.adaptive.manifest_type=dash
+#KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
+#KODIPROP:inputstream.adaptive.license_key=8de11e005db5bd0db8228814863cd310:183b3eafa4c82e68f74c4244d54906b0
+#EXTVLCOPT:http-header-User-Agent=Mozilla/5.0 (Linux; Android 13; UltraBox Build/TP1A.220624.014; wv) AppleWebKit/537.36 (KHTML, like Gecko) Version/4.0 Chrome/136.0.7103.61 Mobile Safari/537.36
+https://linearjitp-playback.astro.com.my/dash-wv/linear/5052/default_primary.mpd
+
+#EXTINF:0 group-title="Astro",706 HITS HD
+#KODIPROP:inputstream.adaptive.manifest_type=dash
+#KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
+#KODIPROP:inputstream.adaptive.license_key=1fe92685a75844dc54c9dac124802510:36cb2063bf5338d18d31657371b15817
+#EXTVLCOPT:http-header-User-Agent=Mozilla/5.0 (Linux; Android 13; UltraBox Build/TP1A.220624.014; wv) AppleWebKit/537.36 (KHTML, like Gecko) Version/4.0 Chrome/136.0.7103.61 Mobile Safari/537.36
+https://linearjitp-playback.astro.com.my/dash-wv/linear/606/default_primary.mpd
+
+#EXTINF:0 group-title="Astro",707 TLC HD
+#KODIPROP:inputstream.adaptive.manifest_type=dash
+#KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
+#KODIPROP:inputstream.adaptive.license_key=942ec156203b2aca1ddf3498f663c110:7f5e6c69698ddefcb74553431b2b1c98
+#EXTVLCOPT:http-header-User-Agent=Mozilla/5.0 (Linux; Android 13; UltraBox Build/TP1A.220624.014; wv) AppleWebKit/537.36 (KHTML, like Gecko) Version/4.0 Chrome/136.0.7103.61 Mobile Safari/537.36
+https://linearjitp-playback.astro.com.my/dash-wv/linear/2709/default_primary.mpd
+
+#EXTINF:0 group-title="Astro",708 FOOD NETWORK
+#KODIPROP:inputstream.adaptive.manifest_type=dash
+#KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
+#KODIPROP:inputstream.adaptive.license_key=2d13c814df4a0c2ce488b2eda052d710:2dc2a7617bde2ab00136ee689c56d789
+#EXTVLCOPT:http-header-User-Agent=Mozilla/5.0 (Linux; Android 13; UltraBox Build/TP1A.220624.014; wv) AppleWebKit/537.36 (KHTML, like Gecko) Version/4.0 Chrome/136.0.7103.61 Mobile Safari/537.36
+https://linearjitp-playback.astro.com.my/dash-wv/linear/2300/default_primary.mpd
+
+#EXTINF:0 group-title="Astro",709 ASIAN FOOD NETWORK HD
+#KODIPROP:inputstream.adaptive.manifest_type=dash
+#KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
+#KODIPROP:inputstream.adaptive.license_key=346b9f41e2933748c8861f82932e0110:cf0cffb637b81598a27bd6b0d90d65a8
+#EXTVLCOPT:http-header-User-Agent=Mozilla/5.0 (Linux; Android 13; UltraBox Build/TP1A.220624.014; wv) AppleWebKit/537.36 (KHTML, like Gecko) Version/4.0 Chrome/136.0.7103.61 Mobile Safari/537.36
+https://linearjitp-playback.astro.com.my/dash-wv/linear/500/default_primary.mpd
+
+#EXTINF:0 group-title="Astro",712 WARNER TV
+#KODIPROP:inputstream.adaptive.manifest_type=dash
+#KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
+#KODIPROP:inputstream.adaptive.license_key=6093e12639b24cd651ee6b3c13446d10:f8326f668c7bee309e5302b513e5bdf7
+#EXTVLCOPT:http-header-User-Agent=Mozilla/5.0 (Linux; Android 13; UltraBox Build/TP1A.220624.014; wv) AppleWebKit/537.36 (KHTML, like Gecko) Version/4.0 Chrome/136.0.7103.61 Mobile Safari/537.36
+https://linearjitp-playback.astro.com.my/dash-wv/linear/2605/default_primary.mpd
+
+#EXTINF:0 group-title="Astro",714 CRIME & INVESTIGATION HD
+#KODIPROP:inputstream.adaptive.manifest_type=dash
+#KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
+#KODIPROP:inputstream.adaptive.license_key=22fc5baf47ae3b6322bc244206bbb210:db1ee2b8994b91aac65049ef3e493787
+#EXTVLCOPT:http-header-User-Agent=Mozilla/5.0 (Linux; Android 13; UltraBox Build/TP1A.220624.014; wv) AppleWebKit/537.36 (KHTML, like Gecko) Version/4.0 Chrome/136.0.7103.61 Mobile Safari/537.36
+https://linearjitp-playback.astro.com.my/dash-wv/linear/2111/default_primary.mpd
+
+#EXTINF:0 group-title="Astro",715 HGTV HD
+#KODIPROP:inputstream.adaptive.manifest_type=dash
+#KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
+#KODIPROP:inputstream.adaptive.license_key=8c1bb309955eee32882390abebe19810:2a695b046e7cf5811a634d1348441195
+#EXTVLCOPT:http-header-User-Agent=Mozilla/5.0 (Linux; Android 13; UltraBox Build/TP1A.220624.014; wv) AppleWebKit/537.36 (KHTML, like Gecko) Version/4.0 Chrome/136.0.7103.61 Mobile Safari/537.36
+https://linearjitp-playback.astro.com.my/dash-wv/linear/2502/default_primary.mpd
+
+#EXTINF:0 group-title="Astro",716 DMAX
+#KODIPROP:inputstream.adaptive.manifest_type=dash
+#KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
+#KODIPROP:inputstream.adaptive.license_key=0e21da304a29298ceca1fdfd1e71e210:87de38cf3ed2bbcd5d89b63e571bfe21
+#EXTVLCOPT:http-header-User-Agent=Mozilla/5.0 (Linux; Android 13; UltraBox Build/TP1A.220624.014; wv) AppleWebKit/537.36 (KHTML, like Gecko) Version/4.0 Chrome/136.0.7103.61 Mobile Safari/537.36
+https://linearjitp-playback.astro.com.my/dash-wv/linear/2610/default_primary.mpd
+
+#EXTINF:0 group-title="Astro",717 BBC LIFESTYLE HD
+#KODIPROP:inputstream.adaptive.manifest_type=dash
+#KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
+#KODIPROP:inputstream.adaptive.license_key=f429292dc744f284355308561577ac10:b12e1f894129c517dc8845baaeebec8a
+#EXTVLCOPT:http-header-User-Agent=Mozilla/5.0 (Linux; Android 13; UltraBox Build/TP1A.220624.014; wv) AppleWebKit/537.36 (KHTML, like Gecko) Version/4.0 Chrome/136.0.7103.61 Mobile Safari/537.36
+https://linearjitp-playback.astro.com.my/dash-wv/linear/5050/default_primary.mpd
+
+#EXTINF:0 group-title="Astro",718 MTV LIVE
+#KODIPROP:inputstream.adaptive.manifest_type=dash
+#KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
+#KODIPROP:inputstream.adaptive.license_key=3ac2542a4f7be746633db07647451710:22f964a6d6927ccdba482e775cdff190
+#EXTVLCOPT:http-header-User-Agent=Mozilla/5.0 (Linux; Android 13; UltraBox Build/TP1A.220624.014; wv) AppleWebKit/537.36 (KHTML, like Gecko) Version/4.0 Chrome/136.0.7103.61 Mobile Safari/537.36
+https://linearjitp-playback.astro.com.my/dash-wv/linear/5014/default_primary.mpd
+
+#EXTINF:0 group-title="Astro",801 ASTRO ARENA
+#KODIPROP:inputstream.adaptive.manifest_type=dash
+#KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
+#KODIPROP:inputstream.adaptive.license_key=efda647dad723563b625be8c05ee6110:6776985938b332164b97b81fe566a34a
+#EXTVLCOPT:http-header-User-Agent=Mozilla/5.0 (Linux; Android 13; UltraBox Build/TP1A.220624.014; wv) AppleWebKit/537.36 (KHTML, like Gecko) Version/4.0 Chrome/136.0.7103.61 Mobile Safari/537.36
+https://linearjitp-playback.astro.com.my/dash-wv/linear/2604/default_primary.mpd
+
+#EXTINF:0 group-title="Astro",802 STADIUM ASTRO
+#KODIPROP:inputstream.adaptive.manifest_type=dash
+#KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
+#KODIPROP:inputstream.adaptive.license_key=ead0335d60401225727a6d531e9c2710:1ee3b252227c5c2ec9378c833d2e14ff
+#EXTVLCOPT:http-header-User-Agent=Mozilla/5.0 (Linux; Android 13; UltraBox Build/TP1A.220624.014; wv) AppleWebKit/537.36 (KHTML, like Gecko) Version/4.0 Chrome/136.0.7103.61 Mobile Safari/537.36
+https://linearjitp-playback.astro.com.my/dash-wv/linear/5057/default_primary.mpd
+
+#EXTINF:0 group-title="Astro",803 ASTRO ARENA BOLA
+#KODIPROP:inputstream.adaptive.manifest_type=dash
+#KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
+#KODIPROP:inputstream.adaptive.license_key=499a8f368064b11cc092b7b013db0710:e151bb81468a8426d6ab12860d314aa3
+#EXTVLCOPT:http-header-User-Agent=Mozilla/5.0 (Linux; Android 13; UltraBox Build/TP1A.220624.014; wv) AppleWebKit/537.36 (KHTML, like Gecko) Version/4.0 Chrome/136.0.7103.61 Mobile Safari/537.36
+https://linearjitp-playback.astro.com.my/dash-wv/linear/5099/default_primary.mpd
+
+#EXTINF:0 group-title="Astro",804 ASTRO ARENA BOLA 2
+#KODIPROP:inputstream.adaptive.manifest_type=dash
+#KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
+#KODIPROP:inputstream.adaptive.license_key=62a7b7917aad5123cd4df65c561c7010:b1effa9e51cf38b3ae676bc264937efb
+#EXTVLCOPT:http-header-User-Agent=Mozilla/5.0 (Linux; Android 13; UltraBox Build/TP1A.220624.014; wv) AppleWebKit/537.36 (KHTML, like Gecko) Version/4.0 Chrome/136.0.7103.61 Mobile Safari/537.36
+https://linearjitp-playback.astro.com.my/dash-wv/linear/5100/default_primary.mpd
+
+#EXTINF:0 group-title="Astro",805 ASTRO SPORTS UHD
+#KODIPROP:inputstream.adaptive.manifest_type=dash
+#KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
+#KODIPROP:inputstream.adaptive.license_key=8ac8b2f7af05ad829805345a517bc110:ee1ae1cd086fa9bfc0505e6d5e9e27e9
+#EXTVLCOPT:http-header-User-Agent=Mozilla/5.0 (Linux; Android 13; UltraBox Build/TP1A.220624.014; wv) AppleWebKit/537.36 (KHTML, like Gecko) Version/4.0 Chrome/136.0.7103.61 Mobile Safari/537.36
+https://linearjitp-playback.astro.com.my/dash-wv/linear/1600/default_primary.mpd
+
+#EXTINF:0 group-title="Astro",806 SUKAN+
+#KODIPROP:inputstream.adaptive.manifest_type=dash
+#KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
+#KODIPROP:inputstream.adaptive.license_key=f7501b321ce3eca79e4437bb8baaae10:eac3ebb6b493616e6a533e8f468ed14f
+#EXTVLCOPT:http-header-User-Agent=Mozilla/5.0 (Linux; Android 13; UltraBox Build/TP1A.220624.014; wv) AppleWebKit/537.36 (KHTML, like Gecko) Version/4.0 Chrome/136.0.7103.61 Mobile Safari/537.36
+https://linearjitp-playback.astro.com.my/dash-wv/linear/5212/default_primary.mpd
+
+#EXTINF:0 group-title="Astro",807 ASTRO ARENA BOLA 3
+#KODIPROP:inputstream.adaptive.manifest_type=dash
+#KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
+#KODIPROP:inputstream.adaptive.license_key=9747cb0f074483e5e46949db6b96fb10:3ee4350bc09280599c2df65e1869ed18
+#EXTVLCOPT:http-header-User-Agent=Mozilla/5.0 (Linux; Android 13; UltraBox Build/TP1A.220624.014; wv) AppleWebKit/537.36 (KHTML, like Gecko) Version/4.0 Chrome/136.0.7103.61 Mobile Safari/537.36
+https://linearjitp-playback.astro.com.my/dash-wv/linear/5101/default_primary.mpd
+
+#EXTINF:0 group-title="Astro",807 ASTRO FIRST (PPV)
+#KODIPROP:inputstream.adaptive.manifest_type=dash
+#KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
+#KODIPROP:inputstream.adaptive.license_key=b7192c458481368dda1ecb65ec945710:03f1c0ae1cec374f3b7d494c7436d3fd
+#EXTVLCOPT:http-header-User-Agent=Mozilla/5.0 (Linux; Android 13; UltraBox Build/TP1A.220624.014; wv) AppleWebKit/537.36 (KHTML, like Gecko) Version/4.0 Chrome/136.0.7103.61 Mobile Safari/537.36
+https://linearjitp-playback.astro.com.my/dash-wv/linear/5135/default_primary.mpd
+
+#EXTINF:0 group-title="Astro",807 ASTRO PREMIER LEAGUE
+#KODIPROP:inputstream.adaptive.manifest_type=dash
+#KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
+#KODIPROP:inputstream.adaptive.license_key=ff42cd44150b7a1294a3b54bbf9b9810:ba08a95b7c364a9655b9d0aabac6cee2
+#EXTVLCOPT:http-header-User-Agent=Mozilla/5.0 (Linux; Android 13; UltraBox Build/TP1A.220624.014; wv) AppleWebKit/537.36 (KHTML, like Gecko) Version/4.0 Chrome/136.0.7103.61 Mobile Safari/537.36
+https://linearjitp-playback.astro.com.my/dash-wv/linear/5118/default_primary.mpd
+
+#EXTINF:0 group-title="Astro",807 ASTRO RIA
+#KODIPROP:inputstream.adaptive.manifest_type=dash
+#KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
+#KODIPROP:inputstream.adaptive.license_key=b7192c458481368dda1ecb65ec945710:03f1c0ae1cec374f3b7d494c7436d3fd
+#EXTVLCOPT:http-header-User-Agent=Mozilla/5.0 (Linux; Android 13; UltraBox Build/TP1A.220624.014; wv) AppleWebKit/537.36 (KHTML, like Gecko) Version/4.0 Chrome/136.0.7103.61 Mobile Safari/537.36
+https://linearjitp-playback.astro.com.my/dash-wv/linear/5135/default_primary.mpd
+
+#EXTINF:0 group-title="Astro",808 ASTRO ARENA BOLA 4
+#KODIPROP:inputstream.adaptive.manifest_type=dash
+#KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
+#KODIPROP:inputstream.adaptive.license_key=2cb9e74464744126a406b04bb92070bf:8a6b59d0bf43e1265fceefe321840061
+#EXTVLCOPT:http-header-User-Agent=Mozilla/5.0 (Linux; Android 13; UltraBox Build/TP1A.220624.014; wv) AppleWebKit/537.36 (KHTML, like Gecko) Version/4.0 Chrome/136.0.7103.61 Mobile Safari/537.36
+https://linearjitp-playback.astro.com.my/dash-wv/linear/5102/default_primary.mpd
+
+#EXTINF:0 group-title="Astro",808 ASTRO FIRST (PPV)
+#KODIPROP:inputstream.adaptive.manifest_type=dash
+#KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
+#KODIPROP:inputstream.adaptive.license_key={"keys":[{"kty"
+#EXTVLCOPT:http-header-User-Agent=Mozilla/5.0 (Linux; Android 13; UltraBox Build/TP1A.220624.014; wv) AppleWebKit/537.36 (KHTML, like Gecko) Version/4.0 Chrome/136.0.7103.61 Mobile Safari/537.36
+https://linearjitp-playback.astro.com.my/dash-wv/linear/5050/default_primary.mpd
+
+#EXTINF:0 group-title="Astro",808 ASTRO PREMIER LEAGUE 4
+#KODIPROP:inputstream.adaptive.manifest_type=dash
+#KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
+#KODIPROP:inputstream.adaptive.license_key=3225f837a4b95d6e46683c53818c1710:3e1b57c06699c7e408e7aa49ff57d4f4
+#EXTVLCOPT:http-header-User-Agent=Mozilla/5.0 (Linux; Android 13; UltraBox Build/TP1A.220624.014; wv) AppleWebKit/537.36 (KHTML, like Gecko) Version/4.0 Chrome/136.0.7103.61 Mobile Safari/537.36
+https://linearjitp-playback.astro.com.my/dash-wv/linear/5111/default_primary.mpd
+
+#EXTINF:0 group-title="Astro",809 ASTRO FIRST (PPV)
+#KODIPROP:inputstream.adaptive.manifest_type=dash
+#KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
+#KODIPROP:inputstream.adaptive.license_key=56cf30a4eccd68241dcb2afa27ba7210:0b8b216f6c6377cde01768816ac78e4f
+#EXTVLCOPT:http-header-User-Agent=Mozilla/5.0 (Linux; Android 13; UltraBox Build/TP1A.220624.014; wv) AppleWebKit/537.36 (KHTML, like Gecko) Version/4.0 Chrome/136.0.7103.61 Mobile Safari/537.36
+https://linearjitp-playback.astro.com.my/dash-wv/linear/5187/default_primary.mpd
+
+#EXTINF:0 group-title="Astro",809 ASTRO PREMIER LEAGUE 5
+#KODIPROP:inputstream.adaptive.manifest_type=dash
+#KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
+#KODIPROP:inputstream.adaptive.license_key=229670469469aa6f78bc5bbe10071810:3b3ede68e8bb9d0d4e3b4517c422cccf
+#EXTVLCOPT:http-header-User-Agent=Mozilla/5.0 (Linux; Android 13; UltraBox Build/TP1A.220624.014; wv) AppleWebKit/537.36 (KHTML, like Gecko) Version/4.0 Chrome/136.0.7103.61 Mobile Safari/537.36
+https://linearjitp-playback.astro.com.my/dash-wv/linear/5113/default_primary.mpd
+
+#EXTINF:0 group-title="Astro",810 ASTRO FIRST (PPV)
+#KODIPROP:inputstream.adaptive.manifest_type=dash
+#KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
+#KODIPROP:inputstream.adaptive.license_key=7aba9150a2cd133e302846cdab551510:01d48cea036bd3eb6cef93ed4496d7fd
+#EXTVLCOPT:http-header-User-Agent=Mozilla/5.0 (Linux; Android 13; UltraBox Build/TP1A.220624.014; wv) AppleWebKit/537.36 (KHTML, like Gecko) Version/4.0 Chrome/136.0.7103.61 Mobile Safari/537.36
+https://linearjitp-playback.astro.com.my/dash-wv/linear/5185/default_primary.mpd
+
+#EXTINF:0 group-title="Astro",810 ASTRO GRANDSTAND
+#KODIPROP:inputstream.adaptive.manifest_type=dash
+#KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
+#KODIPROP:inputstream.adaptive.license_key=5be66a6f88efee3d6e30f72a9c58e310:168f3fadfc730ba3dfc932f7c430e27d
+#EXTVLCOPT:http-header-User-Agent=Mozilla/5.0 (Linux; Android 13; UltraBox Build/TP1A.220624.014; wv) AppleWebKit/537.36 (KHTML, like Gecko) Version/4.0 Chrome/136.0.7103.61 Mobile Safari/537.36
+https://linearjitp-playback.astro.com.my/dash-wv/linear/2701/default_primary.mpd
+
+#EXTINF:0 group-title="Astro",811 ASTRO FIRST (PPV)
+#KODIPROP:inputstream.adaptive.manifest_type=dash
+#KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
+#KODIPROP:inputstream.adaptive.license_key=c4e5f5d3111d4b2e410d799fb85cf710:9775001e7993ed073fc3f83bfc59337e
+#EXTVLCOPT:http-header-User-Agent=Mozilla/5.0 (Linux; Android 13; UltraBox Build/TP1A.220624.014; wv) AppleWebKit/537.36 (KHTML, like Gecko) Version/4.0 Chrome/136.0.7103.61 Mobile Safari/537.36
+https://linearjitp-playback.astro.com.my/dash-wv/linear/5182/default_primary.mpd
+
+#EXTINF:0 group-title="Astro",811 ASTRO PREMIER LEAGUE
+#KODIPROP:inputstream.adaptive.manifest_type=dash
+#KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
+#KODIPROP:inputstream.adaptive.license_key=f749ab71f227999bfb098f73359aac10:4f15413f7e4767b50c48e19b7f9a2fcc
+#EXTVLCOPT:http-header-User-Agent=Mozilla/5.0 (Linux; Android 13; UltraBox Build/TP1A.220624.014; wv) AppleWebKit/537.36 (KHTML, like Gecko) Version/4.0 Chrome/136.0.7103.61 Mobile Safari/537.36
+https://linearjitp-playback.astro.com.my/dash-wv/linear/601/default_primary.mpd
+
+#EXTINF:0 group-title="Astro",812 ASTRO PREMIER LEAGUE 2
+#KODIPROP:inputstream.adaptive.manifest_type=dash
+#KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
+#KODIPROP:inputstream.adaptive.license_key=c1dc92f0789f112503c0db3bde2f1210:ddfa6e8d549b4d5177a9cade7f9a0b23
+#EXTVLCOPT:http-header-User-Agent=Mozilla/5.0 (Linux; Android 13; UltraBox Build/TP1A.220624.014; wv) AppleWebKit/537.36 (KHTML, like Gecko) Version/4.0 Chrome/136.0.7103.61 Mobile Safari/537.36
+https://linearjitp-playback.astro.com.my/dash-wv/linear/2104/default_primary.mpd
+
+#EXTINF:0 group-title="Astro",813 ASTRO PREMIER LEAGUE 3
+#KODIPROP:inputstream.adaptive.manifest_type=dash
+#KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
+#KODIPROP:inputstream.adaptive.license_key=1ece3ecb41699e855c6dc9a283908210:ba08be767e1a5e89777e68a6998a8c19
+#EXTVLCOPT:http-header-User-Agent=Mozilla/5.0 (Linux; Android 13; UltraBox Build/TP1A.220624.014; wv) AppleWebKit/537.36 (KHTML, like Gecko) Version/4.0 Chrome/136.0.7103.61 Mobile Safari/537.36
+https://linearjitp-playback.astro.com.my/dash-wv/linear/5108/default_primary.mpd
+
+#EXTINF:0 group-title="Astro",814 ASTRO FOOTBALL
+#KODIPROP:inputstream.adaptive.manifest_type=dash
+#KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
+#KODIPROP:inputstream.adaptive.license_key=79f4028730acca9ab8b00f26158ddb10:91febe843c08c7cc523efd827292e40e
+#EXTVLCOPT:http-header-User-Agent=Mozilla/5.0 (Linux; Android 13; UltraBox Build/TP1A.220624.014; wv) AppleWebKit/537.36 (KHTML, like Gecko) Version/4.0 Chrome/136.0.7103.61 Mobile Safari/537.36
+https://linearjitp-playback.astro.com.my/dash-wv/linear/2506/default_primary.mpd
+
+#EXTINF:0 group-title="Astro",815 ASTRO BADMINTON
+#KODIPROP:inputstream.adaptive.manifest_type=dash
+#KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
+#KODIPROP:inputstream.adaptive.license_key=6ff0e040d544ec3f02243865990f0c10:83728b47019abdbb37aa36ed5f2951bd
+#EXTVLCOPT:http-header-User-Agent=Mozilla/5.0 (Linux; Android 13; UltraBox Build/TP1A.220624.014; wv) AppleWebKit/537.36 (KHTML, like Gecko) Version/4.0 Chrome/136.0.7103.61 Mobile Safari/537.36
+https://linearjitp-playback.astro.com.my/dash-wv/linear/5170/default_primary.mpd
+
+#EXTINF:0 group-title="Astro",816 ASTRO BADMINTON 2
+#KODIPROP:inputstream.adaptive.manifest_type=dash
+#KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
+#KODIPROP:inputstream.adaptive.license_key=72ad6eaa1904540138487fffa3ad6510:17c19ad670a557e6882419d6923fad27
+#EXTVLCOPT:http-header-User-Agent=Mozilla/5.0 (Linux; Android 13; UltraBox Build/TP1A.220624.014; wv) AppleWebKit/537.36 (KHTML, like Gecko) Version/4.0 Chrome/136.0.7103.61 Mobile Safari/537.36
+https://linearjitp-playback.astro.com.my/dash-wv/linear/5172/default_primary.mpd
+
+#EXTINF:0 group-title="Astro",817 ASTRO SPORTS PLUS
+#KODIPROP:inputstream.adaptive.manifest_type=dash
+#KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
+#KODIPROP:inputstream.adaptive.license_key=81352bc47ec1177b321ee65ac1be7f10:c8b886142005d7e5067c8717777eaac4
+#EXTVLCOPT:http-header-User-Agent=Mozilla/5.0 (Linux; Android 13; UltraBox Build/TP1A.220624.014; wv) AppleWebKit/537.36 (KHTML, like Gecko) Version/4.0 Chrome/136.0.7103.61 Mobile Safari/537.36
+https://linearjitp-playback.astro.com.my/dash-wv/linear/5171/default_primary.mpd
+
+#EXTINF:0 group-title="Astro",818 ASTRO SPORTS PLUS 2
+#KODIPROP:inputstream.adaptive.manifest_type=dash
+#KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
+#KODIPROP:inputstream.adaptive.license_key=89c10c7ef0af145be7d6e88dec090b10:80558606a13a99d2c543872d8899ced0
+#EXTVLCOPT:http-header-User-Agent=Mozilla/5.0 (Linux; Android 13; UltraBox Build/TP1A.220624.014; wv) AppleWebKit/537.36 (KHTML, like Gecko) Version/4.0 Chrome/136.0.7103.61 Mobile Safari/537.36
+https://linearjitp-playback.astro.com.my/dash-wv/linear/5076/default_primary.mpd
+
+#EXTINF:0 group-title="Astro",819 ASTRO SPORTS PLUS 3
+#KODIPROP:inputstream.adaptive.manifest_type=dash
+#KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
+#KODIPROP:inputstream.adaptive.license_key=56cf30a4eccd68241dcb2afa27ba7210:0b8b216f6c6377cde01768816ac78e4f
+#EXTVLCOPT:http-header-User-Agent=Mozilla/5.0 (Linux; Android 13; UltraBox Build/TP1A.220624.014; wv) AppleWebKit/537.36 (KHTML, like Gecko) Version/4.0 Chrome/136.0.7103.61 Mobile Safari/537.36
+https://linearjitp-playback.astro.com.my/dash-wv/linear/5187/default_primary.mpd
+
+#EXTINF:0 group-title="Astro",819 ASTRO TENNIS
+#KODIPROP:inputstream.adaptive.manifest_type=dash
+#KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
+#KODIPROP:inputstream.adaptive.license_key=9e5ed3d8667b8722424add3417525f10:9612322dfc5750a0f5b0d686661ef82e
+#EXTVLCOPT:http-header-User-Agent=Mozilla/5.0 (Linux; Android 13; UltraBox Build/TP1A.220624.014; wv) AppleWebKit/537.36 (KHTML, like Gecko) Version/4.0 Chrome/136.0.7103.61 Mobile Safari/537.36
+https://linearjitp-playback.astro.com.my/dash-wv/linear/5210/default_primary.mpd
+
+#EXTINF:0 group-title="Astro",820 BEIN SPORTS
+#KODIPROP:inputstream.adaptive.manifest_type=dash
+#KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
+#KODIPROP:inputstream.adaptive.license_key=1a655189ab5c49eb235308c2b1a9e710:3c4508af348844107f5e026a4fd6b16e
+#EXTVLCOPT:http-header-User-Agent=Mozilla/5.0 (Linux; Android 13; UltraBox Build/TP1A.220624.014; wv) AppleWebKit/537.36 (KHTML, like Gecko) Version/4.0 Chrome/136.0.7103.61 Mobile Safari/537.36
+https://linearjitp-playback.astro.com.my/dash-wv/linear/408/default_primary.mpd
+
+#EXTINF:0 group-title="Astro",821 BEIN SPORTS 2
+#KODIPROP:inputstream.adaptive.manifest_type=dash
+#KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
+#KODIPROP:inputstream.adaptive.license_key=39c175581e237eff9559607eb9b23c10:5102b12aac7756c65dcb46a101d960d3
+#EXTVLCOPT:http-header-User-Agent=Mozilla/5.0 (Linux; Android 13; UltraBox Build/TP1A.220624.014; wv) AppleWebKit/537.36 (KHTML, like Gecko) Version/4.0 Chrome/136.0.7103.61 Mobile Safari/537.36
+https://linearjitp-playback.astro.com.my/dash-wv/linear/5066/default_primary.mpd
+
+#EXTINF:0 group-title="Astro",822 BEIN SPORTS 3
+#KODIPROP:inputstream.adaptive.manifest_type=dash
+#KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
+#KODIPROP:inputstream.adaptive.license_key=20c884ef8ed26b2762f8b1a78f2d1910:042a21bf236ca729b1e343ed6e0a6337
+#EXTVLCOPT:http-header-User-Agent=Mozilla/5.0 (Linux; Android 13; UltraBox Build/TP1A.220624.014; wv) AppleWebKit/537.36 (KHTML, like Gecko) Version/4.0 Chrome/136.0.7103.61 Mobile Safari/537.36
+https://linearjitp-playback.astro.com.my/dash-wv/linear/2705/default_primary.mpd
+
+#EXTINF:0 group-title="Astro",823 BEIN SPORTS 4
+#KODIPROP:inputstream.adaptive.manifest_type=dash
+#KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
+#KODIPROP:inputstream.adaptive.license_key=34b831a974501d106f6545e9f93de010:c31ef8e8ac1139b985ac3673002b7014
+#EXTVLCOPT:http-header-User-Agent=Mozilla/5.0 (Linux; Android 13; UltraBox Build/TP1A.220624.014; wv) AppleWebKit/537.36 (KHTML, like Gecko) Version/4.0 Chrome/136.0.7103.61 Mobile Safari/537.36
+https://linearjitp-playback.astro.com.my/dash-wv/linear/5085/default_primary.mpd
+
+#EXTINF:0 group-title="Astro",823 SPOTV
+#KODIPROP:inputstream.adaptive.manifest_type=dash
+#KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
+#KODIPROP:inputstream.adaptive.license_key=c0e1804aa1d9fd9c41c41bf0f61a5f10:758823e4eabb6e4c8c036d073db46b8c
+#EXTVLCOPT:http-header-User-Agent=Mozilla/5.0 (Linux; Android 13; UltraBox Build/TP1A.220624.014; wv) AppleWebKit/537.36 (KHTML, like Gecko) Version/4.0 Chrome/136.0.7103.61 Mobile Safari/537.36
+https://linearjitp-playback.astro.com.my/dash-wv/linear/5058/default_primary.mpd
+
+#EXTINF:0 group-title="Astro",824 BEIN SPORTS 5
+#KODIPROP:inputstream.adaptive.manifest_type=dash
+#KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
+#KODIPROP:inputstream.adaptive.license_key=7de4031a7e1079b2ff388da11db9a710:463d877c3b6a9c5948b9045ab56d6dd1
+#EXTVLCOPT:http-header-User-Agent=Mozilla/5.0 (Linux; Android 13; UltraBox Build/TP1A.220624.014; wv) AppleWebKit/537.36 (KHTML, like Gecko) Version/4.0 Chrome/136.0.7103.61 Mobile Safari/537.36
+https://linearjitp-playback.astro.com.my/dash-wv/linear/5086/default_primary.mpd
+
+#EXTINF:0 group-title="Astro",824 SPOTV2
+#KODIPROP:inputstream.adaptive.manifest_type=dash
+#KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
+#KODIPROP:inputstream.adaptive.license_key=5efd26da5001363b4d6fa4a9c812ad10:ed6d67d953d14b026b2602cf8846577e
+#EXTVLCOPT:http-header-User-Agent=Mozilla/5.0 (Linux; Android 13; UltraBox Build/TP1A.220624.014; wv) AppleWebKit/537.36 (KHTML, like Gecko) Version/4.0 Chrome/136.0.7103.61 Mobile Safari/537.36
+https://linearjitp-playback.astro.com.my/dash-wv/linear/5079/default_primary.mpd
+
+#EXTINF:0 group-title="Astro",825 EUROSPORT
+#KODIPROP:inputstream.adaptive.manifest_type=dash
+#KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
+#KODIPROP:inputstream.adaptive.license_key=4db23a41babfe9afc222a58c59828310:d0e794e3cff564ed2c720a098eb177c7
+#EXTVLCOPT:http-header-User-Agent=Mozilla/5.0 (Linux; Android 13; UltraBox Build/TP1A.220624.014; wv) AppleWebKit/537.36 (KHTML, like Gecko) Version/4.0 Chrome/136.0.7103.61 Mobile Safari/537.36
+https://linearjitp-playback.astro.com.my/dash-wv/linear/2100/default_primary.mpd
+
+#EXTINF:0 group-title="Astro",826 W-SPORT
+#KODIPROP:inputstream.adaptive.manifest_type=dash
+#KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
+#KODIPROP:inputstream.adaptive.license_key=010cbb9cf1a01ead38070730d38bc710:9cd5c0d1e54c22e035d88dd3c1dfc84c
+#EXTVLCOPT:http-header-User-Agent=Mozilla/5.0 (Linux; Android 13; UltraBox Build/TP1A.220624.014; wv) AppleWebKit/537.36 (KHTML, like Gecko) Version/4.0 Chrome/136.0.7103.61 Mobile Safari/537.36
+https://linearjitp-playback.astro.com.my/dash-wv/linear/5060/default_primary.mpd
+
+#EXTINF:0 group-title="Astro",831 ASTRO GOLF
+#KODIPROP:inputstream.adaptive.manifest_type=dash
+#KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
+#KODIPROP:inputstream.adaptive.license_key=705bab5e645b6d7c95588b29520f8110:28639bcfb5cbee8ff9ca398fcf5bfcd0
+#EXTVLCOPT:http-header-User-Agent=Mozilla/5.0 (Linux; Android 13; UltraBox Build/TP1A.220624.014; wv) AppleWebKit/537.36 (KHTML, like Gecko) Version/4.0 Chrome/136.0.7103.61 Mobile Safari/537.36
+https://linearjitp-playback.astro.com.my/dash-wv/linear/1003/default_primary.mpd
+
+#EXTINF:0 group-title="Astro",832 CRICBUZZ
+#KODIPROP:inputstream.adaptive.manifest_type=dash
+#KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
+#KODIPROP:inputstream.adaptive.license_key=03c2e0af2f8159f9f0ce9b5dbc865f10:cd84ed136b0cc71f8ab8cd4d4f6a2e4c
+#EXTVLCOPT:http-header-User-Agent=Mozilla/5.0 (Linux; Android 13; UltraBox Build/TP1A.220624.014; wv) AppleWebKit/537.36 (KHTML, like Gecko) Version/4.0 Chrome/136.0.7103.61 Mobile Safari/537.36
+https://linearjitp-playback.astro.com.my/dash-wv/linear/2504/default_primary.mpd
+
+#EXTINF:0 group-title="Astro",833 PREMIER SPORTS RUGBY
+#KODIPROP:inputstream.adaptive.manifest_type=dash
+#KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
+#KODIPROP:inputstream.adaptive.license_key=9bfeb5068725617dbad6338473da6d10:06577ffcc4935ba24aff4c4c9dd6846d
+#EXTVLCOPT:http-header-User-Agent=Mozilla/5.0 (Linux; Android 13; UltraBox Build/TP1A.220624.014; wv) AppleWebKit/537.36 (KHTML, like Gecko) Version/4.0 Chrome/136.0.7103.61 Mobile Safari/537.36
+https://linearjitp-playback.astro.com.my/dash-wv/linear/2601/default_primary.mpd
+
+#EXTINF:0 group-title="Astro",834 ASTRO GOLF PLUS
+#KODIPROP:inputstream.adaptive.manifest_type=dash
+#KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
+#KODIPROP:inputstream.adaptive.license_key={"keys":[{"kty"
+#EXTVLCOPT:http-header-User-Agent=Mozilla/5.0 (Linux; Android 13; UltraBox Build/TP1A.220624.014; wv) AppleWebKit/537.36 (KHTML, like Gecko) Version/4.0 Chrome/136.0.7103.61 Mobile Safari/537.36
+https://linearjitp-playback.astro.com.my/dash-wv/linear/5140/default_primary.mpd
+
+#EXTINF:0 group-title="Astro",835 CRICBUZZ
+#KODIPROP:inputstream.adaptive.manifest_type=dash
+#KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
+#KODIPROP:inputstream.adaptive.license_key=581698bd7d049a4877227553e2902410:e39e223d3679e533b8144a6241f794ba
+#EXTVLCOPT:http-header-User-Agent=Mozilla/5.0 (Linux; Android 13; UltraBox Build/TP1A.220624.014; wv) AppleWebKit/537.36 (KHTML, like Gecko) Version/4.0 Chrome/136.0.7103.61 Mobile Safari/537.36
+https://linearjitp-playback.astro.com.my/dash-wv/linear/5117/default_primary.mpd
+
+#EXTINF:0 group-title="Astro",AI FM
+#KODIPROP:inputstream.adaptive.manifest_type=dash
+#KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
+#KODIPROP:inputstream.adaptive.license_key=99d0060f4d3333be90b0cae6addb4310:2f61d66cfce12bcb056571510999f3bf
+#EXTVLCOPT:http-header-User-Agent=Mozilla/5.0 (Linux; Android 13; UltraBox Build/TP1A.220624.014; wv) AppleWebKit/537.36 (KHTML, like Gecko) Version/4.0 Chrome/136.0.7103.61 Mobile Safari/537.36
+https://linearjitp-playback.astro.com.my/dash-wv/linear/140/default_primary.mpd
+
+#EXTINF:0 group-title="Astro",ASYIK FM
+#KODIPROP:inputstream.adaptive.manifest_type=dash
+#KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
+#KODIPROP:inputstream.adaptive.license_key=ba01b2f73c76432e649092767f107010:8c198e97119e46dad9a4d693f5a82aff
+#EXTVLCOPT:http-header-User-Agent=Mozilla/5.0 (Linux; Android 13; UltraBox Build/TP1A.220624.014; wv) AppleWebKit/537.36 (KHTML, like Gecko) Version/4.0 Chrome/136.0.7103.61 Mobile Safari/537.36
+https://linearjitp-playback.astro.com.my/dash-wv/linear/141/default_primary.mpd
+
+#EXTINF:0 group-title="Astro",BAYU
+#KODIPROP:inputstream.adaptive.manifest_type=dash
+#KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
+#KODIPROP:inputstream.adaptive.license_key=5515d4f22664e386c62f7cf2c166ab10:f72c380581aa12a016ea88789c679c67
+#EXTVLCOPT:http-header-User-Agent=Mozilla/5.0 (Linux; Android 13; UltraBox Build/TP1A.220624.014; wv) AppleWebKit/537.36 (KHTML, like Gecko) Version/4.0 Chrome/136.0.7103.61 Mobile Safari/537.36
+https://linearjitp-playback.astro.com.my/dash-wv/linear/135/default_primary.mpd
+
+#EXTINF:0 group-title="Astro",CLASSIC ROCK
+#KODIPROP:inputstream.adaptive.manifest_type=dash
+#KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
+#KODIPROP:inputstream.adaptive.license_key=74377f9dea75453994f7f6f5edb08e10:a064d58fa49d67614b052ab9a92a375c
+#EXTVLCOPT:http-header-User-Agent=Mozilla/5.0 (Linux; Android 13; UltraBox Build/TP1A.220624.014; wv) AppleWebKit/537.36 (KHTML, like Gecko) Version/4.0 Chrome/136.0.7103.61 Mobile Safari/537.36
+https://linearjitp-playback.astro.com.my/dash-wv/linear/124/default_primary.mpd
+
+#EXTINF:0 group-title="Astro",ERA
+#KODIPROP:inputstream.adaptive.manifest_type=dash
+#KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
+#KODIPROP:inputstream.adaptive.license_key=85294251c8aeb373689eaa0ea9587810:4d559fcc12052d9e7fce0f8f6592bba1
+#EXTVLCOPT:http-header-User-Agent=Mozilla/5.0 (Linux; Android 13; UltraBox Build/TP1A.220624.014; wv) AppleWebKit/537.36 (KHTML, like Gecko) Version/4.0 Chrome/136.0.7103.61 Mobile Safari/537.36
+https://linearjitp-playback.astro.com.my/dash-wv/linear/118/default_primary.mpd
+
+#EXTINF:0 group-title="Astro",GEGAR
+#KODIPROP:inputstream.adaptive.manifest_type=dash
+#KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
+#KODIPROP:inputstream.adaptive.license_key=70b6a9d1c5f5d275accf0a8c51dbf710:a0feca3810b9227592bd893bfb9f1f89
+#EXTVLCOPT:http-header-User-Agent=Mozilla/5.0 (Linux; Android 13; UltraBox Build/TP1A.220624.014; wv) AppleWebKit/537.36 (KHTML, like Gecko) Version/4.0 Chrome/136.0.7103.61 Mobile Safari/537.36
+https://linearjitp-playback.astro.com.my/dash-wv/linear/126/default_primary.mpd
+
+#EXTINF:0 group-title="Astro",GO XUAN
+#KODIPROP:inputstream.adaptive.manifest_type=dash
+#KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
+#KODIPROP:inputstream.adaptive.license_key=ee738a67776d147e95f95df27e626b10:ef1e7ce3e50a78788ce1831cea8e187d
+#EXTVLCOPT:http-header-User-Agent=Mozilla/5.0 (Linux; Android 13; UltraBox Build/TP1A.220624.014; wv) AppleWebKit/537.36 (KHTML, like Gecko) Version/4.0 Chrome/136.0.7103.61 Mobile Safari/537.36
+https://linearjitp-playback.astro.com.my/dash-wv/linear/143/default_primary.mpd
+
+#EXTINF:0 group-title="Astro",GOLD
+#KODIPROP:inputstream.adaptive.manifest_type=dash
+#KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
+#KODIPROP:inputstream.adaptive.license_key=8f92ecdf4cd1ac55bc8c788fa1958610:715c8401d7829c9a7c5d665922ca13f6
+#EXTVLCOPT:http-header-User-Agent=Mozilla/5.0 (Linux; Android 13; UltraBox Build/TP1A.220624.014; wv) AppleWebKit/537.36 (KHTML, like Gecko) Version/4.0 Chrome/136.0.7103.61 Mobile Safari/537.36
+https://linearjitp-playback.astro.com.my/dash-wv/linear/125/default_primary.mpd
+
+#EXTINF:0 group-title="Astro",HITZ
+#KODIPROP:inputstream.adaptive.manifest_type=dash
+#KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
+#KODIPROP:inputstream.adaptive.license_key=c759f4bc157b00a7b1dba7873197fc10:96da0bbe83b8f54194e42428e1fd6632
+#EXTVLCOPT:http-header-User-Agent=Mozilla/5.0 (Linux; Android 13; UltraBox Build/TP1A.220624.014; wv) AppleWebKit/537.36 (KHTML, like Gecko) Version/4.0 Chrome/136.0.7103.61 Mobile Safari/537.36
+https://linearjitp-playback.astro.com.my/dash-wv/linear/121/default_primary.mpd
+
+#EXTINF:0 group-title="Astro",INDIA BEAT
+#KODIPROP:inputstream.adaptive.manifest_type=dash
+#KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
+#KODIPROP:inputstream.adaptive.license_key=2b4e873bc93eff959ba232e1fa016f10:3e84b173e8997210fd270b7029491a9e
+#EXTVLCOPT:http-header-User-Agent=Mozilla/5.0 (Linux; Android 13; UltraBox Build/TP1A.220624.014; wv) AppleWebKit/537.36 (KHTML, like Gecko) Version/4.0 Chrome/136.0.7103.61 Mobile Safari/537.36
+https://linearjitp-playback.astro.com.my/dash-wv/linear/127/default_primary.mpd
+
+#EXTINF:0 group-title="Astro",JAZZ
+#KODIPROP:inputstream.adaptive.manifest_type=dash
+#KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
+#KODIPROP:inputstream.adaptive.license_key=1bbab67b1f95ae9a32db73a88c308110:b284563fcddeb078b5bfe0efb684ffa1
+#EXTVLCOPT:http-header-User-Agent=Mozilla/5.0 (Linux; Android 13; UltraBox Build/TP1A.220624.014; wv) AppleWebKit/537.36 (KHTML, like Gecko) Version/4.0 Chrome/136.0.7103.61 Mobile Safari/537.36
+https://linearjitp-playback.astro.com.my/dash-wv/linear/128/default_primary.mpd
+
+#EXTINF:0 group-title="Astro",KENYALANG
+#KODIPROP:inputstream.adaptive.manifest_type=dash
+#KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
+#KODIPROP:inputstream.adaptive.license_key=fdd9690c43631eac67dbfb11a6d6a510:53bcece8d71ecbe7bac08a94927cf358
+#EXTVLCOPT:http-header-User-Agent=Mozilla/5.0 (Linux; Android 13; UltraBox Build/TP1A.220624.014; wv) AppleWebKit/537.36 (KHTML, like Gecko) Version/4.0 Chrome/136.0.7103.61 Mobile Safari/537.36
+https://linearjitp-playback.astro.com.my/dash-wv/linear/136/default_primary.mpd
+
+#EXTINF:0 group-title="Astro",LITE
+#KODIPROP:inputstream.adaptive.manifest_type=dash
+#KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
+#KODIPROP:inputstream.adaptive.license_key=e8ab350491e05128235859f127225b10:b59d48e5da5e34a1d17bcb6e8cc36267
+#EXTVLCOPT:http-header-User-Agent=Mozilla/5.0 (Linux; Android 13; UltraBox Build/TP1A.220624.014; wv) AppleWebKit/537.36 (KHTML, like Gecko) Version/4.0 Chrome/136.0.7103.61 Mobile Safari/537.36
+https://linearjitp-playback.astro.com.my/dash-wv/linear/123/default_primary.mpd
+
+#EXTINF:0 group-title="Astro",MELODY
+#KODIPROP:inputstream.adaptive.manifest_type=dash
+#KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
+#KODIPROP:inputstream.adaptive.license_key=d34dc49701f9c22b9f20baabb27ad410:6df52c46b193522fe87420938e029759
+#EXTVLCOPT:http-header-User-Agent=Mozilla/5.0 (Linux; Android 13; UltraBox Build/TP1A.220624.014; wv) AppleWebKit/537.36 (KHTML, like Gecko) Version/4.0 Chrome/136.0.7103.61 Mobile Safari/537.36
+https://linearjitp-playback.astro.com.my/dash-wv/linear/132/default_primary.mpd
+
+#EXTINF:0 group-title="Astro",MINNAL FM
+#KODIPROP:inputstream.adaptive.manifest_type=dash
+#KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
+#KODIPROP:inputstream.adaptive.license_key=4a2428702c66220ce105d5cba2033410:d2011e32b524a02e43978e1a066394bd
+#EXTVLCOPT:http-header-User-Agent=Mozilla/5.0 (Linux; Android 13; UltraBox Build/TP1A.220624.014; wv) AppleWebKit/537.36 (KHTML, like Gecko) Version/4.0 Chrome/136.0.7103.61 Mobile Safari/537.36
+https://linearjitp-playback.astro.com.my/dash-wv/linear/139/default_primary.mpd
+
+#EXTINF:0 group-title="Astro",MIX
+#KODIPROP:inputstream.adaptive.manifest_type=dash
+#KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
+#KODIPROP:inputstream.adaptive.license_key=14f020e638635a66792cc7955e4d2810:8e2be3777dd95fb09ce2a70cf099cf8a
+#EXTVLCOPT:http-header-User-Agent=Mozilla/5.0 (Linux; Android 13; UltraBox Build/TP1A.220624.014; wv) AppleWebKit/537.36 (KHTML, like Gecko) Version/4.0 Chrome/136.0.7103.61 Mobile Safari/537.36
+https://linearjitp-playback.astro.com.my/dash-wv/linear/122/default_primary.mpd
+
+#EXTINF:0 group-title="Astro",MY
+#KODIPROP:inputstream.adaptive.manifest_type=dash
+#KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
+#KODIPROP:inputstream.adaptive.license_key=8f618c12955ac5c431f5f901451c9d10:433fa68d6ec980675c96bb5ae2e01789
+#EXTVLCOPT:http-header-User-Agent=Mozilla/5.0 (Linux; Android 13; UltraBox Build/TP1A.220624.014; wv) AppleWebKit/537.36 (KHTML, like Gecko) Version/4.0 Chrome/136.0.7103.61 Mobile Safari/537.36
+https://linearjitp-playback.astro.com.my/dash-wv/linear/119/default_primary.mpd
+
+#EXTINF:0 group-title="Astro",NASIONAL FM
+#KODIPROP:inputstream.adaptive.manifest_type=dash
+#KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
+#KODIPROP:inputstream.adaptive.license_key=ae8c20070c706333ad13230f05411c10:9c0832a8dbc36d2ab5892600ea6960fd
+#EXTVLCOPT:http-header-User-Agent=Mozilla/5.0 (Linux; Android 13; UltraBox Build/TP1A.220624.014; wv) AppleWebKit/537.36 (KHTML, like Gecko) Version/4.0 Chrome/136.0.7103.61 Mobile Safari/537.36
+https://linearjitp-playback.astro.com.my/dash-wv/linear/129/default_primary.mpd
+
+#EXTINF:0 group-title="Astro",OPUS
+#KODIPROP:inputstream.adaptive.manifest_type=dash
+#KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
+#KODIPROP:inputstream.adaptive.license_key=a14f9a14450a96032b106d4ee8181310:b0b97cca1f9e311a09d33265c85a20e8
+#EXTVLCOPT:http-header-User-Agent=Mozilla/5.0 (Linux; Android 13; UltraBox Build/TP1A.220624.014; wv) AppleWebKit/537.36 (KHTML, like Gecko) Version/4.0 Chrome/136.0.7103.61 Mobile Safari/537.36
+https://linearjitp-playback.astro.com.my/dash-wv/linear/120/default_primary.mpd
+
+#EXTINF:0 group-title="Astro",OSAI
+#KODIPROP:inputstream.adaptive.manifest_type=dash
+#KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
+#KODIPROP:inputstream.adaptive.license_key=082e516398c5ea15d6b9cda572247c10:cb8b2f2190cd84b62e6876fcc6bf24bf
+#EXTVLCOPT:http-header-User-Agent=Mozilla/5.0 (Linux; Android 13; UltraBox Build/TP1A.220624.014; wv) AppleWebKit/537.36 (KHTML, like Gecko) Version/4.0 Chrome/136.0.7103.61 Mobile Safari/537.36
+https://linearjitp-playback.astro.com.my/dash-wv/linear/131/default_primary.mpd
+
+#EXTINF:0 group-title="Astro",RAAGA
+#KODIPROP:inputstream.adaptive.manifest_type=dash
+#KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
+#KODIPROP:inputstream.adaptive.license_key=8d9ba6f62b14a5d5706b21007bc21310:058790fb88613e6a71028aafa2258403
+#EXTVLCOPT:http-header-User-Agent=Mozilla/5.0 (Linux; Android 13; UltraBox Build/TP1A.220624.014; wv) AppleWebKit/537.36 (KHTML, like Gecko) Version/4.0 Chrome/136.0.7103.61 Mobile Safari/537.36
+https://linearjitp-playback.astro.com.my/dash-wv/linear/134/default_primary.mpd
+
+#EXTINF:0 group-title="Astro",RWT.M3U8?USERNAME=VIP_3KLP0ES8&PASSWORD=WG3PIWES&CHANNEL=CERIA
+https://load.ptv2026.com/rwt.m3u8?username=vip_3klp0es8&password=wg3piwEs&channel=ceria
+
+#EXTINF:0 group-title="Astro",RWT.M3U8?USERNAME=VIP_3KLP0ES8&PASSWORD=WG3PIWES&CHANNEL=RIA
+https://load.ptv2026.com/rwt.m3u8?username=vip_3klp0es8&password=wg3piwEs&channel=ria
+
+#EXTINF:0 group-title="Astro",SINAR
+#KODIPROP:inputstream.adaptive.manifest_type=dash
+#KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
+#KODIPROP:inputstream.adaptive.license_key=7af3ec1f2db077ae6374a018cbb48510:9458ed76e85f1ad8aa7eefcdbd628908
+#EXTVLCOPT:http-header-User-Agent=Mozilla/5.0 (Linux; Android 13; UltraBox Build/TP1A.220624.014; wv) AppleWebKit/537.36 (KHTML, like Gecko) Version/4.0 Chrome/136.0.7103.61 Mobile Safari/537.36
+https://linearjitp-playback.astro.com.my/dash-wv/linear/130/default_primary.mpd
+
+#EXTINF:0 group-title="Astro",TRAXX FM
+#KODIPROP:inputstream.adaptive.manifest_type=dash
+#KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
+#KODIPROP:inputstream.adaptive.license_key=74c6ae20ff7e31ee2aa1812bc7931310:865a25aba8134164791b29793d7b97db
+#EXTVLCOPT:http-header-User-Agent=Mozilla/5.0 (Linux; Android 13; UltraBox Build/TP1A.220624.014; wv) AppleWebKit/537.36 (KHTML, like Gecko) Version/4.0 Chrome/136.0.7103.61 Mobile Safari/537.36
+https://linearjitp-playback.astro.com.my/dash-wv/linear/138/default_primary.mpd
+
+#EXTINF:0 group-title="Astro",V FM
+#KODIPROP:inputstream.adaptive.manifest_type=dash
+#KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
+#KODIPROP:inputstream.adaptive.license_key=ed4dc7b6e2225c45634e9d63272a9b10:57d4290607a9a3a163de07388fcdf58d
+#EXTVLCOPT:http-header-User-Agent=Mozilla/5.0 (Linux; Android 13; UltraBox Build/TP1A.220624.014; wv) AppleWebKit/537.36 (KHTML, like Gecko) Version/4.0 Chrome/136.0.7103.61 Mobile Safari/537.36
+https://linearjitp-playback.astro.com.my/dash-wv/linear/133/default_primary.mpd
+
+#EXTINF:0 group-title="Astro",WAI FM
+#KODIPROP:inputstream.adaptive.manifest_type=dash
+#KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
+#KODIPROP:inputstream.adaptive.license_key=bde4784bc64eb326169d11c10a0b1510:bc9df5e162c5692669a8ec6366c9e4db
+#EXTVLCOPT:http-header-User-Agent=Mozilla/5.0 (Linux; Android 13; UltraBox Build/TP1A.220624.014; wv) AppleWebKit/537.36 (KHTML, like Gecko) Version/4.0 Chrome/136.0.7103.61 Mobile Safari/537.36
+https://linearjitp-playback.astro.com.my/dash-wv/linear/137/default_primary.mpd
+
+#EXTINF:0 group-title="Astro",ZAYAN
+#KODIPROP:inputstream.adaptive.manifest_type=dash
+#KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
+#KODIPROP:inputstream.adaptive.license_key=f8366fd866e0ef521268b53446203610:8ac6d3ead461c5c1497ab25a8bd1f619
+#EXTVLCOPT:http-header-User-Agent=Mozilla/5.0 (Linux; Android 13; UltraBox Build/TP1A.220624.014; wv) AppleWebKit/537.36 (KHTML, like Gecko) Version/4.0 Chrome/136.0.7103.61 Mobile Safari/537.36
+https://linearjitp-playback.astro.com.my/dash-wv/linear/142/default_primary.mpd
+
