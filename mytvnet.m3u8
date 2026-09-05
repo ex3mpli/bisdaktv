@@ -7,6 +7,24 @@
 #    -------------------   #  -----------------------  #
 #                          #                           #
 ########################################################
+#                                                      #
+#                       Domain                         #
+#               s2129132.cdn.mytvnet.vn                #
+#               s2129133.cdn.mytvnet.vn                #
+#               s2129134.cdn.mytvnet.vn                #
+#               s129135.cdn.mytvnet.vn                 #
+#               s129136.cdn.mytvnet.vn                 #
+#               s129137.cdn.mytvnet.vn                 #
+#               s7770.cdn.mytvnet.vn                   #
+#               s7771.cdn.mytvnet.vn                   #
+#               s7772.cdn.mytvnet.vn                   #
+#               s7773.cdn.mytvnet.vn                   #
+#               s7774.cdn.mytvnet.vn                   #
+#               s7775.cdn.mytvnet.vn                   #
+#               s7776.cdn.mytvnet.vn                   #
+#               s7777.cdn.mytvnet.vn                   #
+#                                                      #
+########################################################
 
 #EXTINF:0 group-title="Mytvnet",ABC AUSTRALIA
 #KODIPROP:inputstream.adaptive.manifest_type=dash
