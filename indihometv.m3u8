@@ -11,12 +11,6 @@
 #EXTINF:0 group-title="IndiHomeTV",ANIMAX
 https://cdnbal1.indihometv.com/atm/DASH/animax/manifest.mpd
 
-#EXTINF:0 group-title="IndiHomeTV",ANIMAX
-https://cdnbal1.indihometv.com/atm/DASH/animax/manifest.mpd
-
-#EXTINF:0 group-title="IndiHomeTV",AXN
-https://cdnbal1.indihometv.com/atm/DASH/axn/manifest.mpd#EXTM3U
-
 #EXTINF:0 group-title="IndiHomeTV",AXN
 https://cdnbal1.indihometv.com/atm/DASH/axn/manifest.mpd
 
