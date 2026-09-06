@@ -8,7 +8,7 @@
 #                          #                          #
 #######################################################
 
-#EXTINF:0 group-title="iWant",ABC Australia
+#EXTINF:0 group-title="iWant",ABC AUSTRALIA
 #KODIPROP:inputstream.adaptive.manifest_type=dash
 #KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
 #KODIPROP:inputstream.adaptive.license_key=11223344556677889900112233445566:4b80724d0ef86bcb2c21f7999d67739d
@@ -20,7 +20,7 @@ https://abslive.akamaized.net/dash/live/2027618/abc-au/manifest.mpd
 #KODIPROP:inputstream.adaptive.license_key=11223344556677889900112233445566:4b80724d0ef86bcb2c21f7999d67739d
 https://abslive.akamaized.net/dash/live/2027618/anc-ph3/manifest.mpd
 
-#EXTINF:0 group-title="iWant",Cinema One
+#EXTINF:0 group-title="iWant",CINEMA ONE
 #KODIPROP:inputstream.adaptive.manifest_type=dash
 #KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
 #KODIPROP:inputstream.adaptive.license_key=11223344556677889900112233445566:4b80724d0ef86bcb2c21f7999d67739d
@@ -29,43 +29,43 @@ https://abslive.akamaized.net/dash/live/2027618/c1ph/manifest.mpd
 #EXTINF:0 group-title="iWant",CNA
 https://dai4s4shjeg0o.cloudfront.net/iWantTVPh82ba2069c285/9c5127dd7652483785dece590f60b299/master.m3u8
 
-#EXTINF:0 group-title="iWant",Euronews
+#EXTINF:0 group-title="iWant",EURONEWS
 #KODIPROP:inputstream.adaptive.manifest_type=dash
 #KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
 #KODIPROP:inputstream.adaptive.license_key=11223344556677889900112233445566:4b80724d0ef86bcb2c21f7999d67739d
 https://abslive.akamaized.net/dash/live/2027618/euronews/manifest.mpd
 
-#EXTINF:0 group-title="iWant",GMA Life TV
+#EXTINF:0 group-title="iWant",GMA LIFE TV
 #KODIPROP:inputstream.adaptive.manifest_type=dash
 #KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
 #KODIPROP:inputstream.adaptive.license_key=11223344556677889900112233445566:4b80724d0ef86bcb2c21f7999d67739d
 https://abslive.akamaized.net/dash/live/2099522/glife3/manifest.mpd
 
-#EXTINF:0 group-title="iWant",GMA News TV
+#EXTINF:0 group-title="iWant",GMA NEWS TV
 #KODIPROP:inputstream.adaptive.manifest_type=dash
 #KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
 #KODIPROP:inputstream.adaptive.license_key=11223344556677889900112233445566:4b80724d0ef86bcb2c21f7999d67739d
 https://abslive.akamaized.net/dash/live/2099522/gnews3/manifest.mpd
 
-#EXTINF:0 group-title="iWant",GMA Pinoy TV
+#EXTINF:0 group-title="iWant",GMA PINOY TV
 #KODIPROP:inputstream.adaptive.manifest_type=dash
 #KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
 #KODIPROP:inputstream.adaptive.license_key=11223344556677889900112233445566:4b80724d0ef86bcb2c21f7999d67739d
 https://abslive.akamaized.net/dash/live/2099522/gmapt3/manifest.mpd
 
-#EXTINF:0 group-title="iWant",JeepneyTV
+#EXTINF:0 group-title="iWant",JEEPNEYTV
 #KODIPROP:inputstream.adaptive.manifest_type=dash
 #KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
 #KODIPROP:inputstream.adaptive.license_key=11223344556677889900112233445566:4b80724d0ef86bcb2c21f7999d67739d
 https://abslive.akamaized.net/dash/live/2027618/jeepneytv/manifest.mpd
 
-#EXTINF:0 group-title="iWant",Kapamilya Channel
+#EXTINF:0 group-title="iWant",KAPAMILYA CHANNEL
 #KODIPROP:inputstream.adaptive.manifest_type=dash
 #KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
 #KODIPROP:inputstream.adaptive.license_key=11223344556677889900112233445566:4b80724d0ef86bcb2c21f7999d67739d
 https://cdn-ue1-prod.tsv2.amagi.tv/linear/amg01006-abs-cbn-kapcha-dash-abscbnono/manifest.mpd
 
-#EXTINF:0 group-title="iWant",Knowledge Channel
+#EXTINF:0 group-title="iWant",KNOWLEDGE CHANNEL
 #KODIPROP:inputstream.adaptive.manifest_type=dash
 #KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
 #KODIPROP:inputstream.adaptive.license_key=11223344556677889900112233445566:4b80724d0ef86bcb2c21f7999d67739d
@@ -83,13 +83,13 @@ https://abslive.akamaized.net/dash/live/2027618/mor/manifest.mpd
 #KODIPROP:inputstream.adaptive.license_key=11223344556677889900112233445566:4b80724d0ef86bcb2c21f7999d67739d
 https://cdn-ue1-prod.tsv2.amagi.tv/linear/amg01006-abs-cbn-myxnola-dash-abscbnono/index.mpd
 
-#EXTINF:0 group-title="iWant",Teleradyo
+#EXTINF:0 group-title="iWant",TELERADYO
 #KODIPROP:inputstream.adaptive.manifest_type=dash
 #KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
 #KODIPROP:inputstream.adaptive.license_key=11223344556677889900112233445566:4b80724d0ef86bcb2c21f7999d67739d
 https://cdn-ue1-prod.tsv2.amagi.tv/linear/amg01006-abs-cbn-teleradyo-dash-abscbnono/index.mpd
 
-#EXTINF:0 group-title="iWant",TFC Asia
+#EXTINF:0 group-title="iWant",TFC ASIA
 #KODIPROP:inputstream.adaptive.manifest_type=dash
 #KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
 #KODIPROP:inputstream.adaptive.license_key=11223344556677889900112233445566:4b80724d0ef86bcb2c21f7999d67739d
