@@ -8,43 +8,43 @@
 #                          #                          #
 #######################################################
 
-#EXTINF:0 ch-number="1" group-title="IndiHomeTV",Animax
+#EXTINF:0 group-title="IndiHomeTV",ANIMAX
 https://cdnbal1.indihometv.com/atm/DASH/animax/manifest.mpd
 
-#EXTINF:0 ch-number="2" group-title="IndiHomeTV",AXN
+#EXTINF:0 group-title="IndiHomeTV",ANIMAX
+https://cdnbal1.indihometv.com/atm/DASH/animax/manifest.mpd
+
+#EXTINF:0 group-title="IndiHomeTV",AXN
 https://cdnbal1.indihometv.com/atm/DASH/axn/manifest.mpd#EXTM3U
-
-#EXTINF:0 group-title="IndiHomeTV",Animax
-https://cdnbal1.indihometv.com/atm/DASH/animax/manifest.mpd
 
 #EXTINF:0 group-title="IndiHomeTV",AXN
 https://cdnbal1.indihometv.com/atm/DASH/axn/manifest.mpd
 
-#EXTINF:0 group-title="IndiHomeTV",CBeebies
+#EXTINF:0 group-title="IndiHomeTV",CBEEBIES
 https://cdnbal1.indihometv.com/atm/DASH/cbeebies/manifest.mpd
 
-#EXTINF:0 group-title="IndiHomeTV",Celestial Movies
+#EXTINF:0 group-title="IndiHomeTV",CELESTIAL MOVIES
 https://cdnbal1.indihometv.com/atm/DASH/celestialmovie/manifest.mpd
 
-#EXTINF:0 group-title="IndiHomeTV",Cinemax
+#EXTINF:0 group-title="IndiHomeTV",CINEMAX
 https://cdnbal1.indihometv.com/atm/DASH/cinemax/manifest.mpd
 
-#EXTINF:0 group-title="IndiHomeTV",Discovery Channel
+#EXTINF:0 group-title="IndiHomeTV",DISCOVERY CHANNEL
 https://cdnbal1.indihometv.com/atm/DASH/disco/manifest.mpd
 
-#EXTINF:0 group-title="IndiHomeTV",Fashion TV
+#EXTINF:0 group-title="IndiHomeTV",FASHION TV
 https://cdnbal1.indihometv.com/atm/DASH/fashiontv/manifest.mpd
 
-#EXTINF:0 group-title="IndiHomeTV",Fight Sport
+#EXTINF:0 group-title="IndiHomeTV",FIGHT SPORT
 https://cdnbal1.indihometv.com/atm/DASH/fightsport/manifest.mpd
 
-#EXTINF:0 group-title="IndiHomeTV",History
+#EXTINF:0 group-title="IndiHomeTV",HISTORY
 https://cdnbal1.indihometv.com/atm/DASH/history/manifest.mpd
 
 #EXTINF:0 group-title="IndiHomeTV",HITS
 https://cdnbal1.indihometv.com/atm/DASH/hits/manifest.mpd
 
-#EXTINF:0 group-title="IndiHomeTV",HITS Movies
+#EXTINF:0 group-title="IndiHomeTV",HITS MOVIES
 https://cdnbal1.indihometv.com/atm/DASH/hitsmovie/manifest.mpd
 
 #EXTINF:0 group-title="IndiHomeTV",K+
@@ -53,19 +53,18 @@ https://cdnbal1.indihometv.com/atm/DASH/kplus/kplus-avc1_2500000=7-3277707030000
 #EXTINF:0 group-title="IndiHomeTV",KIX
 https://cdnbal1.indihometv.com/atm/DASH/kix/manifest.mpd
 
-#EXTINF:0 group-title="IndiHomeTV",My Kids
+#EXTINF:0 group-title="IndiHomeTV",MY KIDS
 https://cdnbal1.indihometv.com/atm/DASH/mykids/manifest.mpd
 
-#EXTINF:0 group-title="IndiHomeTV",Nickelodeon
+#EXTINF:0 group-title="IndiHomeTV",NICKELODEON
 https://cdnbal1.indihometv.com/atm/DASH/nickelodeon/manifest.mpd
 
-#EXTINF:0 group-title="IndiHomeTV",Thrill
+#EXTINF:0 group-title="IndiHomeTV",THRILL
 https://cdnbal1.indihometv.com/atm/DASH/thrill/manifest.mpd
 
-#EXTINF:0 group-title="IndiHomeTV",TV5 Monde
+#EXTINF:0 group-title="IndiHomeTV",TV5 MONDE
 https://cdnbal1.indihometv.com/atm/DASH/tv5monde/manifest.mpd
 
-#EXTINF:0 group-title="IndiHomeTV",tvN Movies
+#EXTINF:0 group-title="IndiHomeTV",TVN MOVIES
 https://cdnbal1.indihometv.com/atm/DASH/tvnmovies/manifest.mpd
-
 
