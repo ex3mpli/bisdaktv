@@ -63,7 +63,7 @@ https://abslive.akamaized.net/dash/live/2027618/jeepneytv/manifest.mpd
 #KODIPROP:inputstream.adaptive.manifest_type=dash
 #KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
 #KODIPROP:inputstream.adaptive.license_key={"292dee4236d04054910e9706ee22626b":"b7c5d3220f6eb6e042a2bcb367b5c09b"}
-https://cdn-ue1-prod.tsv2.amagi.tv/linear/amg01006-abs-cbn-kapcha-dash-abscbnono/manifest.mpd
+https://abslive.akamaized.net/dash/live/2027618/kapcha/manifest.mpd
 
 #EXTINF:0 group-title="iWant",KNOWLEDGE CHANNEL
 #KODIPROP:inputstream.adaptive.manifest_type=dash
@@ -81,17 +81,17 @@ https://abslive.akamaized.net/dash/live/2027618/mor/manifest.mpd
 #KODIPROP:inputstream.adaptive.manifest_type=dash
 #KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
 #KODIPROP:inputstream.adaptive.license_key={"f40a52a3ac9b4702bdd5b735d910fd2f":"35e4893c6e76546085941be3010932d4"}
-https://cdn-ue1-prod.tsv2.amagi.tv/linear/amg01006-abs-cbn-myxnola-dash-abscbnono/index.mpd
+https://live-faws.akamaized.net/out/v1/e897a7b6414a46019818ee9f2c081c4f/index.mpd
 
 #EXTINF:0 group-title="iWant",TELERADYO
 #KODIPROP:inputstream.adaptive.manifest_type=dash
 #KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
 #KODIPROP:inputstream.adaptive.license_key={"47c093e0c9fd4f80839a0337da3dd876":"603248b858276f533a13e17f2f48c711"}
-https://cdn-ue1-prod.tsv2.amagi.tv/linear/amg01006-abs-cbn-teleradyo-dash-abscbnono/index.mpd
+https://live-faws.akamaized.net/out/v1/0fa4eb67579d41cca4ed146c93aa855f/index.mpd
 
 #EXTINF:0 group-title="iWant",TFC ASIA
 #KODIPROP:inputstream.adaptive.manifest_type=dash
 #KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
 #KODIPROP:inputstream.adaptive.license_key={"9568cc84e1d944f38eac304517eab6fd":"2c8306892361e3fba18cb142f31ec775"}
-https://cdn-ue1-prod.tsv2.amagi.tv/linear/amg01006-abs-cbn-tfcasia-dash-abscbnono/index.mpd
+https://live-faws.akamaized.net/out/v1/e3633f8591e248b0af1af15a474bfa4a/index.mpd
 
