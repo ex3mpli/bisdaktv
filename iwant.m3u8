@@ -11,19 +11,19 @@
 #EXTINF:0 group-title="iWant",ABC AUSTRALIA
 #KODIPROP:inputstream.adaptive.manifest_type=dash
 #KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
-#KODIPROP:inputstream.adaptive.license_key={"11223344556677889900112233445566":"4b80724d0ef86bcb2c21f7999d67739d"}
+#KODIPROP:inputstream.adaptive.license_key={"b8c98095d1e44569a725ef30fb8682c8":"0e1dd4e7374f17a2f44b695227e5843b"}
 https://abslive.akamaized.net/dash/live/2027618/abc-au/manifest.mpd
 
 #EXTINF:0 group-title="iWant",ANC
 #KODIPROP:inputstream.adaptive.manifest_type=dash
 #KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
-#KODIPROP:inputstream.adaptive.license_key={"11223344556677889900112233445566":"4b80724d0ef86bcb2c21f7999d67739d"}
+#KODIPROP:inputstream.adaptive.license_key={"b6d6e536f8fa4d8b93627af0128cf00d":"e73c8dcfdea374ae576ced342f6c73a2"}
 https://abslive.akamaized.net/dash/live/2027618/anc-ph3/manifest.mpd
 
 #EXTINF:0 group-title="iWant",CINEMA ONE
 #KODIPROP:inputstream.adaptive.manifest_type=dash
 #KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
-#KODIPROP:inputstream.adaptive.license_key={"11223344556677889900112233445566":"4b80724d0ef86bcb2c21f7999d67739d"}
+#KODIPROP:inputstream.adaptive.license_key={"55eddd1e157e4c3b830866e4679e7032":"525030e984567ba8df0af80660952368"}
 https://abslive.akamaized.net/dash/live/2027618/c1ph/manifest.mpd
 
 #EXTINF:0 group-title="iWant",CNA
@@ -32,66 +32,66 @@ https://dai4s4shjeg0o.cloudfront.net/iWantTVPh82ba2069c285/9c5127dd7652483785dec
 #EXTINF:0 group-title="iWant",EURONEWS
 #KODIPROP:inputstream.adaptive.manifest_type=dash
 #KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
-#KODIPROP:inputstream.adaptive.license_key={"11223344556677889900112233445566":"4b80724d0ef86bcb2c21f7999d67739d"}
+#KODIPROP:inputstream.adaptive.license_key={"9ab8802bff2a49b29518d771b9a9a8bd":"51ecbc7e4dc790904c13cebde5eb46fb"}
 https://abslive.akamaized.net/dash/live/2027618/euronews/manifest.mpd
 
 #EXTINF:0 group-title="iWant",GMA LIFE TV
 #KODIPROP:inputstream.adaptive.manifest_type=dash
 #KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
-#KODIPROP:inputstream.adaptive.license_key={"11223344556677889900112233445566":"4b80724d0ef86bcb2c21f7999d67739d"}
+#KODIPROP:inputstream.adaptive.license_key={"5d308ef487f54107b7da758e195ecbd3":"9d4004d4c065dd4b85ad5bd12c35386f"}
 https://abslive.akamaized.net/dash/live/2099522/glife3/manifest.mpd
 
 #EXTINF:0 group-title="iWant",GMA NEWS TV
 #KODIPROP:inputstream.adaptive.manifest_type=dash
 #KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
-#KODIPROP:inputstream.adaptive.license_key={"11223344556677889900112233445566":"4b80724d0ef86bcb2c21f7999d67739d"}
+#KODIPROP:inputstream.adaptive.license_key={"d5d848730e4a4f9b962290039dd2b96b":"c959dc12f1bff5a66d030117fb7e9855"}
 https://abslive.akamaized.net/dash/live/2099522/gnews3/manifest.mpd
 
 #EXTINF:0 group-title="iWant",GMA PINOY TV
 #KODIPROP:inputstream.adaptive.manifest_type=dash
 #KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
-#KODIPROP:inputstream.adaptive.license_key={"11223344556677889900112233445566":"4b80724d0ef86bcb2c21f7999d67739d"}
+#KODIPROP:inputstream.adaptive.license_key={"7b5d15a7385546768aca9fd505ad5e16":"f534393c84c1a9c17fa36bc3a4380981"}
 https://abslive.akamaized.net/dash/live/2099522/gmapt3/manifest.mpd
 
 #EXTINF:0 group-title="iWant",JEEPNEYTV
 #KODIPROP:inputstream.adaptive.manifest_type=dash
 #KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
-#KODIPROP:inputstream.adaptive.license_key={"11223344556677889900112233445566":"4b80724d0ef86bcb2c21f7999d67739d"}
+#KODIPROP:inputstream.adaptive.license_key={"dc9fec234a5841bb8d06e92042c741ec":"225676f32612dc803cb4d0f950d063d0"}
 https://abslive.akamaized.net/dash/live/2027618/jeepneytv/manifest.mpd
 
 #EXTINF:0 group-title="iWant",KAPAMILYA CHANNEL
 #KODIPROP:inputstream.adaptive.manifest_type=dash
 #KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
-#KODIPROP:inputstream.adaptive.license_key={"11223344556677889900112233445566":"4b80724d0ef86bcb2c21f7999d67739d"}
+#KODIPROP:inputstream.adaptive.license_key={"292dee4236d04054910e9706ee22626b":"b7c5d3220f6eb6e042a2bcb367b5c09b"}
 https://cdn-ue1-prod.tsv2.amagi.tv/linear/amg01006-abs-cbn-kapcha-dash-abscbnono/manifest.mpd
 
 #EXTINF:0 group-title="iWant",KNOWLEDGE CHANNEL
 #KODIPROP:inputstream.adaptive.manifest_type=dash
 #KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
-#KODIPROP:inputstream.adaptive.license_key={"11223344556677889900112233445566":"4b80724d0ef86bcb2c21f7999d67739d"}
+#KODIPROP:inputstream.adaptive.license_key={"bd1f88dd3b254514bf7a113188c10dc2":"ea86da60f0116f3b92a86acf45b8e071"}
 https://abslive.akamaized.net/dash/live/2027618/kc/manifest.mpd
 
 #EXTINF:0 group-title="iWant",MOR
 #KODIPROP:inputstream.adaptive.manifest_type=dash
 #KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
-#KODIPROP:inputstream.adaptive.license_key={"11223344556677889900112233445566":"4b80724d0ef86bcb2c21f7999d67739d"}
+#KODIPROP:inputstream.adaptive.license_key={"7e5905e0a87641798a200510f01ae5ca":"814310518395440d57c67f2ef70ea250"}
 https://abslive.akamaized.net/dash/live/2027618/mor/manifest.mpd
 
 #EXTINF:0 group-title="iWant",MYX
 #KODIPROP:inputstream.adaptive.manifest_type=dash
 #KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
-#KODIPROP:inputstream.adaptive.license_key={"11223344556677889900112233445566":"4b80724d0ef86bcb2c21f7999d67739d"}
+#KODIPROP:inputstream.adaptive.license_key={"f40a52a3ac9b4702bdd5b735d910fd2f":"35e4893c6e76546085941be3010932d4"}
 https://cdn-ue1-prod.tsv2.amagi.tv/linear/amg01006-abs-cbn-myxnola-dash-abscbnono/index.mpd
 
 #EXTINF:0 group-title="iWant",TELERADYO
 #KODIPROP:inputstream.adaptive.manifest_type=dash
 #KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
-#KODIPROP:inputstream.adaptive.license_key={"11223344556677889900112233445566":"4b80724d0ef86bcb2c21f7999d67739d"}
+#KODIPROP:inputstream.adaptive.license_key={"47c093e0c9fd4f80839a0337da3dd876":"603248b858276f533a13e17f2f48c711"}
 https://cdn-ue1-prod.tsv2.amagi.tv/linear/amg01006-abs-cbn-teleradyo-dash-abscbnono/index.mpd
 
 #EXTINF:0 group-title="iWant",TFC ASIA
 #KODIPROP:inputstream.adaptive.manifest_type=dash
 #KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
-#KODIPROP:inputstream.adaptive.license_key={"11223344556677889900112233445566":"4b80724d0ef86bcb2c21f7999d67739d"}
+#KODIPROP:inputstream.adaptive.license_key={"9568cc84e1d944f38eac304517eab6fd":"2c8306892361e3fba18cb142f31ec775"}
 https://cdn-ue1-prod.tsv2.amagi.tv/linear/amg01006-abs-cbn-tfcasia-dash-abscbnono/index.mpd
 
