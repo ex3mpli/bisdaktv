@@ -8,11 +8,25 @@
 #                          #                          #
 #######################################################
 
+#EXTM3U
+
 #EXTINF:0 group-title="Cignal",A2Z
 #KODIPROP:inputstream.adaptive.manifest_type=dash
 #KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
 #KODIPROP:inputstream.adaptive.license_key=f3a8c9126e544d809b312c7f5a8e6140:43f5361983896b47ff01b4f77c5dbf3f
 https://ucdn.mediaquest.com.ph/bpk-tv/cg_a2z/default/index.mpd
+
+#EXTINF:0 group-title="Cignal",ABANTE NEWS
+#KODIPROP:inputstream.adaptive.manifest_type=dash
+#KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
+#KODIPROP:inputstream.adaptive.license_key=e5b2c7091a464d839f25b7c6e018a432:9a933efca0ae690102cc9594b29803bf
+https://ucdn.mediaquest.com.ph/bpk-tv/cg_abante_news/default/index.mpd
+
+#EXTINF:0 group-title="Cignal",ABC AUSTRALIA
+#KODIPROP:inputstream.adaptive.manifest_type=dash
+#KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
+#KODIPROP:inputstream.adaptive.license_key=d6f1a8c29b7e4d5a8f332c1e9d7b6a90:790bd17b9e623e832003a993a2de1d87
+https://ucdn.mediaquest.com.ph/bpk-tv/abc_aus/default/index.mpd
 
 #EXTINF:0 group-title="Cignal",AL JAZEERA
 #KODIPROP:inputstream.adaptive.manifest_type=dash
@@ -32,7 +46,7 @@ https://ucdn.mediaquest.com.ph/bpk-tv/cg_animal_planet_sd/default/index.mpd
 #KODIPROP:inputstream.adaptive.license_key=a7d3f5916c844b209e158f3a7d5c2046:021fe5515e7dfb1a00a98d51abd0cb7f
 https://ucdn.mediaquest.com.ph/bpk-tv/cg_animax_sd_new/default/index.mpd
 
-#EXTINF:0 group-title="Cignal",ARIRANG KOREA
+#EXTINF:0 group-title="Cignal",ARIRANG
 #KODIPROP:inputstream.adaptive.manifest_type=dash
 #KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
 #KODIPROP:inputstream.adaptive.license_key=7d4f9c216a834e508b165c3a7d9e2048:9d148906d890053a00f5e581185ac066
@@ -56,7 +70,13 @@ https://ucdn.mediaquest.com.ph/bpk-tv/cg_axn_sd/default/index.mpd
 #KODIPROP:inputstream.adaptive.license_key=4f9c6e217a354d80b9268e5c3f1a7042:41b33eebbacf91fe6c86bd28081bf3fd
 https://ucdn.mediaquest.com.ph/bpk-tv/cg_bbcearth_hd1/default/index.mpd
 
-#EXTINF:0 group-title="Cignal",BBC NEWS
+#EXTINF:0 group-title="Cignal",BBC LIFESTYLE
+#KODIPROP:inputstream.adaptive.manifest_type=dash
+#KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
+#KODIPROP:inputstream.adaptive.license_key=34880f56627c11ee8c990242ac120002:c23677c829bb244b79a3dc09ffd88ca0
+https://ucdn.mediaquest.com.ph/bpk-tv/cg_bbclifestyle/default/index.mpd
+
+#EXTINF:0 group-title="Cignal",BBC WORLD NEWS
 #KODIPROP:inputstream.adaptive.manifest_type=dash
 #KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
 #KODIPROP:inputstream.adaptive.license_key=f1a6e8329c574b048d216e5f3a7c9048:8106237b47f99be13f4e941ca5bd35c5
@@ -74,19 +94,13 @@ https://ucdn.mediaquest.com.ph/bpk-tv/bilyonaryoch/default/index.mpd
 #KODIPROP:inputstream.adaptive.license_key=19f6c8325a744d90b2618e3f7c2a5049:784fffb38dc4fb6d5b74de822074feb4
 https://ucdn.mediaquest.com.ph/bpk-tv/bloomberg_sd/default/index.mpd
 
-#EXTINF:0 group-title="Cignal",BUKO
-#KODIPROP:inputstream.adaptive.manifest_type=dash
-#KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
-#KODIPROP:inputstream.adaptive.license_key=c8b1d5f42a674e93b8016f2d9c7a5e34:168bbf02d7eca252a61a402e25cb33f5
-https://ucdn.mediaquest.com.ph/bpk-tv/cg_buko_sd/default/index.mpd
-
 #EXTINF:0 group-title="Cignal",CARTOON NETWORK
 #KODIPROP:inputstream.adaptive.manifest_type=dash
 #KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
 #KODIPROP:inputstream.adaptive.license_key=53c8e6914d724f30a9168b5e2c7d1043:1e17afbdfff786533796780f3f04aa67
 https://ucdn.mediaquest.com.ph/bpk-tv/cartoonnetworkhd/default/index.mpd
 
-#EXTINF:0 group-title="Cignal",CCTV 4
+#EXTINF:0 group-title="Cignal",CCTV4
 #KODIPROP:inputstream.adaptive.manifest_type=dash
 #KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
 #KODIPROP:inputstream.adaptive.license_key=83e5c4917d624b00a2196f3c8a5e2047:d8fae6a24d5df3fa8e17a8f4a4854426
@@ -104,13 +118,7 @@ https://ucdn.mediaquest.com.ph/bpk-tv/celmovie_pinoy_sd/default/index.mpd
 #KODIPROP:inputstream.adaptive.license_key=f2a7d6318c544b099e216d5f3a7c8042:1abff1626a5403fa2ea8964c2f3b9c1d
 https://ucdn.mediaquest.com.ph/bpk-tv/cgtn/default/index.mpd
 
-#EXTINF:0 group-title="Cignal",CINEMAX
-#KODIPROP:inputstream.adaptive.manifest_type=dash
-#KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
-#KODIPROP:inputstream.adaptive.license_key=d7a9c5215e364b809f148c2d6a7e3045:c92a3b4a7fe9fab97c130468260b963f
-https://ucdn.mediaquest.com.ph/bpk-tv/cg_cinemax/default/index.mpd
-
-#EXTINF:0 group-title="Cignal",CNA
+#EXTINF:0 group-title="Cignal",CHANNEL NEWS ASIA
 #KODIPROP:inputstream.adaptive.manifest_type=dash
 #KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
 #KODIPROP:inputstream.adaptive.license_key=56d8c4917a234e60b9159f3a6c7d2048:e6f0a100b6a2fcda66e8554f8c9b510b
@@ -122,19 +130,19 @@ https://ucdn.mediaquest.com.ph/bpk-tv/channelnewsasia/default/index.mpd
 #KODIPROP:inputstream.adaptive.license_key=1d9f6b828c454a17b2395e7d3f90a621:c5776d83cbf50c9354f27b1c830e1996
 https://ucdn.mediaquest.com.ph/bpk-tv/cg_cnnhd/default/index.mpd
 
-#EXTINF:0 group-title="Cignal",CRIME & INVESTIGATION
+#EXTINF:0 group-title="Cignal",CRIME + INVESTIGATION
 #KODIPROP:inputstream.adaptive.manifest_type=dash
 #KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
 #KODIPROP:inputstream.adaptive.license_key=e7a3d5916c824b459f105d8e2c7a3046:616f8ab0c416966e8de415cb60e9e6cf
 https://ucdn.mediaquest.com.ph/bpk-tv/crime_invest/default/index.mpd
 
-#EXTINF:0 group-title="Cignal",DEPED TV
+#EXTINF:0 group-title="Cignal",DEPED CHANNEL
 #KODIPROP:inputstream.adaptive.manifest_type=dash
 #KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
 #KODIPROP:inputstream.adaptive.license_key=c1a5e8329d644f70b2187a3c6e5d2041:55979431f291f7dff35a43b73b3c2a36
 https://ucdn.mediaquest.com.ph/bpk-tv/depedch_sd/default/index.mpd
 
-#EXTINF:0 group-title="Cignal",DISCOVERY CHANNEL
+#EXTINF:0 group-title="Cignal",DISCOVERY
 #KODIPROP:inputstream.adaptive.manifest_type=dash
 #KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
 #KODIPROP:inputstream.adaptive.license_key=d5a7f8219c364e50b2147f6d3a8c9025:c77d5e56c52c4065c42594422ac85e2c
@@ -164,7 +172,7 @@ https://ucdn.mediaquest.com.ph/bpk-tv/fashiontvhd/default/index.mpd
 #KODIPROP:inputstream.adaptive.license_key=b1f4a8926c374d509e218a7c3f5d6049:15cde0b44b44f38ea936513a99606c1b
 https://ucdn.mediaquest.com.ph/bpk-tv/cg_foodnetwork_hd1/default/index.mpd
 
-#EXTINF:0 group-title="Cignal",FRANCE 24
+#EXTINF:0 group-title="Cignal",FRANCE24
 #KODIPROP:inputstream.adaptive.manifest_type=dash
 #KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
 #KODIPROP:inputstream.adaptive.license_key=92d8f3416c754b09a2187e5d3a9c6042:4e668d238bc656b7d2c7535757aa9531
@@ -206,7 +214,7 @@ https://ucdn.mediaquest.com.ph/bpk-tv/hitsmovies/default/index.mpd
 #KODIPROP:inputstream.adaptive.license_key=24a8e6917c534d809f165b3e6a2d9047:183f05bcb80e9cfcb613b8c767777f27
 https://ucdn.mediaquest.com.ph/bpk-tv/cg_hitsnow/default/index.mpd
 
-#EXTINF:0 group-title="Cignal",IBC 13
+#EXTINF:0 group-title="Cignal",IBC13
 #KODIPROP:inputstream.adaptive.manifest_type=dash
 #KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
 #KODIPROP:inputstream.adaptive.license_key=f4a8d6216c954e709b187d3a5f2c8049:34710df996a4089ee6f7e8deb7f46586
@@ -260,6 +268,12 @@ https://ucdn.mediaquest.com.ph/bpk-tv/cg_moonbug_kids_sd/default/index.mpd
 #KODIPROP:inputstream.adaptive.license_key=2f7c9a615d834e40b2188a6d3c7f9042:41d2ade5ff1798859420e925d5d2080d
 https://ucdn.mediaquest.com.ph/bpk-tv/cgnl_nba/default/index.mpd
 
+#EXTINF:0 group-title="Cignal",NCAA NXT
+#KODIPROP:inputstream.adaptive.manifest_type=dash
+#KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
+#KODIPROP:inputstream.adaptive.license_key=c6e4b9218f534a709d165c3a7e2f8048:87c0e7cf73324aea32dada7b5f33063d
+https://ucdn.mediaquest.com.ph/bpk-tv/cg_hbofam/default/index.mpd
+
 #EXTINF:0 group-title="Cignal",NHK JAPAN
 #KODIPROP:inputstream.adaptive.manifest_type=dash
 #KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
@@ -296,7 +310,7 @@ https://ucdn.mediaquest.com.ph/bpk-tv/oneph_sd/default/index.mpd
 #KODIPROP:inputstream.adaptive.license_key=69f5a2318d744c609b125e3a7d8f2046:182523c0bae912e17e916dd4283280e9
 https://ucdn.mediaquest.com.ph/bpk-tv/cg_onesports_hd/default/index.mpd
 
-#EXTINF:0 group-title="Cignal",ONE SPORTS+
+#EXTINF:0 group-title="Cignal",ONE SPORTS PLUS
 #KODIPROP:inputstream.adaptive.manifest_type=dash
 #KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
 #KODIPROP:inputstream.adaptive.license_key=e9c4f7312a854d69b0137f6e8c2a5490:1105fa92173b06885be336b887bc4d26
@@ -307,6 +321,66 @@ https://ucdn.mediaquest.com.ph/bpk-tv/cg_onesportsplus_hd1/default/index.mpd
 #KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
 #KODIPROP:inputstream.adaptive.license_key=91a5e6327c844f09b2186d3a5e7c2041:984beb3aeff3554c1a5acc04d6044e55
 https://ucdn.mediaquest.com.ph/bpk-tv/cg_pbarush_hd1/default/index.mpd
+
+#EXTINF:0 group-title="Cignal",PILIPINAS LIVE 1
+#KODIPROP:inputstream.adaptive.manifest_type=dash
+#KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
+#KODIPROP:inputstream.adaptive.license_key=73f8c2915d644e70b2189a3c6d7f2045:fb199597a99e601c9bc8767a1b20312b
+https://ucdn.mediaquest.com.ph/bpk-tv/pl_sdi1/default/index.mpd
+
+#EXTINF:0 group-title="Cignal",PILIPINAS LIVE 10
+#KODIPROP:inputstream.adaptive.manifest_type=dash
+#KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
+#KODIPROP:inputstream.adaptive.license_key=63055a8904644407a64a57874703f71e:0fd611777d37a7ff8afce19d9cee2e91
+https://ucdn.mediaquest.com.ph/bpk-tv/pl_sdi10/default/index.mpd
+
+#EXTINF:0 group-title="Cignal",PILIPINAS LIVE 2
+#KODIPROP:inputstream.adaptive.manifest_type=dash
+#KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
+#KODIPROP:inputstream.adaptive.license_key=c5a8f3917d424e809b166f3c2a7d9045:6a7f2a17bad0a84674108234403d5fa0
+https://ucdn.mediaquest.com.ph/bpk-tv/pl_sdi2/default/index.mpd
+
+#EXTINF:0 group-title="Cignal",PILIPINAS LIVE 3
+#KODIPROP:inputstream.adaptive.manifest_type=dash
+#KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
+#KODIPROP:inputstream.adaptive.license_key=c2f8d6917a354e60b2196d3c5a8f9042:2f593fbabad7a9f968c9fec691d59806
+https://ucdn.mediaquest.com.ph/bpk-tv/pl_sdi3/default/index.mpd
+
+#EXTINF:0 group-title="Cignal",PILIPINAS LIVE 4
+#KODIPROP:inputstream.adaptive.manifest_type=dash
+#KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
+#KODIPROP:inputstream.adaptive.license_key=e9a4d6316c854b008f175d3a7e2c9048:d7e06c12d35cfd2e13d8f3d3094941a3
+https://ucdn.mediaquest.com.ph/bpk-tv/pl_sdi4/default/index.mpd
+
+#EXTINF:0 group-title="Cignal",PILIPINAS LIVE 5
+#KODIPROP:inputstream.adaptive.manifest_type=dash
+#KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
+#KODIPROP:inputstream.adaptive.license_key=b4f7c8219d624e30a9156c3a5d7f2048:60391d7d3bb726a4a95e66c4c0af219d
+https://ucdn.mediaquest.com.ph/bpk-tv/pl_sdi5/default/index.mpd
+
+#EXTINF:0 group-title="Cignal",PILIPINAS LIVE 6
+#KODIPROP:inputstream.adaptive.manifest_type=dash
+#KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
+#KODIPROP:inputstream.adaptive.license_key=f3d8a6915c724b609e146a7f3c2d8049:20b4724a4d406c3a89c7b0d7084626a0
+https://ucdn.mediaquest.com.ph/bpk-tv/pl_sdi6/default/index.mpd
+
+#EXTINF:0 group-title="Cignal",PILIPINAS LIVE 7
+#KODIPROP:inputstream.adaptive.manifest_type=dash
+#KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
+#KODIPROP:inputstream.adaptive.license_key=5a7e9c316d424b80a2183f5c7d9e2046:746ca1548780fc4d8cc9fc948403a3da
+https://ucdn.mediaquest.com.ph/bpk-tv/pl_sdi7/default/index.mpd
+
+#EXTINF:0 group-title="Cignal",PILIPINAS LIVE 8
+#KODIPROP:inputstream.adaptive.manifest_type=dash
+#KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
+#KODIPROP:inputstream.adaptive.license_key=d6c9a4218e534f099b167c3a5d2e8048:980ec0896ae1ba03f46d85453798b708
+https://ucdn.mediaquest.com.ph/bpk-tv/pl_sdi8/default/index.mpd
+
+#EXTINF:0 group-title="Cignal",PILIPINAS LIVE 9
+#KODIPROP:inputstream.adaptive.manifest_type=dash
+#KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
+#KODIPROP:inputstream.adaptive.license_key=1c8e5a927d434f60b2196a3c9e5d8041:33af0fd38e463d1c747a2cb0b203c42e
+https://ucdn.mediaquest.com.ph/bpk-tv/pl_sdi9/default/index.mpd
 
 #EXTINF:0 group-title="Cignal",PREMIER SPORTS
 #KODIPROP:inputstream.adaptive.manifest_type=dash
@@ -320,7 +394,7 @@ https://ucdn.mediaquest.com.ph/bpk-tv/cg_ps_hd1/default/index.mpd
 #KODIPROP:inputstream.adaptive.license_key=72e4b9c13f864a52a9178d6c0e5b2394:9390c1edae5ecf680c168daf44bf6a03
 https://ucdn.mediaquest.com.ph/bpk-tv/premiersports2hd/default/index.mpd
 
-#EXTINF:0 group-title="Cignal",PTV 4
+#EXTINF:0 group-title="Cignal",PTV4
 #KODIPROP:inputstream.adaptive.manifest_type=dash
 #KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
 #KODIPROP:inputstream.adaptive.license_key=f8c2a6915d744b309e186a3f7c2d8049:1ad3243b38c60312caa6ba11f150c19c
@@ -350,17 +424,17 @@ https://ucdn.mediaquest.com.ph/bpk-tv/cnn_rptv_prod_hd/default/index.mpd
 #KODIPROP:inputstream.adaptive.license_key=c5e8a3927d414b609f286a3c5e1d7049:7c5edbd3d090bb6de9a9c3685defa959
 https://ucdn.mediaquest.com.ph/bpk-tv/cg_spotvhd/default/index.mpd
 
-#EXTINF:0 group-title="Cignal",SPOTV 2
+#EXTINF:0 group-title="Cignal",SPOTV2
 #KODIPROP:inputstream.adaptive.manifest_type=dash
 #KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
-#KODIPROP:inputstream.adaptive.license_key=b2d8f6315c494e07a8129f6a3d5c2048:6b4247def21bbd0d08629a3cb4c62ee9
+#KODIPROP:inputstream.adaptive.license_key=f28d730090f64e229fb255b2afa6e36e:53d432c60f419541c7319dc1b6508e2c
 https://ucdn.mediaquest.com.ph/bpk-tv/dr_spotv2hd/default/index.mpd
 
-#EXTINF:0 group-title="Cignal",TAGALOG MOVIE CHANNEL
+#EXTINF:0 group-title="Cignal",STUDIO UNIVERSAL
 #KODIPROP:inputstream.adaptive.manifest_type=dash
 #KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
-#KODIPROP:inputstream.adaptive.license_key=27f6c4818a534d09b2169e5c7a3f6048:fbd8e319511ff5a1593f5b68da7b81cd
-https://ucdn.mediaquest.com.ph/bpk-tv/cg_tagalogmovie/default/index.mpd
+#KODIPROP:inputstream.adaptive.license_key=f8391e9130634854b4614f02ec028ea7:9b9640f873cf906b91dd03c02612d5ce
+https://ucdn.mediaquest.com.ph/bpk-tv/cg_studio_universal_hd/default/index.mpd
 
 #EXTINF:0 group-title="Cignal",TAP MOVIES
 #KODIPROP:inputstream.adaptive.manifest_type=dash
@@ -380,17 +454,17 @@ https://ucdn.mediaquest.com.ph/bpk-tv/dr_tapsports/default/index.mpd
 #KODIPROP:inputstream.adaptive.license_key=b8c3d5906e424f17a9215d8c7a2e6043:02ce48f1b48f7cbdc3e2703a56e8fa31
 https://ucdn.mediaquest.com.ph/bpk-tv/cg_thrill_sd/default/index.mpd
 
+#EXTINF:0 group-title="Cignal",TMC
+#KODIPROP:inputstream.adaptive.manifest_type=dash
+#KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
+#KODIPROP:inputstream.adaptive.license_key=27f6c4818a534d09b2169e5c7a3f6048:fbd8e319511ff5a1593f5b68da7b81cd
+https://ucdn.mediaquest.com.ph/bpk-tv/cg_tagalogmovie/default/index.mpd
+
 #EXTINF:0 group-title="Cignal",TRAVEL CHANNEL
 #KODIPROP:inputstream.adaptive.manifest_type=dash
 #KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
 #KODIPROP:inputstream.adaptive.license_key=18c6f9235b744d81a0397e2c9f6a5048:7974c1376447c563f5fdb41be0104ddf
 https://ucdn.mediaquest.com.ph/bpk-tv/travel_channel_sd/default/index.mpd
-
-#EXTINF:0 group-title="Cignal",TRUE FM TV
-#KODIPROP:inputstream.adaptive.manifest_type=dash
-#KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
-#KODIPROP:inputstream.adaptive.license_key=8c4e9a516d724f30b2187a3c5e9d6041:e25c167573772b510ff8e5282560a349
-https://ucdn.mediaquest.com.ph/bpk-tv/truefm_tv/default/index.mpd
 
 #EXTINF:0 group-title="Cignal",TV MARIA
 #KODIPROP:inputstream.adaptive.manifest_type=dash
@@ -402,7 +476,7 @@ https://ucdn.mediaquest.com.ph/bpk-tv/tvmaria_prd/default/index.mpd
 #KODIPROP:inputstream.adaptive.manifest_type=dash
 #KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
 #KODIPROP:inputstream.adaptive.license_key=9c3e7a516d824f04a9175b8c2e3d7040:524a9c2cec98272f71c347345a3fd12e
-https://ucdn.mediaquest.com.ph/bpk-tv/tv5_hd/default/index.mpd
+https://ucdn.mediaquest.com.ph/bpk-tv/tv5_hd/default1/index.mpd
 
 #EXTINF:0 group-title="Cignal",TV5 MONDE
 #KODIPROP:inputstream.adaptive.manifest_type=dash
@@ -410,19 +484,19 @@ https://ucdn.mediaquest.com.ph/bpk-tv/tv5_hd/default/index.mpd
 #KODIPROP:inputstream.adaptive.license_key=e6b4c8217a954d309f165c8e2a3d7049:1acbc3a347d31fa2236f180574342e71
 https://ucdn.mediaquest.com.ph/bpk-tv/dr_tv5_monde/default/index.mpd
 
-#EXTINF:0 group-title="Cignal",TVN MOVIE
+#EXTINF:0 group-title="Cignal",TVN MOVIES
 #KODIPROP:inputstream.adaptive.manifest_type=dash
 #KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
 #KODIPROP:inputstream.adaptive.license_key=e6c9a4215d734f608b197c3e2a5d9048:ec695ab203cb2258db220b3863e2a7ee
 https://ucdn.mediaquest.com.ph/bpk-tv/cg_tvnmovie/default/index.mpd
 
-#EXTINF:0 group-title="Cignal",TVN PREMIER
+#EXTINF:0 group-title="Cignal",TVN PREMIUM
 #KODIPROP:inputstream.adaptive.manifest_type=dash
 #KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
 #KODIPROP:inputstream.adaptive.license_key=3a7f9c615d824e40a9168c5b2d7f3049:2bc91eced1660ecf88299a42e4c0cd91
 https://ucdn.mediaquest.com.ph/bpk-tv/cg_tvnpre/default/index.mpd
 
-#EXTINF:0 group-title="Cignal",UAAP VARSITY CHANNEL
+#EXTINF:0 group-title="Cignal",UAAP VARSITY
 #KODIPROP:inputstream.adaptive.manifest_type=dash
 #KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
 #KODIPROP:inputstream.adaptive.license_key=b6c9f4218d734a059e165c3d7a2f8049:948aa5c0d0c15c70efb9257f5b75c379
