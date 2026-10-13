@@ -8,8 +8,6 @@
 #                          #                          #
 #######################################################
 
-#EXTM3U
-
 #EXTINF:0 group-title="Cignal",A2Z
 #KODIPROP:inputstream.adaptive.manifest_type=dash
 #KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
