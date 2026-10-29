@@ -14,6 +14,12 @@
 #KODIPROP:inputstream.adaptive.license_key={"b8c98095d1e44569a725ef30fb8682c8":"0e1dd4e7374f17a2f44b695227e5843b"}
 https://abslive.akamaized.net/dash/live/2027618/abc-au/manifest.mpd
 
+#EXTINF:0 group-title="iWant",ALJAZEERA
+#KODIPROP:inputstream.adaptive.manifest_type=dash
+#KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
+#KODIPROP:inputstream.adaptive.license_key={"46b3dec4633d43cc977a909f3b052797":"50e4bebef6f870b3b55bf62b3ffa3c1e"}
+https://absp-live.akamaized.net/dash/live/2099522/aljazeera/manifest.mpd
+
 #EXTINF:0 group-title="iWant",ANC
 #KODIPROP:inputstream.adaptive.manifest_type=dash
 #KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
@@ -29,11 +35,23 @@ https://abslive.akamaized.net/dash/live/2027618/c1ph/manifest.mpd
 #EXTINF:0 group-title="iWant",CNA
 https://dai4s4shjeg0o.cloudfront.net/iWantTVPh82ba2069c285/9c5127dd7652483785dece590f60b299/master.m3u8
 
+#EXTINF:0 group-title="iWant",DINING AREA
+#KODIPROP:inputstream.adaptive.manifest_type=dash
+#KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
+#KODIPROP:inputstream.adaptive.license_key={"ac87b335cfd44a8589f96a4f8534c674":"4b9066c7778e74b899c2f57d977149b1"}
+https://absp-live.akamaized.net/dash/live/2099522/pbbcollab30allaccesslivestream-diningarea/manifest.mpd
+
 #EXTINF:0 group-title="iWant",EURONEWS
 #KODIPROP:inputstream.adaptive.manifest_type=dash
 #KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
 #KODIPROP:inputstream.adaptive.license_key={"9ab8802bff2a49b29518d771b9a9a8bd":"51ecbc7e4dc790904c13cebde5eb46fb"}
 https://abslive.akamaized.net/dash/live/2027618/euronews/manifest.mpd
+
+#EXTINF:0 group-title="iWant",EXTERNAL DEN
+#KODIPROP:inputstream.adaptive.manifest_type=dash
+#KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
+#KODIPROP:inputstream.adaptive.license_key={"01f5f16338aa4302b5fc5e3e2c50cd3d":"0dbd0f05009fa64614de990f56b3f322"}
+https://absp-live.akamaized.net/dash/live/2099522/pbbcollab30allaccesslivestream-externalden/manifest.mpd
 
 #EXTINF:0 group-title="iWant",GMA LIFE TV
 #KODIPROP:inputstream.adaptive.manifest_type=dash
@@ -62,15 +80,20 @@ https://abslive.akamaized.net/dash/live/2027618/jeepneytv/manifest.mpd
 #EXTINF:0 group-title="iWant",KAPAMILYA CHANNEL
 #KODIPROP:inputstream.adaptive.manifest_type=dash
 #KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
-#KODIPROP:inputstream.adaptive.license_key={"292dee4236d04054910e9706ee22626b":"b7c5d3220f6eb6e042a2bcb367b5c09b"}
+#KODIPROP:inputstream.adaptive.license_key={"bd17afb5dc9648a39be79ee3634dd4b8":"b475084a1a58857e18480e30fbb0e544"}
 https://live-faws.akamaized.net/out/v1/efa01372657648be830e7c23ff68bea2/index.mpd
-https://cdn-ue1-prod.tsv2.amagi.tv/linear/amg01006-abs-cbn-kapcha-dash-abscbnono/index.mpd
 
 #EXTINF:0 group-title="iWant",KNOWLEDGE CHANNEL
 #KODIPROP:inputstream.adaptive.manifest_type=dash
 #KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
 #KODIPROP:inputstream.adaptive.license_key={"bd1f88dd3b254514bf7a113188c10dc2":"ea86da60f0116f3b92a86acf45b8e071"}
 https://abslive.akamaized.net/dash/live/2027618/kc/manifest.mpd
+
+#EXTINF:0 group-title="iWant",MAIN LIVESTREAM
+#KODIPROP:inputstream.adaptive.manifest_type=dash
+#KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
+#KODIPROP:inputstream.adaptive.license_key={"5208606a1a5e4750bc7aaafa3bbad84c":"246d9c7efc6d96d8d596aa294313e17b"}
+https://absp-live.akamaized.net/dash/live/2099522/pbbcollab30allaccesslivestream/manifest.mpd
 
 #EXTINF:0 group-title="iWant",MOR
 #KODIPROP:inputstream.adaptive.manifest_type=dash
@@ -83,6 +106,12 @@ https://abslive.akamaized.net/dash/live/2027618/mor/manifest.mpd
 #KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
 #KODIPROP:inputstream.adaptive.license_key={"f40a52a3ac9b4702bdd5b735d910fd2f":"35e4893c6e76546085941be3010932d4"}
 https://live-faws.akamaized.net/out/v1/e897a7b6414a46019818ee9f2c081c4f/index.mpd
+
+#EXTINF:0 group-title="iWant",PINOY BIG BROTHER COLLAB EDITION 3.0 LIVE
+#KODIPROP:inputstream.adaptive.manifest_type=dash
+#KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
+#KODIPROP:inputstream.adaptive.license_key={"02b0d6aa78d547af890c9e27113e81af":"890160f8ece56b8cd232889acb74e276"}
+https://abslive.akamaized.net/dash/live/2027618/pinoybigbrothercollabedition30live/manifest.mpd
 
 #EXTINF:0 group-title="iWant",TELERADYO
 #KODIPROP:inputstream.adaptive.manifest_type=dash
