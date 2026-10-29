@@ -63,7 +63,8 @@ https://abslive.akamaized.net/dash/live/2027618/jeepneytv/manifest.mpd
 #KODIPROP:inputstream.adaptive.manifest_type=dash
 #KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
 #KODIPROP:inputstream.adaptive.license_key={"292dee4236d04054910e9706ee22626b":"b7c5d3220f6eb6e042a2bcb367b5c09b"}
-https://abslive.akamaized.net/dash/live/2027618/kapcha/manifest.mpd
+https://live-faws.akamaized.net/out/v1/efa01372657648be830e7c23ff68bea2/index.mpd
+https://cdn-ue1-prod.tsv2.amagi.tv/linear/amg01006-abs-cbn-kapcha-dash-abscbnono/index.mpd
 
 #EXTINF:0 group-title="iWant",KNOWLEDGE CHANNEL
 #KODIPROP:inputstream.adaptive.manifest_type=dash
